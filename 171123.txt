@@ -1,0 +1,10 @@
+Buy: ['ES']:[-1]
+Overweight: ['ES']:[1]
+['ILMN']:[-1]
+[]:[]
+[]:[]
+Daily P\L 117.72 bps
+Top performer SEDG with 14.24 bps
+Bottom performer BIO with -3.76 bps
+Highest NAV% PAYC with 6.31%
+Lowest NAV% PNW with 1.26%
