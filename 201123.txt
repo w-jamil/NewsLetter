@@ -1,0 +1,8 @@
+Buy: ['GPN' 'PAYC']:[1.0, -2.0]
+Overweight: ['PAYC' 'GPN']:[1.0, -1.0]
+Hold['CAT' 'MAA']:[1.0, -1.0]
+Underweight:[]:[]
+Sell:[]:[]
+Week P\L 2.62%
+ENPH 0.7%, CTLT 0.5%, DVA 0.4%, ALB 0.4% and NCLH 0.4% were top performers this week 
+CHTR(0.17%), ON(0.18), HRL(0.20%), CVX(0.20%) and PAYC(0.57%) were the bottom performers this week 
