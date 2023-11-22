@@ -1,0 +1,10 @@
+Buy: ['ZION']:[-1]
+Overweight: ['J' 'EL']:[1, -1]
+Hold['EL' 'ZION' 'APA' 'UDR']:[1, 1, -1, -1]
+Underweight:[]:[]
+Sell:[]:[]
+Daily P\L -132.71 bps
+Top performer RVTY with 2.64 bps
+Bottom performer PAYC with -15.09 bps
+Highest NAV% PAYC with 6.34%
+Lowest NAV% PNW with 1.26%
