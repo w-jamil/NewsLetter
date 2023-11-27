@@ -1,0 +1,129 @@
+17/11/23
+Buy: ['ES']:[-1]
+Overweight: ['ES']:[1]
+['ILMN']:[-1]
+[]:[]
+[]:[]
+Daily P\L 117.72 bps
+Top performer SEDG with 14.24 bps
+Bottom performer BIO with -3.76 bps
+Highest NAV% PAYC with 6.31%
+Lowest NAV% PNW with 1.26%
+
+20/11/23
+
+Buy: ['GPN' 'PAYC']:[1.0, -2.0]
+Overweight: ['PAYC' 'GPN']:[1.0, -1.0]
+Hold['CAT' 'MAA']:[1.0, -1.0]
+Underweight:[]:[]
+Sell:[]:[]
+Week P\L 2.62%
+ENPH 0.7%, CTLT 0.5%, DVA 0.4%, ALB 0.4% and NCLH 0.4% were top performers this week 
+CHTR(0.17%), ON(0.18), HRL(0.20%), CVX(0.20%) and PAYC(0.57%) were the bottom performers this week 
+Buy: ['GPN' 'PAYC']:[1.0, -2.0]
+Overweight: ['PAYC' 'GPN']:[1.0, -1.0]
+Hold['CAT' 'MAA']:[1.0, -1.0]
+Underweight:[]:[]
+Sell:[]:[]
+Daily P\L 117.72 bps
+Top performer SEDG with 14.24 bps
+Bottom performer BIO with -3.76 bps
+Highest NAV% PAYC with 6.31%
+Lowest NAV% PNW with 1.26%
+
+Buy: ['GPN' 'PAYC']:[1.0, -2.0]
+Overweight: ['PAYC' 'GPN']:[1.0, -1.0]
+Hold['CAT' 'MAA']:[1.0, -1.0]
+Underweight:[]:[]
+Sell:[]:[]
+Daily P\L 119.38 bps
+Top performer ENPH with 30.13 bps
+Bottom performer NCLH with -5.34 bps
+Highest NAV% PAYC with 6.4%
+Lowest NAV% PNW with 1.24%
+
+21/11/23
+
+Dollar General: Growing Risk And Shrinking Opportunity
+BK: Lunate and BNY Mellon to invest in new wealth technology company
+Enphase: Still A Long-Term Opportunity Amid Near-Term Weakness
+Trimble: Navigating Through Freight Downturns And Hardware Weaknesses, But Growth Is Still Positive
+Merck: A Dividend Growth Stock Worth Considering
+
+Buy: ['ENPH' 'SEDG' 'APTV']:[1.0, 1.0, -1.0]
+Overweight: []:[]
+Hold[]:[]
+Underweight:[]:[]
+Sell:[]:[]
+Daily P\L 119.38 bps
+Top performer ENPH with 30.13 bps
+Bottom performer NCLH with -5.34 bps
+Highest NAV% PAYC with 6.4%
+Lowest NAV% PNW with 1.24%
+
+Buy: ['APTV']:[1]
+Overweight: []:[]
+Hold[]:[]
+Underweight:[]:[]
+Sell:[]:[]
+Daily P\L -132.71 bps
+Top performer RVTY with 2.64 bps
+Bottom performer PAYC with -15.09 bps
+Highest NAV% PAYC with 6.34%
+Lowest NAV% PNW with 1.26%
+
+22/11/23
+
+Buy: []:[]
+Overweight: []:[]
+Hold['APA' 'J' 'UDR']:[1, 2, -1]
+Underweight:[]:[]
+Sell:['UDR']:[1]
+Daily P\L 93.39 bps
+Top performer Realised with 40.44 bps
+Bottom performer WBA with -3.13 bps
+Highest NAV% PAYC with 6.46%
+Lowest NAV% WEC with 0.94%
+
+Aptiv: Share Price Drop Is An Overreaction 
+BKNG: Spain's anti-trust agency clears Amazon, Booking, Tripadvisor over allegations of fake reviews
+Jefferies U.S. quant portfolio - ROIC stars and high yield 
+Silver Lake likely to sell a big portion of its Broadcom stake soon - report
+Bristol Myers Squibb: A Bitter Pill But Still A Buy
+
+Buy: []:[]
+Overweight: []:[]
+Hold['APA' 'J' 'UDR']:[1, 2, -1]
+Underweight:[]:[]
+Sell:['UDR']:[1]
+Daily P\L 93.39 bps
+Top performer Realised with 40.44 bps
+Bottom performer WBA with -3.13 bps
+Highest NAV% PAYC with 6.46%
+Lowest NAV% WEC with 0.94%
+
+
+24/11/23
+
+Buy: []:[]
+Overweight: []:[]
+Hold[]:[]
+Underweight:[]:[]
+Sell:[]:[]
+Daily P\L 93.39 bps
+Top performer Realised with 40.44 bps
+Bottom performer WBA with -3.13 bps
+Highest NAV% PAYC with 6.46%
+Lowest NAV% WEC with 0.94%
+
+27/11/23 Before Open
+BUY: [DG UDR] [-1,-1]. CPT HOLD: -1 and F SELL: -1
+
+27/11/23 Aftar Close
+P\L: -137 bps  
+ALB with a loss of -20bps
+FMC buy downgraded by 1
+
+Dividend: EL with payout ratio 1.21
+Earning estimates: WHR with 1.81 earning surprise
+Revenue surprise: CVX with 1.08 surprise
