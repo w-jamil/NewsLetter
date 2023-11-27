@@ -123,7 +123,7 @@ BUY: [DG UDR] [-1,-1]. CPT HOLD: -1 and F SELL: -1
 P\L: -137 bps  
 ALB with a loss of -20bps
 FMC buy downgraded by 1
-
+DHI HOLD upgraded by 1
 Dividend: EL with payout ratio 1.21
 Earning estimates: WHR with 1.81 earning surprise
 Revenue surprise: CVX with 1.08 surprise
