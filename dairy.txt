@@ -140,5 +140,11 @@ Sell: EW upgraded by 1
 
 28/11/23 Afrer the bell
 
-Buy: IFF and MAA upgraded by 1
-Hold: IFF downgraded by 1
+Buy: IFF,MAA and EL upgraded by 1. ALB downgraded by 1.
+Hold: IFF downgraded by 1. UDR upgraded by 1
+
+P\L: 74.19 bps 
+MTCH 8.37 bps
+ALGN -5.37 bps
+
+
