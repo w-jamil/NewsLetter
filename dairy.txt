@@ -138,3 +138,7 @@ Buy: EL upgraded by 1, ALB and MS downgraded by 1
 Hold: UDR and MS upgraded by 1 and EW downgraded by 1
 Sell: EW upgraded by 1
 
+28/11/23 Afrer the bell
+
+Buy: IFF and MAA upgraded by 1
+Hold: IFF downgraded by 1
