@@ -127,3 +127,11 @@ DHI HOLD upgraded by 1
 Dividend: EL with payout ratio 1.21
 Earning estimates: WHR with 1.81 earning surprise
 Revenue surprise: CVX with 1.08 surprise
+
+28/11/23 Before Open 
+
+BWA Ex-div date 30/11/23
+EL Ex-div date 29/11/23
+
+Buy: EL upgraded by 1 and ALB downgraded by 1
+Hold: UDR upgraded by 1
