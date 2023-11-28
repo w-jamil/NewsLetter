@@ -130,8 +130,11 @@ Revenue surprise: CVX with 1.08 surprise
 
 28/11/23 Before Open 
 
-BWA Ex-div date 30/11/23
+BWA Ex-div date 30/11/23 
 EL Ex-div date 29/11/23
+IPG Ex-div date 30/11/23
+KO Ex-div date 30/11/23
+Buy: EL upgraded by 1, ALB and MS downgraded by 1 
+Hold: UDR and MS upgraded by 1 and EW downgraded by 1
+Sell: EW upgraded by 1
 
-Buy: EL upgraded by 1 and ALB downgraded by 1
-Hold: UDR upgraded by 1
