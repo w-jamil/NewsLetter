@@ -161,3 +161,7 @@ Overweight: [TRMB]:[-1]
 Hold:[BWA]:[-1]
 
 SD:1.06%, VaR:1.74% and CVaR:2.34%
+
+BUY: EL(1) and MAA(1)
+HOLD: ALB(1) and MAA(-1)
+
