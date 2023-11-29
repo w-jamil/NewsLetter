@@ -166,3 +166,4 @@ BUY: EL(1) and MAA(1)
 HOLD: ALB(1) and MAA(-1)
 
 HRL: Hormel Foods Non-GAAP EPS of $0.42 misses by $0.03, revenue of $3.2B misses by $70M
+Albemarle: More Pain Short Term
