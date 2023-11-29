@@ -171,3 +171,9 @@ Albemarle: More Pain Short Term
 GM shares surge 7% in premarket trades on share buyback and dividend boost
 
 LME wins lawsuit over cancellation of nickel trades
+
+P\L 84.79 bps
+HOLD:ALB(1)
+Top performerSEDG 15.43 bps
+Bottom performer ALGN -7.36 bps
+
