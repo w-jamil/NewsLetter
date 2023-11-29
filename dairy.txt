@@ -156,3 +156,8 @@ GameStop stock’s best day since January driven by fresh wave of speculative be
 Morgan Stanley: AI-Fueled Growth
 AT&T: A Single Quarter Will Not Turn The Ship Around
 
+BUY:[ALB, TRMB, UDR]:[1,1,-1]
+Overweight: [TRMB]:[-1]
+Hold:[BWA]:[-1]
+
+SD:1.06%, VaR:1.74% and CVaR:2.34%
