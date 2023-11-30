@@ -147,6 +147,11 @@ P\L: 74.19 bps
 MTCH 8.37 bps
 ALGN -5.37 bps
 
+SD Long 16.49%, SD Short 14.21%, VaR Long 22.78%, VaR Short 20.18%, CVaR Long 21.07% and CVaR Short 18.69%
+BUY: [ALB,HSY,UDR]:[1,-1,-1]
+HOLD: [HSY]:[1]
+
+
 29/11/23
 
 Biggest stock movers today: Workday, Las Vegas Sands and more
@@ -176,4 +181,5 @@ P\L 84.79 bps
 HOLD:ALB(1)
 Top performerSEDG 15.43 bps
 Bottom performer ALGN -7.36 bps
+
 
