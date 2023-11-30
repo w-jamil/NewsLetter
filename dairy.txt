@@ -185,6 +185,7 @@ Bottom performer ALGN -7.36 bps
 HOLD: [ALB,LVS,PFE]:[1,1,-1]. 
 SD LONG -3.14%, SD SHORT -1.48%, VaR LONG -0.65%, VAR SHORT -3.99%, CVAR LONG -1.3% and CVAR SHORT -3.38%.
 
-BUY:EL(-1)
-HOLD:MAR(-1)
+BUY:EL(-1) and FMC(1)
+HOLD:MAR(-1) and ALB(1)
 Underweight:MAR(-1)
+
