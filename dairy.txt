@@ -193,3 +193,6 @@ BUY: BBWI(1)
 LONG-Only change:SD, VaR, CVaR, -25%,-37% and -34%
 ESG LONG risk change: SD -3.14%, VaR -0.65% and CVaR -1.3%
 ESG Short risk change: SD -1.48%, VaR -3.99% and CVaR -3.38%
+
+BUY: DHI(1), ILMN(1) AND F(-1)
+HOLD: F(1) AND DHI(-1)
