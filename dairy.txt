@@ -205,3 +205,5 @@ HOLD: HUM(1)
 RISK Long: SD 34.72%, VaR 20.05% and CVaR 24.77%
 RISK Short: SD 18.67%, VaR 25.53% and CVaR 24.18%
 Headlines: Wall Street has discovered what's really driving US Stocks higher in 2023. Impeachment inquiry into Biden
+
+EX-DIV: 12/28/23 HUM/MKC. 12/27/23 IFF. AVGO 12/19/23. APH 12/18/23. WRB 12/15/23. GILD/MRK/ALB 12/14/23 
