@@ -201,9 +201,21 @@ Fed interest rate followed by Powell press conference.Climate negotiators agree 
 
 BUY: ILMN(3),TPR(1),WYNN(1),DG(-1),HUM(-1)
 
-HOLD: HUM(1)AP
+HOLD: HUM(1)
 RISK Long: SD 34.72%, VaR 20.05% and CVaR 24.77%
 RISK Short: SD 18.67%, VaR 25.53% and CVaR 24.18%
 Headlines: Wall Street has discovered what's really driving US Stocks higher in 2023. Impeachment inquiry into Biden
 
-EX-DIV: 12/28/23 HUM/MKC. 12/27/23 IFF. AVGO 12/19/23. APH 12/18/23. WRB 12/15/23. GILD/MRK/ALB 12/14/23 
+EX-DIV: 12/28/23 HUM/MKC. 12/27/23 IFF. AVGO 12/19/23. APH 12/18/23. WRB 12/15/23. GILD/MRK/ALB 12/14/23
+
+14/12/23 After the bell
+
+BUY: ZBH(1)
+HOLD: ZBH(-1)
+RISK LONG: SD 11.54%, VaR -0.13% and CVaR 3.92%
+RISK SHORT: SD 2.75%, VaR -2.25% and CVaR -1.31%
+
+DOW scores back-to-back record close after Fed pencils in 2024 rates cuts
+Markets declaring victory over inflation for Powel
+
+ 
