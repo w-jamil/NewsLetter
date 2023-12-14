@@ -197,5 +197,10 @@ ESG Short risk change: SD -1.48%, VaR -3.99% and CVaR -3.38%
 BUY: DHI(1), ILMN(1) AND F(-1)
 HOLD: F(1) AND DHI(-1)
 
-Fed interest rate followed by Powell press conference
-Climate negotiators agree COP28 to transition away from fossil fuel
+Fed interest rate followed by Powell press conference.Climate negotiators agree COP28 to transition away from fossil fuel
+
+BUY: ILMN(3),TPR(1),WYNN(1),DG(-1),HUM(-1)
+HOLD: HUM(1)
+RISK Long: SD 34.72%, VaR 20.05% and CVaR 24.77%
+RISK Short: SD 18.67%, VaR 25.53% and CVaR 24.18%
+Headlines: Wall Street has discovered what's really driving US Stocks higher in 2023. Impeachment inquiry into Biden
