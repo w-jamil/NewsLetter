@@ -218,4 +218,8 @@ RISK SHORT: SD 2.75%, VaR -2.25% and CVaR -1.31%
 DOW scores back-to-back record close after Fed pencils in 2024 rates cuts
 Markets declaring victory over inflation for Powel
 
- 
+BUY:BIO	2(0), BRO 2(0), ILMN 5(1), PNC 5(1) and ZBH 4(1)
+OUTPERFORM: BIO 3(-1), BRO 3(0), ILMN 5(1), PNC 7(1) and ZBH 6(1)
+HOLD: BIO 2(1), BRO 8(-1), ILMN 9(0), PNC 9(-1) and ZBH 16(-1)
+UNDERPERFORM: BIO 0(0), BRO 1(1), ILMN 3(0), PNC 3(0) and ZBH 2(0)
+SELL: BIO 0(0), BRO 0(0), ILMN 1(0), PNC 0(0) and ZBH 0(0)
