@@ -256,7 +256,7 @@ P\L: 6.93 bps
 
 BUY: AMGN 6(1), NEE 5(-1). OUTPERFORM: NEE 13(1) AND NXPI 11(1). HOLD: AMGN 9(-1)
  
-
+P\L: $3982. NAV% 0.02%.
 
 
 
