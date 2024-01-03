@@ -306,7 +306,7 @@ OUTPERFORM: EL 8(-1). LNT 3(-1). HOLD: EL 19(1). LNT 8(1).
 RISK LONG: SD -9.34%. VaR -2.1%. CVaR -4.26%.
 RISK SHORT: SD 1.23%. VaR 6.19%. CVaR 4.86%.
 
-
+P\L: $3323, NAV% 0.33%
 
 
 
