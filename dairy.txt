@@ -354,3 +354,10 @@ VOL/SHARES: AAL 6% WBA 3.2% NCLH 2.94%
 SENTIMENT DELTA: UAL 0.54 MKC 0.01 EL 0.01
 OUTPERFORM: ALB 11(-1) AVGO 17(-1) LNT 2(-1) UAL 11(1)
 HOLD: ALB 7(1) J 3(1) LNT 9(1) NXPI 12(-1) ON 14(-1) UAL 5(-1)
+
+S&P 500 revenue growth has started to reaccelerate. Amazon leading in terms of revenue with earnings expected on 2/2/24.
+Ex-div date for Walgreens Boots Alliance 2/16/24, Pinnacle West 1/31/24 and Colorox 1/23/24. A number of changes in rattings.
+For details please visit <a href="https://www.yjw.info/lo">yjw.info/lo</a>. Carnival with 2.58 (24M) and 2.17 (60M) beta.
+Biogen with 0.05 (24M) and 0.51 (60M) beta. Phillips 66 has gap between 24M and 60M beta of (0.7), indicating decrease in market
+risk. The SD at 1%, VaR around 2% and CVaR under 3% for the stock picks and allocation. Overall inflation decreasing and optimistic 
+view on rate cuts.  
