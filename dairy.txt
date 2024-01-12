@@ -361,3 +361,7 @@ For details please visit <a href="https://www.yjw.info/lo">yjw.info/lo</a>. Carn
 Biogen with 0.05 (24M) and 0.51 (60M) beta. Phillips 66 has gap between 24M and 60M beta of (0.7), indicating decrease in market
 risk. The SD at 1%, VaR around 2% and CVaR under 3% for the stock picks and allocation. Overall inflation decreasing and optimistic 
 view on rate cuts.  
+
+UNDERPERFORM: NFLX 1(-1) JCI 1(1)
+BUY: 2(1) 7(-1) 4(1)
+HOLD: AAL 13(-1) ALB 7(1) IFF 13(-1) JCI 6(-1) LNT 9(1)
