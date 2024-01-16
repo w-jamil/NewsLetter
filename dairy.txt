@@ -378,3 +378,5 @@ CL:NYSE (Name: COLGATE-PALMOLIVE CO) announced a cash dividend with an ex-divide
 BK:NYSE (Name: BANK OF NEW YORK MELLON CORP) announced a cash dividend with an ex-dividend date of 20240119 and a payable date of 20240202.The declared cash rate is USD 0.42.
 
 HOLD: MAS 11(1) DG 15(-1). OUTPERFORM: DG 7(1).
+
+KMI EPS 0.30 IMPLIED VOL 1.5%. ANNOUNCE DATE 17/01/24.
