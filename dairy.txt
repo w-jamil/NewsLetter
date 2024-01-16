@@ -375,5 +375,4 @@ Amazon leading in terms of revenue with earnings expected on 2/2/24.Ex-div date 
 OUTPERFORM: ILMN 4(-1). HOLD: ILMN 12(1)
 
 CL:NYSE (Name: COLGATE-PALMOLIVE CO) announced a cash dividend with an ex-dividend date of 20240119 and a payable date of 20240215. The declared cash rate is USD 0.48.
-
 BK:NYSE (Name: BANK OF NEW YORK MELLON CORP) announced a cash dividend with an ex-dividend date of 20240119 and a payable date of 20240202.The declared cash rate is USD 0.42.
