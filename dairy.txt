@@ -392,3 +392,5 @@ SLB EPS 0.84 IMPLIED VOL 2.5%, 1 WEEK AVG -3.7%. STT EPS 1.83 IMPLIED VOL 4.9%, 
 HOLD: MAS 12(1). OUTPERFORM: NXPI 11(-1). 
 
 BRO EPS 0.53. UAL EPS 1.70 IMPLIED VOL 6.2%. ANNOUNCE DATE 22/01/24 AFTER CLOSE.
+
+CLX@NYSE (Name: CLOROX COMPANY) announced a cash dividend with an ex-dividend date of 20240123 and a payable date of 20240209.The declared cash rate is USD 1.2.
