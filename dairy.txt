@@ -401,3 +401,5 @@ Important economic data being released this week, includes fourth-quarter GDP an
 BUY: T 4(1). HOLD: DHI 7(1) PNC 9(-1) T 13(-1) VFC 16(1) KMI 13(1).OUTPERFORM: AVGO 17(1) DHI 12(-1) PNC 8(1) T 7(1) VFC 4(-1). 
 
 DHI EPS 2.88 IMPLIED VOL 4.7% BEFORE OPEN. MMM EPS 2.31 IMPLIED VOL 4.2% BEFORE OPEN. NFLX EPS 2.22 IMPLIED VOL 9.1%. INTRADAY. ANNOUNCE DATE 23/01/24 BEFORE OPEN. 
+
+PFE@NYSE (Name: PFIZER INC) announced a cash dividend with an ex-dividend date of 20240125 and a payable date of 03/01/24. The declared cash rate is USD 0.42.
