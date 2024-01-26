@@ -426,3 +426,5 @@ LNT@NASDAQ (Name: ALLIANT ENERGY CORP) announced a cash dividend with an ex-divi
 KMI@NYSE (Name: KINDER MORGAN INC) announced a cash dividend with an ex-dividend date of 30/01/24 and a payable date of 15/02/24. The declared cash rate is USD 0.2825.
 
 MS@NYSE (Name: MORGAN STANLEY) announced a cash dividend with an ex-dividend date of 30/01/24 and a payable date of 15/02/24. The declared cash rate is USD 0.85.
+
+LONG-ONLY:- Buy: Netflix (NFLX) 1 and Pinnacle West (PNW) 1. Overweight: Netflix (NFLX) 2, Biogen (BIIB) -1 and Intel (INTC) -1. Hold: Biogen (BIIB) 1, Intel (INTC) 2, Netflix (NFLX) -2, Pinnacle West (PNW) -1 and VF Corporation (VFC) -1. Underweight: VF Corporation (VFC) 1. ESG-LONG-SHORT:- Buy: Tesla (TSLA) -1. Overweight: Las Vegas Sands (LVS) 1, DR Horton (DHI) -1 and Humana (HUM) -1. Hold: DR Horton (DHI) 1, Humana (HUM) 1, Tesla (TSLA) 1 and Las Vegas Sands (LVS) -1.
