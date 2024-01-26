@@ -424,3 +424,5 @@ The projections for fourth quarter S&P 500 SPX aggregate earnings per share are 
 LNT@NASDAQ (Name: ALLIANT ENERGY CORP) announced a cash dividend with an ex-dividend date of 30/01/24 and a payable date of 15/02/24. The declared cash rate is USD 0.48. LO Change in top and bottom three in billions for Market Cap; Carnival (CCL) 1.47, Kimberly-Clark (KMB) 1.69, 3M (MMM) 7.26, Amazon (AMZN) -34.83, Netflix (NFLX) -26.07 and Intel (INTC) -9.91. ESG Change in top and bottom three in billions for Market Cap; Coca-Cola Company (KO) 2.85, Tesla (TSLA) 3.08, DR Horton (DHI) 6.26, Broadcom (AVGO) -15.62, Morgan Stanley (MS) -3.43 and Amphenol (APH) -1.61. 
 
 KMI@NYSE (Name: KINDER MORGAN INC) announced a cash dividend with an ex-dividend date of 30/01/24 and a payable date of 15/02/24. The declared cash rate is USD 0.2825.
+
+MS@NYSE (Name: MORGAN STANLEY) announced a cash dividend with an ex-dividend date of 30/01/24 and a payable date of 15/02/24. The declared cash rate is USD 0.85.
