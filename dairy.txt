@@ -456,3 +456,5 @@ Silver matches between 2013/12/24 and 2014/09/02 poorly.
 Oil with a short decline followed by increase, similarity with data between 2008/02/08 and 2008/10/17.
 
 GBP/USD indicating decline, similarity with data between 2018/07/30 and 2019/04/08.
+
+Silver and Oil above moving average, showing clear break-out.
