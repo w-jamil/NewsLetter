@@ -458,3 +458,5 @@ Oil with a short decline followed by increase, similarity with data between 2008
 GBP/USD indicating decline, similarity with data between 2018/07/30 and 2019/04/08.
 
 Silver and Oil above moving average, showing clear break-out.
+
+ESG-LONG-SHORT: HAS@NASDAQ (Name: HASBRO INC) announced a cash dividend with an ex-dividend date of 31/01/24 and a payable date of 15/02/24. The declared cash rate is $0.7.
