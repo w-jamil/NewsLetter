@@ -452,3 +452,5 @@ COMP sideways, similarity with data between 1976/06/07 and 1977/02/09.
 Gold rally, similarity with data between 2022/06/15 and 2023/02/24.
 
 Silver matches between 2013/12/24 and 2014/09/02 poorly.
+
+Oil with a short decline followed by increase, similarity with data between 2008/02/08 and 2008/10/17.
