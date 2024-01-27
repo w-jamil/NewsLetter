@@ -441,4 +441,6 @@ Change in LO top and bottom three in billions for Market Cap; MarketAxess (MKTX)
 
 Weekly claims at 13.23%, similarity with data between 1979-12-29 and 1981-02-28.
 
-Debt as percentage of GDP at 0.81%, similarity with data between 1991-01-01 and 2006-01-01
+Debt as percentage of GDP at 0.81%, similarity with data between 1991-01-01 and 2006-01-01.
+
+DOW indicating stability, similarity with data between 2016/05/17 and 2017/01/23.
