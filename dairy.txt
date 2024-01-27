@@ -460,3 +460,5 @@ GBP/USD indicating decline, similarity with data between 2018/07/30 and 2019/04/
 Silver and Oil above moving average, showing clear break-out.
 
 ESG-LONG-SHORT: HAS@NASDAQ (Name: HASBRO INC) announced a cash dividend with an ex-dividend date of 31/01/24 and a payable date of 15/02/24. The declared cash rate is $0.7.
+
+LONG-ONLY: PNW@NYSE (Name: PINNACLE WEST CAPITAL) announced a cash dividend with an ex-dividend date of 31/01/24 and a payable date of 01/03/24. The declared cash rate is $0.88.
