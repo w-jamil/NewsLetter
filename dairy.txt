@@ -484,3 +484,5 @@ The U.S. gross domestic product came in higher than expected, rising at a 3.3%.
 The Bureau of Economic Analysis said that the core personal consumption expenditures (PCE) price index - the Federal Reserve's preferred inflation gauge - rose 0.2% M/M in December 2023, matching the consensus figure. On an annual basis, it rose 2.9%, easing from the +3.2% Y/Y reading in November 2023 and below the anticipated number of +3.0%.
 
 Netflix's global streaming paid memberships also hit 13.1M in Q4, marking the strongest-ever final quarter. The company's net income for Q4'23 was $938 million, with diluted earnings per share (EPS) at $2.11, including a non-cash unrealized loss from foreign exchange remeasurement. Global streaming paid memberships. 12.8% year-over-year growth.
+
+Microsoft is now the second tech giant in the last year to surpass the $3T milestone, with Apple (AAPL) doing so last June.
