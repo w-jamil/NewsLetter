@@ -448,3 +448,5 @@ DOW indicating stability, similarity with data between 2016/05/17 and 2017/01/23
 S&P may see a pull back, similarity with data between 1952/05/21 and 1953/01/29.
 
 COMP sideways, similarity with data between 1976/06/07 and 1977/02/09.
+
+Gold rally, similarity with data between 2022/06/15 and 2023/02/24.
