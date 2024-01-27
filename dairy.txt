@@ -498,3 +498,5 @@ Commodities and Bonds: Crude Oil WTI +6.6% to $78.23/bbl. Gold -0.6% to $2,018.2
 Forex and Cryptos:EUR/USD -0.39%. USD/JPY +0.01%. GBP/USD +0.02%. Bitcoin +0.3%. Litecoin -5.9%. Ethereum -8%. XRP -3.6%.
 
 S&P 500 Gainers: Netflix (NFLX) +18%. American Airlines Group (AAL) +11%. Halliburton (HAL) +10%. V.F. Corporation (VFC) +10%. United Rentals (URI) +10%.
+
+S&P 500 Losers: Archer-Daniels-Midland (ADM) -24%. Tesla (TSLA) -14%. DuPont de Nemours (DD) -12%. 3M Company (MMM) -11%. Humana (HUM) -10%.
