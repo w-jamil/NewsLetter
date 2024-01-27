@@ -488,3 +488,5 @@ Netflix's global streaming paid memberships also hit 13.1M in Q4, marking the st
 Microsoft is now the second tech giant in the last year to surpass the $3T milestone, with Apple (AAPL) doing so last June.
 
 US: Dow +0.7% to 38,109. S&P 500 +1.1% to 4,891. Nasdaq +0.9% to 15,455. Russell 2000 +1.8% to 1,978. CBOE Volatility Index -0.3% to 13.26.
+
+Sectors: Consumer Staples +0.8%. Utilities +0.4%. Financials +1.9%. Telecom +4.5%. Healthcare -0.2%. Industrials +0.9%. Information Technology +0.9%. Materials +0.3%. Energy +5.2%. Consumer Discretionary -1.4%. Real Estate -0.5%.
