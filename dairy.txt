@@ -466,3 +466,5 @@ LONG-ONLY: PNW@NYSE (Name: PINNACLE WEST CAPITAL) announced a cash dividend with
 CDAY: Ceridian HCM: A Rebound Story For Growth Investors
 
 HSY: Is Hershey's Really Such A Sweet Deal Here?
+
+AT&T: Is The Thrill Of Victory Worth The Agony Of Defeat?
