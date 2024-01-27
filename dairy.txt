@@ -496,3 +496,5 @@ World: London +2.3% to 7,635. France +3.6% to 7,634. Germany +2.5% to 16,961. Ja
 Commodities and Bonds: Crude Oil WTI +6.6% to $78.23/bbl. Gold -0.6% to $2,018.2/oz. Natural Gas -3.2% to 2.18. Ten-Year Bond Yield -0.2 bps to 4.139.
 
 Forex and Cryptos:EUR/USD -0.39%. USD/JPY +0.01%. GBP/USD +0.02%. Bitcoin +0.3%. Litecoin -5.9%. Ethereum -8%. XRP -3.6%.
+
+S&P 500 Gainers: Netflix (NFLX) +18%. American Airlines Group (AAL) +11%. Halliburton (HAL) +10%. V.F. Corporation (VFC) +10%. United Rentals (URI) +10%.
