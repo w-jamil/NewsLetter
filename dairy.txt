@@ -486,3 +486,5 @@ The Bureau of Economic Analysis said that the core personal consumption expendit
 Netflix's global streaming paid memberships also hit 13.1M in Q4, marking the strongest-ever final quarter. The company's net income for Q4'23 was $938 million, with diluted earnings per share (EPS) at $2.11, including a non-cash unrealized loss from foreign exchange remeasurement. Global streaming paid memberships. 12.8% year-over-year growth.
 
 Microsoft is now the second tech giant in the last year to surpass the $3T milestone, with Apple (AAPL) doing so last June.
+
+US: Dow +0.7% to 38,109. S&P 500 +1.1% to 4,891. Nasdaq +0.9% to 15,455. Russell 2000 +1.8% to 1,978. CBOE Volatility Index -0.3% to 13.26.
