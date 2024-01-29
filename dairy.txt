@@ -520,3 +520,5 @@ LONG-SHORT. P\L: 100 USD. MKT VALUE 2377 USD. Top performers, Hershey (HSY) $262
 LONG-ONLY. P\L: 24 USD. Top performers Netflix (NFLX) $493, Intel (INTC) $192 and Newmont (NEM) $209. Bottom performers , Carnival (CCL) -$610, Paypal (PYPL) -$248 and Match Group (MTCH) -$123
 
 MTCH EPS 0.49 IMPLIED VOL 11%. ANNOUNCE DATE 30/01/24 AFTER CLOSE.
+
+SWKS EPS 1.95 IMPLIED VOL 6.1%. ANNOUNCE DATE 30/01/24 AFTER CLOSE.
