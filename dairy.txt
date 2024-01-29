@@ -514,3 +514,5 @@ Amgen: Accelerating The Business And Dividend Growth
 LONG-SHORT. BUY: HSY 3(1) TSLA 5(1). OUTPERFORM: HUM 6(-2). HOLD: HSY 17(-1) HUM 8(2).  
 
 LONG-ONLY. OUTPERFORM: INTC 5(-2) PYPL 15(1). HOLD: INTC 32(2).  
+
+LONG-SHORT. P\L: 100 USD. MKT VALUE 2377 USD. Top performers, Hershey (HSY) $262, Tesla (TSLA) $254 and Newmont (NEM) $192. Bottom performers, Albemarle (ALB) -$374, Broadcom (AVGO) -$177 and Illumina (ILMN) -$129
