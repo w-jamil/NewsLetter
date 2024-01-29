@@ -500,3 +500,5 @@ Forex and Cryptos:EUR/USD -0.39%. USD/JPY +0.01%. GBP/USD +0.02%. Bitcoin +0.3%.
 S&P 500 Gainers: Netflix (NFLX) +18%. American Airlines Group (AAL) +11%. Halliburton (HAL) +10%. V.F. Corporation (VFC) +10%. United Rentals (URI) +10%.
 
 S&P 500 Losers: Archer-Daniels-Midland (ADM) -24%. Tesla (TSLA) -14%. DuPont de Nemours (DD) -12%. 3M Company (MMM) -11%. Humana (HUM) -10%.
+
+Merck: Set To Keep Soaring Post Q4 Release.
