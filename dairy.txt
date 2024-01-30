@@ -538,3 +538,6 @@ Colgate-Palmolive: Brushing Up Profits In Q4 2023
 ESGLS. P\L -5.34 bps. NAV% 0.61%. Top performers in bps, Pizer (PFE) 0.86, Schlumberger (SLB) 1.80 and Tesla (TSLA) 6.01. Bottom performers in bps, Albemarle (ALB) -1.1, Illumina (ILMN) -1.68 and Whirlpool Corporation (WHR) -11.19.
 
 LO. P\L: -14.25 bps. Top performers in bps, Amazon (AMZN) 0.52, Match Group (MTCH) 0.59 and MarketAxess (MKTX) 2.54. Bottom performers  in bps, Carnival (CCL) -1.51, Paypal (PYPL) -1.80 and Netflix (NFLX) -12.72.
+
+MKTX EPS 1.73 IMPLIED VOL 6.7%. ANNOUNCE DATE 31/01/24 BEFORE OPEN.
+
