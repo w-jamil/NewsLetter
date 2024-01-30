@@ -554,3 +554,5 @@ LONG-ONLY. Risk, SD 1.36%, VaR 1.96% and CVaR 2.74%. Daily change, SD 58.53%, Va
 LONG-ONLY P\L: -67.21 bps. Top performers in bps, Carnival (CCL) 3.17, Equinix (EQIX) 3.74 and Phillips 66 (PSX) 10.58. Top losers in bps, Netflix (NFLX) -24.64, Qorvo (QRVO) -9.51 and Intel (INTC) -6.48
 
 LONG-SHORT. Risk Long (Short), SD 0.5% (0.23%), VaR 0.78% (0.45%) and CVaR 1.06% (0.58%). Daily change Long (Short), SD 7.16% (-16.19%), VaR 23.52% (-7.5%), CVaR 18.66% (-9.61%)
+
+LONG-SHORT P\L: -46.98 bps. NAV% 0.19%. Top performers in bps, Broadcom Inc. (AVGO) 2.65, Hershey's (HSY) 3.39 and Schlumberger (SLB) 3.74. Top losers in bps, Whirlpool Corporation (WHR) -15.96, Albemarle Corporation (ALB) -5.93 and DR Horton (DHI) -4.86
