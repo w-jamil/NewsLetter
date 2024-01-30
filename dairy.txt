@@ -550,3 +550,5 @@ LONG-SHORT. OUTPERFORM: ALB 10(-1) AVGO 18(1) CL 9(1) IFF 5(-1) T 8(1). HOLD: AL
 LONG-ONLY. BUY: SWK 1(1)
 
 LONG-ONLY. Risk, SD 1.36%, VaR 1.96% and CVaR 2.74%. Daily change, SD 58.53%, VaR 117.47%, CVaR 96.81%
+
+LONG-ONLY P\L: -67.21 bps. Top performers in bps, Carnival (CCL) 3.17, Equinix (EQIX) 3.74 and Phillips 66 (PSX) 10.58. Top losers in bps, Netflix (NFLX) -24.64, Qorvo (QRVO) -9.51 and Intel (INTC) -6.48
