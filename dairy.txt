@@ -582,3 +582,7 @@ In Europe, at midday, London +0.1%. Paris +0.2%. Frankfurt -0.1%
 Futures at 7:00, Dow +0.1%. S&P -0.5%. Nasdaq -1.1%. Crude -1.3% to $76.85. Gold +0.2% to $2,055.20. Bitcoin -2.2% to $42,591
 
 Ten-year Treasury Yield -3 bps to 4.03%
+
+ESG-LONG-SHORT. BRO@NYSE (Name: BROWN & BROWN INC) announced a cash dividend with an ex-dividend date of 20240201 and a payable date of 20240214.
+The declared cash rate is USD 0.13.
+
