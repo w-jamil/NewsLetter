@@ -556,3 +556,5 @@ LONG-ONLY P\L: -67.21 bps. Top performers in bps, Carnival (CCL) 3.17, Equinix (
 LONG-SHORT. Risk Long (Short), SD 0.5% (0.23%), VaR 0.78% (0.45%) and CVaR 1.06% (0.58%). Daily change Long (Short), SD 7.16% (-16.19%), VaR 23.52% (-7.5%), CVaR 18.66% (-9.61%)
 
 LONG-SHORT P\L: -46.98 bps. NAV% 0.19%. Top performers in bps, Broadcom Inc. (AVGO) 2.65, Hershey's (HSY) 3.39 and Schlumberger (SLB) 3.74. Top losers in bps, Whirlpool Corporation (WHR) -15.96, Albemarle Corporation (ALB) -5.93 and DR Horton (DHI) -4.86
+
+Aptiv reports mixed Q4 results; initiates FY24 outlook
