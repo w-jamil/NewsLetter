@@ -587,3 +587,5 @@ ESG-LONG-SHORT. BRO@NYSE (Name: BROWN & BROWN INC) announced a cash dividend wit
 The declared cash rate is USD 0.13.
 
 MRK EPS -0.11 Revenue 14.5B IMPLIED VOL 2.6%. AVG 1 WEEK MOVE 0.7%. ANNOUNCE DATE 01/02/24 BEFORE OPEN.
+
+LONG-SHORT. LVS@NYSE (Name: LAS VEGAS SANDS CORP) announced a cash dividend with an ex-dividend date of 2024/02/05 and a payable date of 2024/02/14. The declared cash rate is USD 0.2.
