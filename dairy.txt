@@ -591,3 +591,5 @@ MRK EPS -0.11 Revenue 14.5B IMPLIED VOL 2.6%. AVG 1 WEEK MOVE 0.7%. ANNOUNCE DAT
 LONG-SHORT. LVS@NYSE (Name: LAS VEGAS SANDS CORP) announced a cash dividend with an ex-dividend date of 2024/02/05 and a payable date of 2024/02/14. The declared cash rate is USD 0.2.
 
 LONG-SHORT. DHI@NYSE (Name: DR HORTON INC) announced a cash dividend with an ex-dividend date of 2024/02/05 and a payable date of 2024/02/13. The declared cash rate is USD 0.3.
+
+LO Risk, SD 1.43%, VaR 2.17% and CVaR 2.99%. Daily change, SD 5.61%, VaR 10.66%, CVaR 9.23%. 
