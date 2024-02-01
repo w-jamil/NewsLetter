@@ -641,3 +641,5 @@ CHTR EPS 8.72 Revenue 13.7B IMPLIED VOL 6.2%. AVG 1 WEEK MOVE 2%. ANNOUNCE DATE 
 BMY EPS 1.6 Revenue 11.2B IMPLIED VOL 5%. AVG 1 WEEK MOVE -2.7%. ANNOUNCE DATE 02/02/24 BEFORE OPEN.
 
 LO Risk, SD 1.43%, VaR 2.17% and CVaR 2.99%. Daily change, SD 5.61%, VaR 10.66%, CVaR 9.23%.
+
+LO P\L: 266.99 bps. Top performers in bps, Warner Bros Discovery Inc (WBD) 32.59, Datadog Inc (DDOG) 41.17 and Atlassian Corp (TEAM) 94.71. Top losers in bps, Moderna Inc (MRNA) -17.82, PayPal Holdings Inc (PYPL) 6.4 and Zscaler Inc (ZS) 8.61.
