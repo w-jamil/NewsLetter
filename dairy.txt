@@ -617,3 +617,5 @@ LO P\L: 95.93 bps. Top performers in bps, nan (MRNA) 11.76, nan (DDOG) 11.92 and
 LS P\L: 9.09 bps. NAV% -0.96%. Top performers in bps, Albemarle Corporation (ALB) 3.06, Tesla, Inc. (TSLA) 3.47 and Hasbro (HAS) 4.1. Top losers in bps, nan (BDX) -3.96, Broadcom Inc. (AVGO) -2.84 and AT&T (T) -2.63.
 
 In Asia, Japan -0.8%. Hong Kong +0.5%. China -0.6%. India -0.2%.
+
+In Europe, at midday, London +0.3%. Paris -0.8%. Frankfurt -0.1%.
