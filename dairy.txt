@@ -595,3 +595,5 @@ LONG-SHORT. DHI@NYSE (Name: DR HORTON INC) announced a cash dividend with an ex-
 LO Risk, SD 1.43%, VaR 2.17% and CVaR 2.99%. Daily change, SD 5.61%, VaR 10.66%, CVaR 9.23%. 
 
 LO P\L: -117.28 bps. Top performers in bps, nan (TEAM) -1.93, nan (TTD) -0.98 and nan (DDOG) 17.31. Top losers in bps, nan (WBD) -20.15, Illumina (ILMN) -18.85 and nan (TSLA) -18.25
+
+LONG-SHORT. Risk Long (Short), SD 0.5% (0.27%), VaR 0.78% (0.48%) and CVaR 1.06% (0.63%). Daily change Long (Short), SD -0.12% (15.76%), VaR 0.44% (7.25%), CVaR 0.29% (9.17%)
