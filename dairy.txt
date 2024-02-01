@@ -629,3 +629,5 @@ Ticker = UPS, Action = Exit Buy/None, SL= 139.06 and TP = 148.99.
 Ticker = SLB, Action = Buy, SL = 47.73 and TP = 51.14.
 
 Ticker = T, Action = Exit Buy/None, SL = 17.34 and TP = 18.57.
+
+Ticker = GIS, Action = Exit Buy/None, SL = 63.61 and TP = 68.16
