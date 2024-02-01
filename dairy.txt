@@ -645,3 +645,5 @@ LO Risk, SD 1.43%, VaR 2.17% and CVaR 2.99%. Daily change, SD 5.61%, VaR 10.66%,
 LO P\L: 266.99 bps. Top performers in bps, Warner Bros Discovery Inc (WBD) 32.59, Datadog Inc (DDOG) 41.17 and Atlassian Corp (TEAM) 94.71. Top losers in bps, Moderna Inc (MRNA) -17.82, PayPal Holdings Inc (PYPL) 6.4 and Zscaler Inc (ZS) 8.61.
 
 LS Risk Long (Short), SD 0.57% (0.36%), VaR 0.82% (0.69%) and CVaR 1.15% (0.9%). Daily change Long (Short), SD 14.09% (33.74%), VaR 5.48% (44.2%), CVaR 7.78% (41.7%)
+
+LS P\L: 23.09 bps. NAV% -0.81%. Top performers in bps, Dollar General (DG) 5.99, Bio-Rad (BIO) 6.48 and PNC Financial Services (PNC) 8.35. Top losers in bps, DaVita Inc. (DVA) -10.49, Booking Holdings (BKNG) -7.08 and DR Horton (DHI) -6.0
