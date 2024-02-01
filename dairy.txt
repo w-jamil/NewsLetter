@@ -601,3 +601,5 @@ LONG-SHORT. Risk Long (Short), SD 0.5% (0.27%), VaR 0.78% (0.48%) and CVaR 1.06%
 LONG-SHORT P\L: -48.6 bps. NAV% -1.05%. Top performers in bps, Gartner (IT) 4.49, Booking Holdings (BKNG) 6.39 and Broadcom Inc. (AVGO) 7.92. Top losers in bps, Aptiv (APTV) -11.5, VF Corporation (VFC) -11.24 and Albemarle Corporation (ALB) -11.11
 
 Amgen: Debt-Funded Buybacks Constrains Future Gains Per Share
+
+Booking Holdings: I Wish I Could Book Some Shares
