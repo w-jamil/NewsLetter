@@ -635,3 +635,6 @@ Ticker = GIS, Action = Exit Buy/None, SL = 63.61 and TP = 68.16
 Ticker = HRL, Action = Exit Buy, SL = 29.76 and TP = 31.89.
 
 Ticker = MKC, Action = Exit Buy/None, SL = 66.8 and TP = 71.57
+
+CHTR EPS 8.72 Revenue 13.7B IMPLIED VOL 6.2%. AVG 1 WEEK MOVE 2%. ANNOUNCE DATE 02/02/24 BEFORE OPEN.
+
