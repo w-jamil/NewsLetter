@@ -669,3 +669,5 @@ In Europe, at midday, London +0.2%. Paris +0.7%. Frankfurt +0.8%.
 Futures at 7:00, Dow +0.1%. S&P +0.6%. Nasdaq +1%. Crude +0.4% to $74.13. Gold +0.1% to $2,073. Bitcoin +2.6% to $43,126.
 
 Ten-year Treasury Yield +2 bps to 3.88%.
+
+LO P\L: -14.29 bps. Top performers in bps, Zscaler Inc (ZS) 13.65, Trade Desk Inc/The (TTD) 32.22 and Datadog Inc (DDOG) 38.88. Top losers in bps, Atlassian Corp (TEAM) -60.39, Charter Communications Inc (CHTR) -49.36 and Tesla Inc (TSLA) -7.85
