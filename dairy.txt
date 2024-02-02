@@ -679,3 +679,5 @@ Ticker = TSLA, Action = Buy, SL= 185.08 and TP = 198.3
 Ticker = NXPI, Action = Buy, SL = 208.75 and TP = 223.66
 
 Ticker = GIS, Action = Sell, SL = 63.53 and TP = 68.07
+
+Ticker = WBD, Action = Exit Buy/None, SL = 10.25 and TP = 10.98
