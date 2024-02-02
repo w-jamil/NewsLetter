@@ -665,3 +665,5 @@ LO. OUTPERFORM: TSLA 13(1) WBD 10(1). HOLD: WBD 11(-1)
 In Asia, Japan +0.4%. Hong Kong -0.2%. China -1.5%. India +0.6%.
 
 In Europe, at midday, London +0.2%. Paris +0.7%. Frankfurt +0.8%.
+
+Futures at 7:00, Dow +0.1%. S&P +0.6%. Nasdaq +1%. Crude +0.4% to $74.13. Gold +0.1% to $2,073. Bitcoin +2.6% to $43,126.
