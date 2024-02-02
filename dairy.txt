@@ -693,3 +693,5 @@ LS. P\L: -55.07 bps. NAV% -1.39%. Top performers in bps, Alliant Energy (LNT) 2.
 Risk Long (Short), SD 0.59% (0.35%), VaR 0.91% (0.63%) and CVaR 1.24% (0.83%). Daily change Long (Short), SD 4.21% (-2.34%), VaR 10.38% (-8.92%), CVaR 8.63% (-7.43%)
 
 LO P\L: -168.1 bps. Top performers in bps, Zscaler Inc (ZS) 22.03, Trade Desk Inc/The (TTD) 33.68 and Datadog Inc (DDOG) 52.25. Top losers in bps, Atlassian Corp (TEAM) -125.01, Charter Communications Inc (CHTR) -107.14 and Warner Bros Discovery Inc (WBD) -20.13
+
+Risk, SD 1.46%, VaR 2.42% and CVaR 3.26%. Daily change, SD 2.19%, VaR 11.51%, CVaR 8.96%
