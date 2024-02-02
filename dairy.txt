@@ -649,3 +649,5 @@ LS Risk Long (Short), SD 0.57% (0.36%), VaR 0.82% (0.69%) and CVaR 1.15% (0.9%).
 LS P\L: 23.09 bps. NAV% -0.81%. Top performers in bps, Dollar General (DG) 5.99, Bio-Rad (BIO) 6.48 and PNC Financial Services (PNC) 8.35. Top losers in bps, DaVita Inc. (DVA) -10.49, Booking Holdings (BKNG) -7.08 and DR Horton (DHI) -6.0
 
 Bristol-Myers Squibbbeats top-line and bottom-line estimates; initiates FY24 outlook
+
+Charter Communications GAAP EPS of $7.07 misses by $1.70, revenue of $13.71B in-line
