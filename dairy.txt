@@ -659,3 +659,5 @@ Bristol-Myers Squibb beats in Q4 as Eliquis and Opdivo outperform
 Tesla recalls 2.2M vehicles for font size on brake warning light
 
 LS. OUTPERFORM: TSLA 13(1). NXPI 12(1). HOLD: GIS 14(1).
+
+LO. OUTPERFORM: TSLA 13(1) WBD 10(1). HOLD: WBD 11(-1)
