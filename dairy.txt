@@ -647,3 +647,5 @@ LO P\L: 266.99 bps. Top performers in bps, Warner Bros Discovery Inc (WBD) 32.59
 LS Risk Long (Short), SD 0.57% (0.36%), VaR 0.82% (0.69%) and CVaR 1.15% (0.9%). Daily change Long (Short), SD 14.09% (33.74%), VaR 5.48% (44.2%), CVaR 7.78% (41.7%)
 
 LS P\L: 23.09 bps. NAV% -0.81%. Top performers in bps, Dollar General (DG) 5.99, Bio-Rad (BIO) 6.48 and PNC Financial Services (PNC) 8.35. Top losers in bps, DaVita Inc. (DVA) -10.49, Booking Holdings (BKNG) -7.08 and DR Horton (DHI) -6.0
+
+Bristol-Myers Squibbbeats top-line and bottom-line estimates; initiates FY24 outlook
