@@ -675,3 +675,5 @@ LO P\L: -14.29 bps. Top performers in bps, Zscaler Inc (ZS) 13.65, Trade Desk In
 LS P\L: -8.29 bps. NAV% -0.91%. Top performers in bps, United Airlines Holdings (UAL) 0.72, Newmont (NEM) 1.25 and Bristol Myers Squibb (BMY) 2.23. Top losers in bps, Broadcom Inc. (AVGO) -5.03, NXP Semiconductors (NXPI) -2.36 and Tesla, Inc. (TSLA) -1.57
 
 Ticker = TSLA, Action = Buy, SL= 185.08 and TP = 198.3
+
+Ticker = NXPI, Action = Buy, SL = 208.75 and TP = 223.66
