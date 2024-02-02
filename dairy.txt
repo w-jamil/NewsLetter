@@ -690,4 +690,4 @@ NXPI EPS 3.66 Revenue 3.4B IMPLIED VOL 5%. AVG 1 WEEK MOVE 3.2%. ANNOUNCE DATE 0
 
 LS. P\L: -55.07 bps. NAV% -1.39%. Top performers in bps, Alliant Energy (LNT) 2.38, DaVita Inc. (DVA) 2.64 and American Water Works (AWK) 2.66. Top losers in bps, Broadcom Inc. (AVGO) -7.03, Bio-Rad (BIO) -6.88 and Newmont (NEM) -6.0
 
-
+Risk Long (Short), SD 0.59% (0.35%), VaR 0.91% (0.63%) and CVaR 1.24% (0.83%). Daily change Long (Short), SD 4.21% (-2.34%), VaR 10.38% (-8.92%), CVaR 8.63% (-7.43%)
