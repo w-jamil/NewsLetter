@@ -697,3 +697,5 @@ LO P\L: -168.1 bps. Top performers in bps, Zscaler Inc (ZS) 22.03, Trade Desk In
 Risk, SD 1.46%, VaR 2.42% and CVaR 3.26%. Daily change, SD 2.19%, VaR 11.51%, CVaR 8.96%
 
 It's settled - there will likely be no interest rate cut next month, although Fed Chair Jerome Powell signaled it could happen at some point this year
+
+"Powell is concerned that the timing of the cut has to be immaculate," noted Yimin Xu, on behalf of Investing Group Leader Cestrian Capital Research. "Cutting too soon risks a return of inflation, but cutting too late can trigger an economic downturn."
