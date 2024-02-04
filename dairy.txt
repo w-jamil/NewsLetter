@@ -717,3 +717,5 @@ Forex and Cryptos: EUR/USD -0.59%. USD/JPY +0.16%. GBP/USD -0.54%. Bitcoin +2.5%
 S&P 500 Gainers: Meta Platforms (META) +21%. Edwards Lifesciences (EW) +18%. Corteva (CTVA) +16%. Fortive (FTV) +12%. General Motors Company (GM) +11%
 
 S&P 500 Losers: MarketAxess Holdings (MKTX) -19%. Charter Communications (CHTR) -15%. C.H. Robinson Worldwide (CHRW) -15%. Rockwell Automation (ROK) -12%. United Parcel Service (UPS) -11%.
+
+LO P\L: -13955.3 USD. Top performers in USD, Zscaler Inc (ZS) 2584.71, DoorDash Inc (DASH) 3006.97 and Datadog Inc (DDOG) 6667.38. Top losers in USD, Atlassian Corp (TEAM) -10520.24, Charter Communications Inc (CHTR) -9156.12 and Moderna Inc (MRNA) -4482.42
