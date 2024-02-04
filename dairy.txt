@@ -713,3 +713,5 @@ World: London -0.3% to 7,616. France -0.6% to 7,592. Germany -0.3% to 16,918. Ja
 Commodities and Bonds: Crude Oil WTI -7.2% to $72.41/bbl. Gold +1.5% to $2,057.1/oz. Natural Gas -22.9% to 2.092. Ten-Year Bond Yield -0.2 bps to 4.024
 
 Forex and Cryptos: EUR/USD -0.59%. USD/JPY +0.16%. GBP/USD -0.54%. Bitcoin +2.5%. Litecoin +0.3%. Ethereum +2.4%. XRP -4.5%.
+
+S&P 500 Gainers: Meta Platforms (META) +21%. Edwards Lifesciences (EW) +18%. Corteva (CTVA) +16%. Fortive (FTV) +12%. General Motors Company (GM) +11%
