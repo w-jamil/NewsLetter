@@ -711,3 +711,5 @@ Sectors: Consumer Staples +2.1%. Utilities +0.4%. Financials +0.8%. Telecom +1.6
 World: London -0.3% to 7,616. France -0.6% to 7,592. Germany -0.3% to 16,918. Japan +1.1% to 36,158. China -6.2% to 2,730. Hong Kong -2.6% to 15,534. India +2.% to 72,086. India -1% to 70,701.
 
 Commodities and Bonds: Crude Oil WTI -7.2% to $72.41/bbl. Gold +1.5% to $2,057.1/oz. Natural Gas -22.9% to 2.092. Ten-Year Bond Yield -0.2 bps to 4.024
+
+Forex and Cryptos: EUR/USD -0.59%. USD/JPY +0.16%. GBP/USD -0.54%. Bitcoin +2.5%. Litecoin +0.3%. Ethereum +2.4%. XRP -4.5%.
