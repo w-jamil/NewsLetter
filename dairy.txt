@@ -721,3 +721,5 @@ S&P 500 Losers: MarketAxess Holdings (MKTX) -19%. Charter Communications (CHTR) 
 LO P\L: -13955.3 USD. Top performers in USD, Zscaler Inc (ZS) 2584.71, DoorDash Inc (DASH) 3006.97 and Datadog Inc (DDOG) 6667.38. Top losers in USD, Atlassian Corp (TEAM) -10520.24, Charter Communications Inc (CHTR) -9156.12 and Moderna Inc (MRNA) -4482.42
 
 LS P\L: -12639.9 USD. Top performers in USD, Schlumberger (SLB) 387.42, Gilead Sciences (GILD) 407.9 and PNC Financial Services (PNC) 781.1. Top losers in USD, Albemarle Corporation (ALB) -1807.9, Whirlpool Corporation (WHR) -1477.35 and VF Corporation (VFC) -1231.52.
+
+Earnings week ahead: Alibaba, PepsiCo, Disney, Palantir, McDonalds, Ford and more.
