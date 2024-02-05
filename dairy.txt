@@ -762,3 +762,5 @@ Selloff in Chinese stocks, the benchmark CSI 300 index (SHSZ300) notching a fres
 
 IT EPS 2.83 IMPLIED VOL 7%. ANNOUNCE DATE 06/02/24 BEFORE OPEN.
 
+J EPS 1.51 IMPLIED VOL 4.4%. ANNOUNCE DATE 06/02/24 BEFORE OPEN.
+
