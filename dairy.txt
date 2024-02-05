@@ -747,3 +747,5 @@ In Europe, at midday, London +0.5%. Paris +0.1%. Frankfurt +0.3%
 Futures at 7:00, Dow flat. S&P -0.2%. Nasdaq -0.2%. Crude -0.6% to $71.86. Gold -0.5% to $2,044. Bitcoin +0.2% to $43,153
 
 Ten-year Treasury Yield +6 bps to 4.09%
+
+LO P\L: -70.5 bps. Top performers in bps, Atlassian Corp (TEAM) -0.44, DoorDash Inc (DASH) 0.0 and Datadog Inc (DDOG) 0.71. Top losers in bps, Zscaler Inc (ZS) -29.86, Tesla Inc (TSLA) -12.37 and Moderna Inc (MRNA) -10.72
