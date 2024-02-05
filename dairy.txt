@@ -751,3 +751,5 @@ Ten-year Treasury Yield +6 bps to 4.09%
 LO P\L: -70.5 bps. Top performers in bps, Atlassian Corp (TEAM) -0.44, DoorDash Inc (DASH) 0.0 and Datadog Inc (DDOG) 0.71. Top losers in bps, Zscaler Inc (ZS) -29.86, Tesla Inc (TSLA) -12.37 and Moderna Inc (MRNA) -10.72
 
 LS P\L: 22.03 bps. NAV% -1.15%. Top performers in bps, Humana (HUM) 0.87, DR Horton (DHI) 1.87 and Estée Lauder Companies (The) (EL) 33.45. Top losers in bps, Albemarle Corporation (ALB) -3.76, Tesla, Inc. (TSLA) -3.11 and Newmont (NEM) -1.95
+
+Ticker = CHTR, Action = SELL, SL= 312.83 and TP = 335.17
