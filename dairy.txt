@@ -755,3 +755,5 @@ LS P\L: 22.03 bps. NAV% -1.15%. Top performers in bps, Humana (HUM) 0.87, DR Hor
 Ticker = CHTR, Action = SELL, SL= 312.83 and TP = 335.17
 
 The jobs report showed non-farm payrolls accelerating by 353,000 in January
+
+The Fed Chair highlighting the robust U.S. economy and path towards a soft landing. Fed kept its policy rate at 5.25%-5.50% and dented expectations that it would cut rates in March.
