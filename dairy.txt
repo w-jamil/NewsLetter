@@ -805,3 +805,5 @@ Futures at 7:00, Dow -0.1%. S&P -0.1%. Nasdaq -0.1%. Crude +0.6% to $73.23. Gold
 Ten-year Treasury Yield unchanged at 4.16%
 
 LS. BUY: MRK 7(-1). OUTPERFORM: TSLA 12(-1). HOLD: MAS 13(1) TSLA 21(1).
+
+LO. OUTPERFORM: CHTR 8(-2) TSLA 12(-1). HOLD: CHTR 15(2) TSLA 21(1).
