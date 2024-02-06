@@ -827,3 +827,5 @@ Ticker = ADBE, Action = SELL, SL= 617.89 and TP = 662.02
 Ticker = PATH, Action = BUY, SL= 22.06 and TP = 23.64
 
 Ticker = PLTR, Action = SELL, SL= 16.39 and TP = 17.56
+
+PYPL EPS 1.36 Revenue 7.9B IMPLIED VOL 8.5%. AVG 1 WEEK MOVE -7.1%. ANNOUNCE DATE 07/02/24 AFTER CLOSE.
