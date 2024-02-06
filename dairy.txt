@@ -835,3 +835,5 @@ LS Risk Long (Short), SD 0.67% (0.37%), VaR 1.09% (0.64%) and CVaR 1.47% (0.85%)
 LS P\L: 79.6 bps. NAV% -0.92%. Top performers in bps, United Parcel Service (UPS) 8.07, Albemarle Corporation (ALB) 8.62 and DuPont (DD) 9.53. Top losers in bps, Estée Lauder Companies (The) (EL) -6.2, PNC Financial Services (PNC) -5.02 and ON Semiconductor (ON) -3.57
 
 LO P\L: 144.61 bps. Top performers in bps, Tesla Inc (TSLA) 26.82, DoorDash Inc (DASH) 37.22 and Moderna Inc (MRNA) 41.05. Top losers in bps, Charter Communications Inc (CHTR) -23.09, Datadog Inc (DDOG) -13.97 and Atlassian Corp (TEAM) -12.77
+
+LO Risk, SD 1.64%, VaR 2.93% and CVaR 3.87%. Daily change, SD 6.09%, VaR 2.37%, CVaR 3.25%
