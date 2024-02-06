@@ -831,3 +831,5 @@ Ticker = PLTR, Action = SELL, SL= 16.39 and TP = 17.56
 PYPL EPS 1.36 Revenue 7.9B IMPLIED VOL 8.5%. AVG 1 WEEK MOVE -7.1%. ANNOUNCE DATE 07/02/24 AFTER CLOSE.
 
 LS Risk Long (Short), SD 0.67% (0.37%), VaR 1.09% (0.64%) and CVaR 1.47% (0.85%). Daily change Long (Short), SD 11.45% (4.34%), VaR 6.55% (5.73%), CVaR 7.79% (5.39%)
+
+LS P\L: 79.6 bps. NAV% -0.92%. Top performers in bps, United Parcel Service (UPS) 8.07, Albemarle Corporation (ALB) 8.62 and DuPont (DD) 9.53. Top losers in bps, Estée Lauder Companies (The) (EL) -6.2, PNC Financial Services (PNC) -5.02 and ON Semiconductor (ON) -3.57
