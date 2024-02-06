@@ -813,3 +813,5 @@ LO P\L: -8.83 bps. Top performers in bps, Trade Desk Inc/The (TTD) 3.72, Datadog
 LS P\L: 9.03 bps. NAV% -1.64%. Top performers in bps, United Parcel Service (UPS) 2.67, DuPont (DD) 2.96 and Gartner (IT) 20.67. Top losers in bps, NXP Semiconductors (NXPI) -6.41, Tesla, Inc. (TSLA) -5.35 and Broadcom Inc. (AVGO) -3.7.
 
 Ticker = CHTR, Action = SELL, SL= 297.58 and TP = 318.83
+
+Ticker = TSLA, Action = BUY, SL= 177.44 and TP = 190.11
