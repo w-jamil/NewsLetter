@@ -815,3 +815,5 @@ LS P\L: 9.03 bps. NAV% -1.64%. Top performers in bps, United Parcel Service (UPS
 Ticker = CHTR, Action = SELL, SL= 297.58 and TP = 318.83
 
 Ticker = TSLA, Action = BUY, SL= 177.44 and TP = 190.11
+
+Ticker = GLD, Action = BUY, SL= 183.82 and TP = 196.95
