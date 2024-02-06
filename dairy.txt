@@ -823,3 +823,5 @@ Ticker = SLV, Action = BUY, SL= 20.06 and TP = 21.49
 Ticker = IXIC, Action = SELL, SL= 15285.73 and TP = 16377.56
 
 Ticker = ADBE, Action = SELL, SL= 617.89 and TP = 662.02
+
+Ticker = PATH, Action = BUY, SL= 22.06 and TP = 23.64
