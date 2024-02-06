@@ -781,3 +781,5 @@ LS P\L: -33.26 bps. NAV% -1.71%. Top performers in bps, Humana (HUM) 4.12, ON Se
 LS Risk Long (Short), SD 0.6% (0.35%), VaR 1.02% (0.61%) and CVaR 1.36% (0.81%). Daily change Long (Short), SD 1.56% (1.88%), VaR 12.3% (-3.94%), CVaR 9.39% (-2.55%)
 
 Morgan Stanley's Fee-Based Growth Makes Shares Attractive
+
+Alphabet's internet service business GFiber plans to raise funds from outside - report
