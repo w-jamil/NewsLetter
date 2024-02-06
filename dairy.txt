@@ -797,3 +797,5 @@ Aiming to fix structural issues in the $26T Treasury market, the SEC is expected
 Layoffs continue to roil across the tech sector, with more than 120 tech companies giving pink slips to a combined total of more than 32,000 employees during the first five weeks of 2024, according to Layoffs.fyi
 
 In Asia, Japan -0.5%. Hong Kong +4%. China +3.2%. India +0.6%
+
+In Europe, at midday, London +0.5%. Paris +0.3%. Frankfurt -0.1%
