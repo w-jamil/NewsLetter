@@ -807,3 +807,5 @@ Ten-year Treasury Yield unchanged at 4.16%
 LS. BUY: MRK 7(-1). OUTPERFORM: TSLA 12(-1). HOLD: MAS 13(1) TSLA 21(1).
 
 LO. OUTPERFORM: CHTR 8(-2) TSLA 12(-1). HOLD: CHTR 15(2) TSLA 21(1).
+
+LO P\L: -8.83 bps. Top performers in bps, Trade Desk Inc/The (TTD) 3.72, Datadog Inc (DDOG) 3.76 and PayPal Holdings Inc (PYPL) 4.35. Top losers in bps, Tesla Inc (TSLA) -21.43, Moderna Inc (MRNA) -0.82 and Zscaler Inc (ZS) -0.19.
