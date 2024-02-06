@@ -817,3 +817,5 @@ Ticker = CHTR, Action = SELL, SL= 297.58 and TP = 318.83
 Ticker = TSLA, Action = BUY, SL= 177.44 and TP = 190.11
 
 Ticker = GLD, Action = BUY, SL= 183.82 and TP = 196.95
+
+Ticker = SLV, Action = BUY, SL= 20.06 and TP = 21.49
