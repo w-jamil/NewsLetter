@@ -825,3 +825,5 @@ Ticker = IXIC, Action = SELL, SL= 15285.73 and TP = 16377.56
 Ticker = ADBE, Action = SELL, SL= 617.89 and TP = 662.02
 
 Ticker = PATH, Action = BUY, SL= 22.06 and TP = 23.64
+
+Ticker = PLTR, Action = SELL, SL= 16.39 and TP = 17.56
