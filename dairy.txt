@@ -914,6 +914,8 @@ PYPL EPS 1.36 IMPLIED VOL 8.8%. ANNOUNCE DATE 08/02/24 AFTER CLOSE.
 
 BWA EPS 0.94 IMPLIED VOL 6.4%. ANNOUNCE DATE 08/02/24 BEFORE OPEN.
 
+MAS EPS 0.66 IMPLIED VOL 5.6%. ANNOUNCE DATE 08/02/24 INTRA DAY.
+
 LS P\L: -27.41 bps. NAV% -0.85%. Top performers in bps, Gilead Sciences (GILD) 6.03, Gartner (IT) 6.52 and Amgen (AMGN) 8.8. Top losers in bps, VF Corporation (VFC) -21.8, Broadcom Inc. (AVGO) -11.91 and Booking Holdings (BKNG) -9.17
 
 LS RISK Risk Long (Short), SD 0.65% (0.33%), VaR 1.13% (0.58%) and CVaR 1.5% (0.77%). Daily change Long (Short), SD -3.4% (-10.67%), VaR 3.89% (-9.82%), CVaR 1.99% (-10.03%)
