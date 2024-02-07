@@ -857,3 +857,5 @@ Ticker = GSPC, Action = EXIT BUY/NONE, SL = 4855.15 and TP = 5201.94
 Ticker = IXIC, Action = SELL, TP = 15296.82 and SL = 16389.45
 
 Ticker = AAPL, Action = SELL, TP = 185.51 and SL = 198.77
+
+Ticker = ABDE, Action = EXIT BUY/NONE, SL = 595 and TP = 637.50
