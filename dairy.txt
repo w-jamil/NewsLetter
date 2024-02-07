@@ -877,3 +877,5 @@ Ticker = PATH, Action = BUY, SL = 22.69 and TP = 24.31
 Ticker = PFE, Action = BUY, SL = 26.95 and TP = 28.88
 
 Ticker = PLTR, Action = EXIT BUY/NONE, SL = 21.43 and TP = 22.96
+
+Ticker = TSLA, Action = EXIT BUY/NONE, SL = 181.40 and TP = 194.36
