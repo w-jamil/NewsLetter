@@ -869,3 +869,5 @@ Ticker = GOOGL, Action = EXIT BUY/NONE, SL = 141.22 and TP = 151.31
 Ticker = HUM, Action = BUY, SL = 359.02 and TP = 384.67
 
 Ticker = MSFT, Action = SELL, TP = 397.38 and SL = 425.76
+
+Ticker = NVDA, Action = EXIT BUY/NONE, SL = 668.59 and TP = 716.34
