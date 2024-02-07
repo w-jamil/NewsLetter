@@ -873,3 +873,5 @@ Ticker = MSFT, Action = SELL, TP = 397.38 and SL = 425.76
 Ticker = NVDA, Action = EXIT BUY/NONE, SL = 668.59 and TP = 716.34
 
 Ticker = PATH, Action = BUY, SL = 22.69 and TP = 24.31
+
+Ticker = PFE, Action = BUY, SL = 26.95 and TP = 28.88
