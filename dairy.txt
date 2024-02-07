@@ -859,3 +859,5 @@ Ticker = IXIC, Action = SELL, TP = 15296.82 and SL = 16389.45
 Ticker = AAPL, Action = SELL, TP = 185.51 and SL = 198.77
 
 Ticker = ABDE, Action = EXIT BUY/NONE, SL = 595 and TP = 637.50
+
+Ticker = AMZN, Action = SELL, SL = 165.77 and TP = 177.61
