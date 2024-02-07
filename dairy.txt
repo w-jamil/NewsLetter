@@ -851,3 +851,5 @@ Ticker = GLD, Action = BUY, SL = 184.78 and TP = 197.98
 Ticker = SLV, Action = BUY, SL = 20.10 and TP = 21.54
 
 Ticker = DJI, Action = SELL, TP = 37750.93 and SL = 40447.43
+
+Ticker = GSPC, Action = EXIT BUY/NONE, SL = 4855.15 and TP = 5201.94
