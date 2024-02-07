@@ -885,3 +885,5 @@ LS. BUY: APTV 8(-1) BMY 2(-1) MRK 8(1). OUTPERFORM: AVGO 19(1) BMY 4(-1) UPS 6(6
 Ford has a skunkworks team working on a low-cost, next-gen EV platform
 
 Ticker = MRK, Action = SELL, TP = 124.34 and SL = 133.22
+
+Ticker = AVGO, Action = SELL, TP = 1198.2 and SL = 1283.78
