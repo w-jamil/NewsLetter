@@ -845,3 +845,5 @@ J.P. Morgan trade desk splits with Kolanovic on stocks, loves Magnificent 7
 Pfizer: The 6.3% Yield Is A Appealing
 
 CVS cuts 2024 outlook amid a spike in medical costs
+
+Ticker = GLD, Action = BUY, SL = 184.78 and TP = 197.98
