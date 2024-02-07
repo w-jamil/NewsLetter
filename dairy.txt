@@ -875,3 +875,5 @@ Ticker = NVDA, Action = EXIT BUY/NONE, SL = 668.59 and TP = 716.34
 Ticker = PATH, Action = BUY, SL = 22.69 and TP = 24.31
 
 Ticker = PFE, Action = BUY, SL = 26.95 and TP = 28.88
+
+Ticker = PLTR, Action = EXIT BUY/NONE, SL = 21.43 and TP = 22.96
