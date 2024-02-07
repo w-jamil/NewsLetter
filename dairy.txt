@@ -861,3 +861,5 @@ Ticker = AAPL, Action = SELL, TP = 185.51 and SL = 198.77
 Ticker = ABDE, Action = EXIT BUY/NONE, SL = 595 and TP = 637.50
 
 Ticker = AMZN, Action = SELL, SL = 165.77 and TP = 177.61
+
+Ticker = FTNT, Action = EXIT BUY/NONE, SL = 66.13 and TP = 70.85
