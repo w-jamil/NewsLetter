@@ -849,3 +849,5 @@ CVS cuts 2024 outlook amid a spike in medical costs
 Ticker = GLD, Action = BUY, SL = 184.78 and TP = 197.98
 
 Ticker = SLV, Action = BUY, SL = 20.10 and TP = 21.54
+
+Ticker = DJI, Action = SELL, TP = 37750.93 and SL = 40447.43
