@@ -837,3 +837,5 @@ LS P\L: 79.6 bps. NAV% -0.92%. Top performers in bps, United Parcel Service (UPS
 LO P\L: 144.61 bps. Top performers in bps, Tesla Inc (TSLA) 26.82, DoorDash Inc (DASH) 37.22 and Moderna Inc (MRNA) 41.05. Top losers in bps, Charter Communications Inc (CHTR) -23.09, Datadog Inc (DDOG) -13.97 and Atlassian Corp (TEAM) -12.77
 
 LO Risk, SD 1.64%, VaR 2.93% and CVaR 3.87%. Daily change, SD 6.09%, VaR 2.37%, CVaR 3.25%
+
+J.P. Morgan trade desk splits with Kolanovic on stocks, loves Magnificent 7
