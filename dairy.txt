@@ -881,3 +881,5 @@ Ticker = PLTR, Action = EXIT BUY/NONE, SL = 21.43 and TP = 22.96
 Ticker = TSLA, Action = EXIT BUY/NONE, SL = 181.40 and TP = 194.36
 
 LS. BUY: APTV 8(-1) BMY 2(-1) MRK 8(1). OUTPERFORM: AVGO 19(1) BMY 4(-1) UPS 6(6). HOLD: AEE 11(1) BMY 19(1) IT 5(-1) UPS 17(-1). UNDERPERFORM: IT 1(1).
+
+Ford has a skunkworks team working on a low-cost, next-gen EV platform
