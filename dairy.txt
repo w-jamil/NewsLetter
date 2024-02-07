@@ -839,3 +839,5 @@ LO P\L: 144.61 bps. Top performers in bps, Tesla Inc (TSLA) 26.82, DoorDash Inc 
 LO Risk, SD 1.64%, VaR 2.93% and CVaR 3.87%. Daily change, SD 6.09%, VaR 2.37%, CVaR 3.25%
 
 J.P. Morgan trade desk splits with Kolanovic on stocks, loves Magnificent 7
+
+'Fearing a debacle': Fortinet jumps as Wall Street breathes sigh of relief
