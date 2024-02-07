@@ -889,3 +889,5 @@ Ticker = MRK, Action = SELL, TP = 124.34 and SL = 133.22
 Ticker = AVGO, Action = SELL, TP = 1198.2 and SL = 1283.78
 
 Ticker = UPS, Action = BUY, SL = 143 and TP = 153.22
+
+LS P\L: -16.86 bps. NAV% -1.13%. Top performers in bps, Amgen (AMGN) 2.72, Gilead Sciences (GILD) 3.54 and Tesla, Inc. (TSLA) 4.29. Top losers in bps, VF Corporation (VFC) -25.39, Aptiv (APTV) -3.54 and Broadcom Inc. (AVGO) -3.01
