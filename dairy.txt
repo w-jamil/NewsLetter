@@ -887,3 +887,5 @@ Ford has a skunkworks team working on a low-cost, next-gen EV platform
 Ticker = MRK, Action = SELL, TP = 124.34 and SL = 133.22
 
 Ticker = AVGO, Action = SELL, TP = 1198.2 and SL = 1283.78
+
+Ticker = UPS, Action = BUY, SL = 143 and TP = 153.22
