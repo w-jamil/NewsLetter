@@ -926,3 +926,5 @@ LS RISK Risk Long (Short), SD 0.65% (0.33%), VaR 1.13% (0.58%) and CVaR 1.5% (0.
 LO Risk, SD 1.63%, VaR 2.78% and CVaR 3.71%. Daily change, SD -0.84%, VaR -5.21%, CVaR -4.15%
 
 LO P\L: 35.35 bps. Top performers in bps, DoorDash Inc (DASH) 17.5, Datadog Inc (DDOG) 25.36 and Zscaler Inc (ZS) 37.09. Top losers in bps, Warner Bros Discovery Inc (WBD) -24.14, Charter Communications Inc (CHTR) -11.37 and Illumina Inc (ILMN) -10.78
+
+Walgreens Boots Alliance sells Cencora shares for $992M
