@@ -940,3 +940,5 @@ In Europe, at midday, London -0.1%. Paris +0.5%. Frankfurt +0.2%
 Futures at 7:00, Dow -0.1%. S&P -0.2%. Nasdaq -0.2%. Crude +1% to $74.57. Gold -0.4% to $2,043.50. Bitcoin +4.3% to $44,718
 
 Ten-year Treasury Yield +2 bps to 4.13%
+
+LO Risk, SD 1.63%, VaR 2.78% and CVaR 3.71%. Daily change, SD -0.84%, VaR -5.21%, CVaR -4.15%
