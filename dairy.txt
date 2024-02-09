@@ -942,3 +942,5 @@ Futures at 7:00, Dow -0.1%. S&P -0.2%. Nasdaq -0.2%. Crude +1% to $74.57. Gold -
 Ten-year Treasury Yield +2 bps to 4.13%
 
 LO Risk, SD 1.63%, VaR 2.78% and CVaR 3.71%. Daily change, SD -0.84%, VaR -5.21%, CVaR -4.15%
+
+LO P\L: -56.51 bps. Top performers in bps, Tesla Inc (TSLA) 7.03, Charter Communications Inc (CHTR) 8.38 and Warner Bros Discovery Inc (WBD) 9.73. Top losers in bps, PayPal Holdings Inc (PYPL) -60.37, Datadog Inc (DDOG) -25.77 and Trade Desk Inc/The (TTD) -4.91
