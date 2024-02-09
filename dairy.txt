@@ -946,3 +946,5 @@ LO Risk, SD 1.63%, VaR 2.78% and CVaR 3.71%. Daily change, SD -0.84%, VaR -5.21%
 LO P\L: -56.51 bps. Top performers in bps, Tesla Inc (TSLA) 7.03, Charter Communications Inc (CHTR) 8.38 and Warner Bros Discovery Inc (WBD) 9.73. Top losers in bps, PayPal Holdings Inc (PYPL) -60.37, Datadog Inc (DDOG) -25.77 and Trade Desk Inc/The (TTD) -4.91
 
 The Super Bowl is taking place in Las Vegas this year.  Las Vegas Strip GGR was up 11% Y/Y in December to a record tally of $905M. Flutter Entertainment (FLUT), owns a majority stake in FanDuel.
+
+Market participants and policymakers are closely watching revisions to the consumer price index this morning.
