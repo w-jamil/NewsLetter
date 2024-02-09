@@ -968,3 +968,5 @@ In Europe, at midday, London +0.1%. Paris -0.1%. Frankfurt +0.1%.
 Futures at 7:00, Dow flat. S&P +0.1%. Nasdaq +0.3%. Crude -0.1% to $76.18. Gold -0.1% to $2,046.60. Bitcoin +5.5% to $47,238.
 
 Ten-year Treasury Yield unchanged at 4.17%.
+
+LS P\L: 16.4 bps. NAV% -0.72%. Top three in bps, ON Semiconductor (ON) 2.59, United Airlines Holdings (UAL) 4.43 and Booking Holdings (BKNG) 15.09. Bottom three in bps, Illumina (ILMN) -11.73, NXP Semiconductors (NXPI) -1.6 and Albemarle Corporation (ALB) -1.5.
