@@ -1006,3 +1006,5 @@ Restaurant Brands International (QSR) will host an investor event with CEO Josh 
 Ford (F), Aptiv (APTV), Adient (ADNT), and Lear (LEA) are some of the companies due to participate at the Wolfe Research's Global Auto and Auto Tech Conference during the week
 
 US: Dow flat at 38,672. S&P 500 +1.4% to 5,027. Nasdaq +2.3% to 15,991. Russell 2000 +2.4% to 2,010. CBOE Volatility Index -6.6% to 12.93
+
+Consumer Staples -1.3%. Utilities -2.1%. Financials +0.2%. Telecom +1%. Healthcare +1.4%. Industrials +1.2%. Information Technology +3.2%. Materials flat. Energy -0.2%. Consumer Discretionary +1.5%. Real Estate +0.4%
