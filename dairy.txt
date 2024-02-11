@@ -1028,3 +1028,5 @@ Bottom performers in USD, Charter Communications Inc (CHTR) -4601.84, Warner Bro
 LS P\L: 1961.79 USD
 
 Top performers in USD, ON Semiconductor (ON) 2804.75, Estee Lauder Companies Inc (EL) 1809.99 and  (AMGN) 1432.32
+
+Bottom performers in USD, NXP Semiconductors (NXPI) -1756.38, VF Corporation (VFC) -1940.69 and Booking Holdings (BKNG) -2732.14.
