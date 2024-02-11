@@ -1022,3 +1022,5 @@ S&P 500 Losers: FMC Corporation (FMC) -16%. Air Products and Chemicals (APD) -15
 LO P\L: -9598.61 USD
 
 Top performers in USD, DoorDash Inc (DASH) 8220.78, Zscaler Inc (ZS) 3891.08 and Tesla Inc (TSLA) 3135.64
+
+Bottom performers in USD, Charter Communications Inc (CHTR) -4601.84, Warner Bros Discovery Inc (WBD) -5613.83 and Moderna Inc (MRNA) -8667.31.
