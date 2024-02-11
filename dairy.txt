@@ -1016,3 +1016,5 @@ Commodities and Bonds: Crude Oil WTI +6% to $76.6/bbl. Gold -0.7% to $2,038.7/oz
 Forex and Cryptos: EUR/USD +0.01%. USD/JPY +0.62%. GBP/USD -0.01%. Bitcoin +10.4%. Litecoin +2.6%. Ethereum +9.2%. XRP +1.3%
 
 S&P 500 Gainers: Enphase Energy (ENPH) +20%. Ralph Lauren (RL) +18%. Monolithic Power Systems (MPWR) +18%. ON Semiconductor (ON) +14%. The Walt Disney Company (DIS) +12%
+
+S&P 500 Losers: FMC Corporation (FMC) -16%. Air Products and Chemicals (APD) -15%. Expedia Group (EXPE) -13%. Paramount Global (PARA) -11%. Moderna (MRNA) -10%.
