@@ -1020,3 +1020,5 @@ S&P 500 Gainers: Enphase Energy (ENPH) +20%. Ralph Lauren (RL) +18%. Monolithic 
 S&P 500 Losers: FMC Corporation (FMC) -16%. Air Products and Chemicals (APD) -15%. Expedia Group (EXPE) -13%. Paramount Global (PARA) -11%. Moderna (MRNA) -10%.
 
 LO P\L: -9598.61 USD
+
+Top performers in USD, DoorDash Inc (DASH) 8220.78, Zscaler Inc (ZS) 3891.08 and Tesla Inc (TSLA) 3135.64
