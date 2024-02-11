@@ -994,3 +994,5 @@ The most overbought stocks per their 14-day relative strength index include Adve
 The most oversold stocks per their 14-day Relative Strength Index include Sigma Lithium Corporation (SGML), New York Community Bancorp (NYCB), and Extreme Networks (EXTR).
 
 Medical technology manufacturer Scripps Safe (SCRP), tourism company Amphitrite Digital (AMDI), and real estate player Metros Development (MTRS) are expected to start trading next week. 
+
+The IPO lock-up and market stand-off agreements executed by Instacart's (NASDAQ:CART) directors, officers, and holders of convertible shares will expire
