@@ -972,3 +972,5 @@ Ten-year Treasury Yield unchanged at 4.17%.
 LS P\L: 16.4 bps. NAV% -0.72%. Top three in bps, ON Semiconductor (ON) 2.59, United Airlines Holdings (UAL) 4.43 and Booking Holdings (BKNG) 15.09. Bottom three in bps, Illumina (ILMN) -11.73, NXP Semiconductors (NXPI) -1.6 and Albemarle Corporation (ALB) -1.5.
 
 LO P\L: 56.94 bps. Top three in bps, Trade Desk Inc/The (TTD) 10.11, Zscaler Inc (ZS) 19.75 and Datadog Inc (DDOG) 38.06. Bottom three in bps, Illumina Inc (ILMN) -24.56, Moderna Inc (MRNA) -3.61 and Atlassian Corp (TEAM) 0.0.
+
+Investors will turn their attention back to interest rates next week, with the consumer price index and producer price index reports due out
