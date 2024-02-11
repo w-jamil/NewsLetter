@@ -1024,3 +1024,5 @@ LO P\L: -9598.61 USD
 Top performers in USD, DoorDash Inc (DASH) 8220.78, Zscaler Inc (ZS) 3891.08 and Tesla Inc (TSLA) 3135.64
 
 Bottom performers in USD, Charter Communications Inc (CHTR) -4601.84, Warner Bros Discovery Inc (WBD) -5613.83 and Moderna Inc (MRNA) -8667.31.
+
+LS P\L: 1961.79 USD
