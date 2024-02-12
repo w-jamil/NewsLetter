@@ -1056,3 +1056,5 @@ LO P\L: 19.7 bps
 Top three in bps, Warner Bros Discovery Inc (WBD) 4.83, DoorDash Inc (DASH) 5.02 and Datadog Inc (DDOG) 9.31
 
 Bottom three in bps, Moderna Inc (MRNA) -2.79, PayPal Holdings Inc (PYPL) -1.9 and Tesla Inc (TSLA) -1.28
+
+LS P\L: 1.86 bps. NAV% -0.71%
