@@ -1068,3 +1068,5 @@ Gilead to acquire CymaBay for $32.50/share in cash
 LO Risk, SD 1.36%, VaR 2.43% and CVaR 3.21%. Daily change, SD -15.94%, VaR -7.92%, CVaR -9.99%
 
 LO P\L: 53.87 bps. Top performers in bps, PayPal Holdings Inc (PYPL) 12.76, Trade Desk Inc/The (TTD) 29.81 and Warner Bros Discovery Inc (WBD) 29.82. Top losers in bps, Tesla Inc (TSLA) -32.63, Atlassian Corp (TEAM) -12.99 and Zscaler Inc (ZS) -10.84
+
+LS Risk Long (Short), SD 0.71% (0.35%), VaR 1.14% (0.62%) and CVaR 1.54% (0.82%). Daily change Long (Short), SD 13.23% (2.94%), VaR 7.28% (3.96%), CVaR 8.79% (3.71%)
