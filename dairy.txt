@@ -1062,3 +1062,5 @@ LS P\L: 1.86 bps. NAV% -0.71%
 Top three in bps, Air Products and Chemicals (APD) 0.77, Albemarle Corporation (ALB) 0.88 and VF Corporation (VFC) 1.31
 
 Bottom three in bps, DaVita Inc. (DVA) -1.16, Broadcom Inc. (AVGO) -0.37 and Tesla, Inc. (TSLA) -0.2
+
+Gilead to acquire CymaBay for $32.50/share in cash
