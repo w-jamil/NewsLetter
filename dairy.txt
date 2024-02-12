@@ -1066,3 +1066,5 @@ Bottom three in bps, DaVita Inc. (DVA) -1.16, Broadcom Inc. (AVGO) -0.37 and Tes
 Gilead to acquire CymaBay for $32.50/share in cash
 
 LO Risk, SD 1.36%, VaR 2.43% and CVaR 3.21%. Daily change, SD -15.94%, VaR -7.92%, CVaR -9.99%
+
+LO P\L: 53.87 bps. Top performers in bps, PayPal Holdings Inc (PYPL) 12.76, Trade Desk Inc/The (TTD) 29.81 and Warner Bros Discovery Inc (WBD) 29.82. Top losers in bps, Tesla Inc (TSLA) -32.63, Atlassian Corp (TEAM) -12.99 and Zscaler Inc (ZS) -10.84
