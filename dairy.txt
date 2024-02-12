@@ -1058,3 +1058,5 @@ Top three in bps, Warner Bros Discovery Inc (WBD) 4.83, DoorDash Inc (DASH) 5.02
 Bottom three in bps, Moderna Inc (MRNA) -2.79, PayPal Holdings Inc (PYPL) -1.9 and Tesla Inc (TSLA) -1.28
 
 LS P\L: 1.86 bps. NAV% -0.71%
+
+Top three in bps, Air Products and Chemicals (APD) 0.77, Albemarle Corporation (ALB) 0.88 and VF Corporation (VFC) 1.31
