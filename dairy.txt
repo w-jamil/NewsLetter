@@ -1052,3 +1052,5 @@ Futures at 7:00, Dow -0.1%. S&P flat. Nasdaq flat. Crude -1.2% to $75.89. Gold -
 Ten-year Treasury Yield -3 bps to 4.15%
 
 LO P\L: 19.7 bps
+
+Top three in bps, Warner Bros Discovery Inc (WBD) 4.83, DoorDash Inc (DASH) 5.02 and Datadog Inc (DDOG) 9.31
