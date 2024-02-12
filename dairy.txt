@@ -1050,3 +1050,5 @@ In Europe, at midday, London -0.1%. Paris +0.4%. Frankfurt +0.3%
 Futures at 7:00, Dow -0.1%. S&P flat. Nasdaq flat. Crude -1.2% to $75.89. Gold -0.1% to $2,036. Bitcoin -1.1% to $47,892
 
 Ten-year Treasury Yield -3 bps to 4.15%
+
+LO P\L: 19.7 bps
