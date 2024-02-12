@@ -1064,3 +1064,5 @@ Top three in bps, Air Products and Chemicals (APD) 0.77, Albemarle Corporation (
 Bottom three in bps, DaVita Inc. (DVA) -1.16, Broadcom Inc. (AVGO) -0.37 and Tesla, Inc. (TSLA) -0.2
 
 Gilead to acquire CymaBay for $32.50/share in cash
+
+LO Risk, SD 1.36%, VaR 2.43% and CVaR 3.21%. Daily change, SD -15.94%, VaR -7.92%, CVaR -9.99%
