@@ -1074,3 +1074,5 @@ LS Risk Long (Short), SD 0.71% (0.35%), VaR 1.14% (0.62%) and CVaR 1.54% (0.82%)
 LS P\L: 60.11 bps. NAV% -0.12%. Top performers in bps, Gartner (IT) 6.99, Albemarle Corporation (ALB) 9.78 and VF Corporation (VFC) 28.16. Top losers in bps, DaVita Inc. (DVA) -10.82, Tesla, Inc. (TSLA) -7.99 and DR Horton (DHI) -5.6
 
 Bitcoin (BTC-USD) has topped the $50K level for the first time since late 2021 as spot BTC ETFs continue to attract investment after their historic approval
+
+Uber (UBER), Lyft (LYFT)  and DoorDash (DASH) drivers are planning to go on strike across 20 major U.S. and Canadian cities on Valentine's Day to protest declining pay, driver safety, and deactivations
