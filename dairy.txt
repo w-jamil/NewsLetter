@@ -1080,3 +1080,5 @@ Uber (UBER), Lyft (LYFT)  and DoorDash (DASH) drivers are planning to go on stri
 Nvidia (NVDA) briefly overtook Amazon's (AMZN) market capitalization on Monday to become the fourth most valuable U.S. stock
 
 Coca-Cola Non-GAAP EPS of $0.49 in-line, revenue of $10.8B beats by $150M
+
+Datadog Non-GAAP EPS of $0.44 in-line, revenue of $590M beats by $21.75M
