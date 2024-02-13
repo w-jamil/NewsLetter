@@ -1096,3 +1096,5 @@ Futures at 7:00, Dow -0.2%. S&P -0.4%. Nasdaq -0.7%. Crude +0.7% to $77.43. Gold
 Ten-year Treasury Yield unchanged at 4.17%
 
 Long-Short Pre-market Summary. P\L: -27.53 bps. NAV% -0.42%. Top three in bps, Booking Holdings (BKNG) 1.18, Broadcom Inc. (AVGO) 2.34 and Marriott International (MAR) 2.52. Bottom three in bps, Hasbro (HAS) -21.25, ON Semiconductor (ON) -3.61 and Tesla, Inc. (TSLA) -2.69
+
+Long-Only Pre-market Summary: -175.39 bps. Top performers in bps, Warner Bros Discovery Inc (WBD) -1.95, Charter Communications Inc (CHTR) 0.0 and Walgreens Boots Alliance Inc (WBA) 0.0. Top losers in bps, Datadog Inc (DDOG) -85.95, Zscaler Inc (ZS) -18.38 and DoorDash Inc (DASH) -13.89
