@@ -1072,3 +1072,5 @@ LO P\L: 53.87 bps. Top performers in bps, PayPal Holdings Inc (PYPL) 12.76, Trad
 LS Risk Long (Short), SD 0.71% (0.35%), VaR 1.14% (0.62%) and CVaR 1.54% (0.82%). Daily change Long (Short), SD 13.23% (2.94%), VaR 7.28% (3.96%), CVaR 8.79% (3.71%)
 
 LS P\L: 60.11 bps. NAV% -0.12%. Top performers in bps, Gartner (IT) 6.99, Albemarle Corporation (ALB) 9.78 and VF Corporation (VFC) 28.16. Top losers in bps, DaVita Inc. (DVA) -10.82, Tesla, Inc. (TSLA) -7.99 and DR Horton (DHI) -5.6
+
+Bitcoin (BTC-USD) has topped the $50K level for the first time since late 2021 as spot BTC ETFs continue to attract investment after their historic approval
