@@ -1104,3 +1104,5 @@ LO P\L: -300.8 bps. Top performers in bps, Tesla Inc (TSLA) -22.56, Charter Comm
 LO Risk, SD 1.51%, VaR 2.81% and CVaR 3.67%. Daily change, SD 11.37%, VaR 15.38%, CVaR 14.42%
 
 LS P\L: -87.99 bps. NAV% -1.03%. Top performers in bps, Morgan Stanley (MS) 6.76, Marriott International (MAR) 7.38 and DR Horton (DHI) 10.03. Top losers in bps, Albemarle Corporation (ALB) -16.09, DaVita Inc. (DVA) -14.22 and Illumina (ILMN) -11.85
+
+Risk Long (Short), SD 0.83% (0.43%), VaR 1.42% (0.65%) and CVaR 1.9% (0.9%). Daily change Long (Short), SD 16.83% (21.22%), VaR 25.13% (5.9%), CVaR 22.94% (9.66%)
