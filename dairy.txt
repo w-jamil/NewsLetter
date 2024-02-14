@@ -1120,3 +1120,5 @@ Futures at 7:00, Dow +0.2%. S&P +0.4%. Nasdaq +0.6%. Crude -0.2% to $77.73. Gold
 Ten-year Treasury Yield -3 bps to 4.29%
 
 Big stock swings are in the spotlight as trading exuberance resurfaces, with much excitement returning to the markets over the past few months
+
+Dow (DJI) tumbling more than 500 points on Tuesday in response to slightly hotter inflation data
