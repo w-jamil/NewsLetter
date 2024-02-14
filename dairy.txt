@@ -1106,3 +1106,5 @@ LO Risk, SD 1.51%, VaR 2.81% and CVaR 3.67%. Daily change, SD 11.37%, VaR 15.38%
 LS P\L: -87.99 bps. NAV% -1.03%. Top performers in bps, Morgan Stanley (MS) 6.76, Marriott International (MAR) 7.38 and DR Horton (DHI) 10.03. Top losers in bps, Albemarle Corporation (ALB) -16.09, DaVita Inc. (DVA) -14.22 and Illumina (ILMN) -11.85
 
 Risk Long (Short), SD 0.83% (0.43%), VaR 1.42% (0.65%) and CVaR 1.9% (0.9%). Daily change Long (Short), SD 16.83% (21.22%), VaR 25.13% (5.9%), CVaR 22.94% (9.66%)
+
+Long-Only Pre-market Summary. P\L: 116.57 bps. Top three in bps, The Trade Desk Inc (TTD) 14.92, Datadog Inc (DDOG) 15.2 and DoorDash Inc (DASH) 25.78. Bottom three in bps, Charter Communications Inc (CHTR) 1.45, Walgreens Boots Alliance Inc (WBA) 3.71 and Moderna Inc (MRNA) 3.93.
