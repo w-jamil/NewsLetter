@@ -1110,3 +1110,5 @@ Risk Long (Short), SD 0.83% (0.43%), VaR 1.42% (0.65%) and CVaR 1.9% (0.9%). Dai
 Long-Only Pre-market Summary. P\L: 116.57 bps. Top three in bps, The Trade Desk Inc (TTD) 14.92, Datadog Inc (DDOG) 15.2 and DoorDash Inc (DASH) 25.78. Bottom three in bps, Charter Communications Inc (CHTR) 1.45, Walgreens Boots Alliance Inc (WBA) 3.71 and Moderna Inc (MRNA) 3.93.
 
 Long-Short Pre-market Summary. P\L: -3.02 bps. NAV% -0.96%. Top three in bps, Tesla, Inc. (TSLA) 3.03, Albemarle Corporation (ALB) 4.32 and VF Corporation (VFC) 6.16. Bottom three in bps, DaVita Inc. (DVA) -18.39, Broadcom Inc. (AVGO) -3.36 and State Street Corporation (STT) -2.39
+
+In Asia, Japan -0.7%. Hong Kong +0.8%. China closed. India +0.4%
