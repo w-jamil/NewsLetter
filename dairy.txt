@@ -1138,3 +1138,5 @@ Risk, SD 1.66%, VaR 2.65% and CVaR 3.6%. Daily change, SD 10.08%, VaR -5.62%, CV
 LO P\L: 237.47 bps. Top performers in bps, DoorDash Inc (DASH) 32.24, Illumina Inc (ILMN) 37.7 and Zscaler Inc (ZS) 46.59. Top losers in bps, Charter Communications Inc (CHTR) -9.45, Walgreens Boots Alliance Inc (WBA) 0.23 and Moderna Inc (MRNA) 5.24
 
 Risk Long (Short), SD 0.8% (0.39%), VaR 1.38% (0.63%) and CVaR 1.83% (0.85%). Daily change Long (Short), SD -4.34% (-7.8%), VaR -3.02% (-3.4%), CVaR -3.35% (-4.59%)
+
+LS P\L: 15.49 bps. NAV% -0.04%. Top performers in bps, Bio-Rad (BIO) 9.09, Tesla, Inc. (TSLA) 9.35 and Illumina (ILMN) 13.33. Top losers in bps, DaVita Inc. (DVA) -24.14, DR Horton (DHI) -5.21 and Charter Communications (CHTR) -4.98
