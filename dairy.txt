@@ -1112,3 +1112,5 @@ Long-Only Pre-market Summary. P\L: 116.57 bps. Top three in bps, The Trade Desk 
 Long-Short Pre-market Summary. P\L: -3.02 bps. NAV% -0.96%. Top three in bps, Tesla, Inc. (TSLA) 3.03, Albemarle Corporation (ALB) 4.32 and VF Corporation (VFC) 6.16. Bottom three in bps, DaVita Inc. (DVA) -18.39, Broadcom Inc. (AVGO) -3.36 and State Street Corporation (STT) -2.39
 
 In Asia, Japan -0.7%. Hong Kong +0.8%. China closed. India +0.4%
+
+In Europe, at midday, London +0.9%. Paris +0.6%. Frankfurt +0.4%
