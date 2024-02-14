@@ -1132,3 +1132,5 @@ Bristol Myers wins FDA review for label expansion of lung cancer therapy
 SentinelOne rises after BofA upgrades on industry tailwinds, improving macro
 
 Colgate-Palmolive: I'm Buying Before Interest Rates Decrease
+
+Risk, SD 1.66%, VaR 2.65% and CVaR 3.6%. Daily change, SD 10.08%, VaR -5.62%, CVaR -1.93%
