@@ -1156,3 +1156,5 @@ In Europe, at midday, London flat. Paris +0.8%. Frankfurt +0.7%
 Futures at 7:00, Dow +0.1%. SP +0.1%. Nasdaq +0.1%. Crude -0.8% to $75.78. Gold +0.2% to $2,009.20. Bitcoin +1.6% to $52,406
 
 Ten-year Treasury Yield -4 bps to 4.22%
+
+Long-Short Pre-market Summary. P\L: 5.13 bps. NAV% 0.03%. Top three in bps, DR Horton (DHI) 2.89, Illumina (ILMN) 3.2 and Air Products and Chemicals (APD) 3.23. Bottom three in bps, Albemarle Corporation (ALB) -9.37, Broadcom Inc. (AVGO) -3.65 and Booking Holdings (BKNG) -2.99.
