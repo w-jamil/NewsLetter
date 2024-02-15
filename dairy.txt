@@ -1160,3 +1160,5 @@ Ten-year Treasury Yield -4 bps to 4.22%
 Long-Short Pre-market Summary. P\L: 5.13 bps. NAV% 0.03%. Top three in bps, DR Horton (DHI) 2.89, Illumina (ILMN) 3.2 and Air Products and Chemicals (APD) 3.23. Bottom three in bps, Albemarle Corporation (ALB) -9.37, Broadcom Inc. (AVGO) -3.65 and Booking Holdings (BKNG) -2.99.
 
 Long-Only Pre-market Summary. P\L: 41.66 bps. Top three in bps, Zscaler Inc (ZS) 6.46, Illumina Inc (ILMN) 8.44 and Tesla Inc (TSLA) 11.55. Bottom three in bps, Atlassian Corp (TEAM) 0.0, Moderna Inc (MRNA) 0.45 and Charter Communications Inc (CHTR) 0.59.
+
+Risk, SD 1.85%, VaR 2.83% and CVaR 3.89%. Daily change, SD 11.16%, VaR 6.96%, CVaR 8.06%
