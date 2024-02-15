@@ -1142,3 +1142,5 @@ Risk Long (Short), SD 0.8% (0.39%), VaR 1.38% (0.63%) and CVaR 1.83% (0.85%). Da
 LS P\L: 15.49 bps. NAV% -0.04%. Top performers in bps, Bio-Rad (BIO) 9.09, Tesla, Inc. (TSLA) 9.35 and Illumina (ILMN) 13.33. Top losers in bps, DaVita Inc. (DVA) -24.14, DR Horton (DHI) -5.21 and Charter Communications (CHTR) -4.98
 
 Pfizer to settle Lipitor antitrust lawsuit for $93M
+
+Charter Q4'23 Earnings: Net Broadband Losses, Robust Mobile Net Adds, 8% FCF Yield
