@@ -1162,3 +1162,5 @@ Long-Short Pre-market Summary. P\L: 5.13 bps. NAV% 0.03%. Top three in bps, DR H
 Long-Only Pre-market Summary. P\L: 41.66 bps. Top three in bps, Zscaler Inc (ZS) 6.46, Illumina Inc (ILMN) 8.44 and Tesla Inc (TSLA) 11.55. Bottom three in bps, Atlassian Corp (TEAM) 0.0, Moderna Inc (MRNA) 0.45 and Charter Communications Inc (CHTR) 0.59.
 
 Risk, SD 1.85%, VaR 2.83% and CVaR 3.89%. Daily change, SD 11.16%, VaR 6.96%, CVaR 8.06%
+
+P\L: 390.78 bps. Top performers in bps, Moderna Inc (MRNA) 45.09, Tesla Inc (TSLA) 68.36 and Trade Desk Inc/The (TTD) 196.7. Top losers in bps, Datadog Inc (DDOG) -21.57, Atlassian Corp (TEAM) -8.96 and Zscaler Inc (ZS) -0.21
