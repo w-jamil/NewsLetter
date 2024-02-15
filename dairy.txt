@@ -1153,4 +1153,6 @@ In Asia, Japan +1.2%. Hong Kong +0.4%. China closed. India +0.3%.
 
 In Europe, at midday, London flat. Paris +0.8%. Frankfurt +0.7%
 
+Futures at 7:00, Dow +0.1%. SP +0.1%. Nasdaq +0.1%. Crude -0.8% to $75.78. Gold +0.2% to $2,009.20. Bitcoin +1.6% to $52,406
+
 
