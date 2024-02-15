@@ -1164,3 +1164,5 @@ Long-Only Pre-market Summary. P\L: 41.66 bps. Top three in bps, Zscaler Inc (ZS)
 Risk, SD 1.85%, VaR 2.83% and CVaR 3.89%. Daily change, SD 11.16%, VaR 6.96%, CVaR 8.06%
 
 P\L: 390.78 bps. Top performers in bps, Moderna Inc (MRNA) 45.09, Tesla Inc (TSLA) 68.36 and Trade Desk Inc/The (TTD) 196.7. Top losers in bps, Datadog Inc (DDOG) -21.57, Atlassian Corp (TEAM) -8.96 and Zscaler Inc (ZS) -0.21
+
+Risk Long (Short), SD 0.82% (0.35%), VaR 1.39% (0.53%) and CVaR 1.86% (0.73%). Daily change Long (Short), SD 3.17% (-11.39%), VaR 0.98% (-16.17%), CVaR 1.52% (-14.91%)
