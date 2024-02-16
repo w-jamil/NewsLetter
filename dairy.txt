@@ -1170,3 +1170,5 @@ Risk Long (Short), SD 0.82% (0.35%), VaR 1.39% (0.53%) and CVaR 1.86% (0.73%). D
 P\L: 60.69 bps. NAV% 0.58%. Top performers in bps, Air Products and Chemicals (APD) 8.41, Illumina (ILMN) 10.48 and Tesla, Inc. (TSLA) 16.5. Top losers in bps, Hasbro (HAS) -6.22, Morgan Stanley (MS) -3.95 and Jacobs Solutions (J) -3.19
 
 Gilead pauses enrollment for solid tumor trials of cancer drug on high mortality risk
+
+State Street declares $0.69 dividend
