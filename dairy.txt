@@ -1194,3 +1194,5 @@ Long-Only Pre-market Summary. P\L: 93.98 bps. Top three in bps, Datadog Inc (DDO
 Risk LO, SD 1.8%, VaR 2.66% and CVaR 3.68%. Daily change, SD -2.84%, VaR -6.13%, CVaR -5.24%.
 
 P\L: -75.93 bps. Top three in bps, Charter Communications Inc (CHTR) -2.1, Zscaler Inc (ZS) -2.06 and Trade Desk Inc/The (TTD) 144.96. Bottom three in bps, DoorDash Inc (DASH) -88.0, Moderna Inc (MRNA) -27.01 and Warner Bros Discovery Inc (WBD) -25.71.
+
+Risk Long (Short), SD 0.81% (0.37%), VaR 1.3% (0.55%) and CVaR 1.76% (0.76%). Daily change Long (Short), SD -1.29% (4.95%), VaR -6.78% (3.76%), CVaR -5.39% (4.08%)
