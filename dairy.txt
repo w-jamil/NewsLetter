@@ -1216,3 +1216,5 @@ Forex and Cryptos: EUR/USD -0.05%. USD/JPY +0.59%. GBP/USD -0.14%. Bitcoin +8.8%
 S&P 500 Gainers: Diamondback Energy (FANG) +18%. Trimble (TRMB) +15%. Viatris (VTRS) +12%. Targa Resources (TRGP) +11%. DaVita (DVA) +11%
 
 S&P 500 Losers: Akamai Technologies (AKAM) -15%. Adobe (ADBE) -13%. West Pharmaceutical Services (WST) -12%. Biogen (BIIB) -9%. MGM Resorts International (MGM) -9%
+
+Long-Short 09/02/24 - 16/02/24. P\L: $8068.07. Top three in USD, VF Corp (VFC) 2235.19, Albemarle Corp (ALB) 1491.87 and Bio-Rad (BIO) 1185.89. Bottom three in USD, Carmax Inc (KMX) -637.27, ON Semiconductor Corp (ON) -645.1 and DaVita Inc (DVA) -3093.24.
