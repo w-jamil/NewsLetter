@@ -1218,3 +1218,5 @@ S&P 500 Gainers: Diamondback Energy (FANG) +18%. Trimble (TRMB) +15%. Viatris (V
 S&P 500 Losers: Akamai Technologies (AKAM) -15%. Adobe (ADBE) -13%. West Pharmaceutical Services (WST) -12%. Biogen (BIIB) -9%. MGM Resorts International (MGM) -9%
 
 Long-Short 09/02/24 - 16/02/24. P\L: $8068.07. Top three in USD, VF Corp (VFC) 2235.19, Albemarle Corp (ALB) 1491.87 and Bio-Rad (BIO) 1185.89. Bottom three in USD, Carmax Inc (KMX) -637.27, ON Semiconductor Corp (ON) -645.1 and DaVita Inc (DVA) -3093.24.
+
+Long-Only 09/02/24 - 16/02/24. P\L: $18733.44. Top three in USD, The Trade Desk Inc (TTD) 20421.58, Tesla Inc (TSLA) 3534.52 and Illumina Inc (ILMN) 2874.12. Bottom three in USD, DoorDash Inc (DASH) -2765.4, Atlassian Corp (TEAM) -3494.4 and Datadog Inc (DDOG) -3500.09.
