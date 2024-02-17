@@ -1212,3 +1212,5 @@ World: London +1.8% to 7,712. France +1.6% to 7,768. Germany +1.1% to 17,117. Ja
 Commodities and Bonds: Crude Oil WTI +3.1% to $79.22/bbl. Gold -0.7% to $2,025.5/oz. Natural Gas -13.2% to 1.603. Ten-Year Bond Yield -0.2 bps to 4.281
 
 Forex and Cryptos: EUR/USD -0.05%. USD/JPY +0.59%. GBP/USD -0.14%. Bitcoin +8.8%. Litecoin -0.7%. Ethereum +11.8%. XRP +7.7%
+
+S&P 500 Gainers: Diamondback Energy (FANG) +18%. Trimble (TRMB) +15%. Viatris (VTRS) +12%. Targa Resources (TRGP) +11%. DaVita (DVA) +11%
