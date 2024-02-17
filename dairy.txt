@@ -1190,3 +1190,5 @@ Ten-year Treasury Yield +2 bps to 4.26%
 Long-Short Pre-market Summary. P\L: 15.31 bps. NAV% 0.66%. Top three in bps, Albemarle Corporation (ALB) 3.84, Tesla, Inc. (TSLA) 4.29 and Bio-Rad (BIO) 4.75. Bottom three in bps, Broadcom Inc. (AVGO) -2.52, Illumina (ILMN) -2.46 and Amphenol (APH) -1.69
 
 Long-Only Pre-market Summary. P\L: 93.98 bps. Top three in bps, Datadog Inc (DDOG) 7.98, Tesla Inc (TSLA) 14.48 and Trade Desk Inc/The (TTD) 161.38. Bottom three in bps, DoorDash Inc (DASH) -72.62, Warner Bros Discovery Inc (WBD) -10.29 and Illumina Inc (ILMN) -7.72
+
+Risk LO, SD 1.8%, VaR 2.66% and CVaR 3.68%. Daily change, SD -2.84%, VaR -6.13%, CVaR -5.24%.
