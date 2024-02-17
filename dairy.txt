@@ -1214,3 +1214,5 @@ Commodities and Bonds: Crude Oil WTI +3.1% to $79.22/bbl. Gold -0.7% to $2,025.5
 Forex and Cryptos: EUR/USD -0.05%. USD/JPY +0.59%. GBP/USD -0.14%. Bitcoin +8.8%. Litecoin -0.7%. Ethereum +11.8%. XRP +7.7%
 
 S&P 500 Gainers: Diamondback Energy (FANG) +18%. Trimble (TRMB) +15%. Viatris (VTRS) +12%. Targa Resources (TRGP) +11%. DaVita (DVA) +11%
+
+S&P 500 Losers: Akamai Technologies (AKAM) -15%. Adobe (ADBE) -13%. West Pharmaceutical Services (WST) -12%. Biogen (BIIB) -9%. MGM Resorts International (MGM) -9%
