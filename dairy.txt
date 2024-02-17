@@ -1192,3 +1192,5 @@ Long-Short Pre-market Summary. P\L: 15.31 bps. NAV% 0.66%. Top three in bps, Alb
 Long-Only Pre-market Summary. P\L: 93.98 bps. Top three in bps, Datadog Inc (DDOG) 7.98, Tesla Inc (TSLA) 14.48 and Trade Desk Inc/The (TTD) 161.38. Bottom three in bps, DoorDash Inc (DASH) -72.62, Warner Bros Discovery Inc (WBD) -10.29 and Illumina Inc (ILMN) -7.72
 
 Risk LO, SD 1.8%, VaR 2.66% and CVaR 3.68%. Daily change, SD -2.84%, VaR -6.13%, CVaR -5.24%.
+
+P\L: -75.93 bps. Top three in bps, Charter Communications Inc (CHTR) -2.1, Zscaler Inc (ZS) -2.06 and Trade Desk Inc/The (TTD) 144.96. Bottom three in bps, DoorDash Inc (DASH) -88.0, Moderna Inc (MRNA) -27.01 and Warner Bros Discovery Inc (WBD) -25.71.
