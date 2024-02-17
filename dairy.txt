@@ -1208,3 +1208,5 @@ US: Dow -0.1% to 38,628. S&P 500 -0.4% to 5,006. Nasdaq -1.3% to 15,776. Russell
 Consumer Staples +0.2%. Utilities +1.4%. Financials +1.4%. Telecom -1.6%. Healthcare +1%. Industrials +0.9%. Information Technology -2.5%. Materials +2.4%. Energy +2.2%. Consumer Discretionary -0.8%. Real Estate -0.2%
 
 World: London +1.8% to 7,712. France +1.6% to 7,768. Germany +1.1% to 17,117. Japan +4.3% to 38,487. China flat at 2,866. Hong Kong +3.8% to 16,340. India +1.2% to 72,427
+
+Commodities and Bonds: Crude Oil WTI +3.1% to $79.22/bbl. Gold -0.7% to $2,025.5/oz. Natural Gas -13.2% to 1.603. Ten-Year Bond Yield -0.2 bps to 4.281
