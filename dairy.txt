@@ -1248,3 +1248,5 @@ In Asia, Japan -0.3%. Hong Kong +0.6%. China +0.4%. India +0.5%.
  P\L: -21.87 bps. NAV% 0.52%. Top three in bps, McCormick & Company (MKC) 4.26, Broadcom Inc. (AVGO) 4.74 and United Airlines Holdings (UAL) 5.69. Bottom three in bps, Albemarle Corporation (ALB) -16.51, Tesla, Inc. (TSLA) -8.42 and Illumina (ILMN) -7.04
 
  LO Risk, SD 1.69%, VaR 2.56% and CVaR 3.52%. Daily change, SD -8.4%, VaR -9.66%, CVaR -9.32%
+
+ P\L: -178.3 bps. Top three in bps, Charter Communications Inc (CHTR) 3.66, Warner Bros Discovery Inc (WBD) 6.76 and Walgreens Boots Alliance Inc (WBA) 9.29. Bottom three in bps, Trade Desk Inc/The (TTD) -77.01, Tesla Inc (TSLA) -35.88 and Illumina Inc (ILMN) -18.58.
