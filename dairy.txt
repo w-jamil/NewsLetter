@@ -1224,3 +1224,5 @@ Long-Only 09/02/24 - 16/02/24. P\L: $18733.44. Top three in USD, The Trade Desk 
 Long-Short Pre-market Summary. P\L: 26.89 bps. NAV% 0.78%. Top three in bps, Bio-Rad (BIO) 8.98, Dollar General (DG) 9.52 and Albemarle Corporation (ALB) 11.34. Bottom three in bps, Illumina (ILMN) -6.67, ON Semiconductor (ON) -5.99 and DaVita Inc. (DVA) -5.59.
 
 Long-Only Pre-market Summary. P\L: -75.93 bps. Top three in bps, Charter Communications Inc (CHTR) -2.1, Zscaler Inc (ZS) -2.06 and Trade Desk Inc/The (TTD) 144.96. Bottom three in bps, DoorDash Inc (DASH) -88.0, Moderna Inc (MRNA) -27.01 and Warner Bros Discovery Inc (WBD) -25.71.
+
+Capital one agreed to acquire Discover Financial to compete with Visa and Mastercard. Currently Visa at 559.62 billion and mastercard 436.71 billion, combined market capitalisation of Capital one and Discover Financial will be around 143 billion. The effect on the overall dynamic in the long term is not clear yet. Pre-market Discover Financial shares are up 13.6%, while Capital one is down 4.6%. Capital one estimates 15% addition to its EPS by 2027, return on investment of 16% in 2027 with internal rate of return of 20%. 
