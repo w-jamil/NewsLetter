@@ -1240,3 +1240,5 @@ In Asia, Japan -0.3%. Hong Kong +0.6%. China +0.4%. India +0.5%.
  Ten-year Treasury Yield -4 bps to 4.28%.
 
  Long-Short Pre-market Summary. P\L: 5.38 bps. NAV% 0.79%. Top three in bps, Newmont (NEM) 1.77, Broadcom Inc. (AVGO) 2.36 and Air Products and Chemicals (APD) 2.68. Bottom three in bps, Tesla, Inc. (TSLA) -3.87, ON Semiconductor (ON) -1.97 and BorgWarner (BWA) -1.23.
+
+ Long-Only Pre-market Summary. P\L: -86.12 bps. Top three in bps, Walgreens Boots Alliance Inc (WBA) -2.79, Warner Bros Discovery Inc (WBD) -0.96 and Charter Communications Inc (CHTR) -0.03. Bottom three in bps, Trade Desk Inc/The (TTD) -23.27, Tesla Inc (TSLA) -16.6 and Datadog Inc (DDOG) -9.08.
