@@ -1274,3 +1274,5 @@ In Asia, Japan -0.3%. Hong Kong +0.6%. China +0.4%. India +0.5%.
  P\L: -13.5 bps. NAV% -0.6%. Top three in bps, DaVita Inc. (DVA) 5.1, Albemarle Corporation (ALB) 7.61 and International Flavors & Fragrances (IFF) 9.34. Bottom three in bps, Illumina (ILMN) -7.8, Charter Communications (CHTR) -6.91 and Walgreens Boots Alliance Inc (WBA) -6.73.
 
  P\L: -258.79 bps. Top three in bps, Atlassian Corp (TEAM) -2.3, Moderna Inc (MRNA) -1.21 and Tesla Inc (TSLA) 5.01. Bottom three in bps, Zscaler Inc (ZS) -134.6, Warner Bros Discovery Inc (WBD) -32.7 and Illumina Inc (ILMN) -20.22
+
+ Risk, SD 1.81%, VaR 3.0% and CVaR 4.03%. Daily change, SD 6.89%, VaR 17.32%, CVaR 14.47%
