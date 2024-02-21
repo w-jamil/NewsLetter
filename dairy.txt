@@ -1256,3 +1256,5 @@ In Asia, Japan -0.3%. Hong Kong +0.6%. China +0.4%. India +0.5%.
  Long-Only Pre-market Summary. P\L: -153.27 bps.Top three in bps, Charter Communications Inc (CHTR) -0.65, Illumina Inc (ILMN) 0.0 and Warner Bros Discovery Inc (WBD) 2.94. Bottom three in bps, Zscaler Inc (ZS) -84.01, Datadog Inc (DDOG) -20.27 and Walgreens Boots Alliance Inc (WBA) -16.29. 
 
  In Asia, Japan -0.3%. Hong Kong +1.6%. China +1%. India -0.6%.
+
+ In Europe, at midday, London -0.8%. Paris +0.2%. Frankfurt +0.4%.
