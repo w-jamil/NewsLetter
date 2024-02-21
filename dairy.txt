@@ -1270,3 +1270,5 @@ In Asia, Japan -0.3%. Hong Kong +0.6%. China +0.4%. India +0.5%.
  Amazon (AMZN) will be added to the Dow Jones Industrial Average (DJI), replacing Walgreens Boots Alliance (WBA). 
 
  Risk Long (Short), SD 0.71% (0.36%), VaR 1.12% (0.64%) and CVaR 1.52% (0.84%). Daily change Long (Short), SD -0.05% (0.32%), VaR -4.53% (3.31%), CVaR -3.39% (2.56%)
+
+ P\L: -13.5 bps. NAV% -0.6%. Top three in bps, DaVita Inc. (DVA) 5.1, Albemarle Corporation (ALB) 7.61 and International Flavors & Fragrances (IFF) 9.34. Bottom three in bps, Illumina (ILMN) -7.8, Charter Communications (CHTR) -6.91 and Walgreens Boots Alliance Inc (WBA) -6.73.
