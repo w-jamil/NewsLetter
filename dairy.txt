@@ -1250,3 +1250,5 @@ In Asia, Japan -0.3%. Hong Kong +0.6%. China +0.4%. India +0.5%.
  LO Risk, SD 1.69%, VaR 2.56% and CVaR 3.52%. Daily change, SD -8.4%, VaR -9.66%, CVaR -9.32%
 
  P\L: -178.3 bps. Top three in bps, Charter Communications Inc (CHTR) 3.66, Warner Bros Discovery Inc (WBD) 6.76 and Walgreens Boots Alliance Inc (WBA) 9.29. Bottom three in bps, Trade Desk Inc/The (TTD) -77.01, Tesla Inc (TSLA) -35.88 and Illumina Inc (ILMN) -18.58.
+
+ Long-Short Pre-market Summary . P\L: 8.84 bps. NAV% 0.63%. Top three in bps, Albemarle Corporation (ALB) 1.77, Exelon (EXC) 3.02 and International Flavors & Fragrances (IFF) 11.18. Bottom three in bps, Walgreens Boots Alliance (WBA) -4.75, ON Semiconductor (ON) -1.54 and Tesla, Inc. (TSLA) -1.33. 
