@@ -1268,3 +1268,5 @@ In Asia, Japan -0.3%. Hong Kong +0.6%. China +0.4%. India +0.5%.
  Uber is involved in project that will enable to deliver food using autonomous robots. 
 
  Amazon (AMZN) will be added to the Dow Jones Industrial Average (DJI), replacing Walgreens Boots Alliance (WBA). 
+
+ Risk Long (Short), SD 0.71% (0.36%), VaR 1.12% (0.64%) and CVaR 1.52% (0.84%). Daily change Long (Short), SD -0.05% (0.32%), VaR -4.53% (3.31%), CVaR -3.39% (2.56%)
