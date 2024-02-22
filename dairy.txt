@@ -1291,4 +1291,6 @@ In Asia, Japan -0.3%. Hong Kong +0.6%. China +0.4%. India +0.5%.
 
  Ten-year Treasury Yield -1 bp to 4.31%.
 
+ P\L: -7.35 bps. NAV% -0.66%.
+
 
