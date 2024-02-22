@@ -1280,3 +1280,6 @@ In Asia, Japan -0.3%. Hong Kong +0.6%. China +0.4%. India +0.5%.
  Nvidia (NVDA) surged 9.1% to $735.94/share AH on Wednesday as the chip giant once again surpassed expectations with its Q4 results.
 
  Japan's main stock index, closed at a new all-time high above 39,000, following a record run last seen during the country's late-1980s asset bubble.
+
+ No discussion on when rates might get cut, but policymakers noted the importance of monitoring data.
+
