@@ -1311,3 +1311,4 @@ Risk, SD 2.15%, VaR 3.18% and CVaR 4.4%. Daily change, SD 18.91%, VaR 5.76%, CVa
 
 Risk Long (Short), SD 0.71% (0.38%), VaR 1.12% (0.7%) and CVaR 1.52% (0.91%). Daily change Long (Short), SD 0.52% (5.38%), VaR -0.37% (9.2%), CVaR -0.14% (8.27%)
 
+P\L: -27.06 bps. NAV% -0.85%. Top three in bps, CarMax (KMX) 5.88, Booking Holdings (BKNG) 6.51 and Charter Communications (CHTR) 7.83. Bottom three in bps, Broadcom Inc. (AVGO) -20.15, Newmont (NEM) -13.01 and Gartner (IT) -7.26.
