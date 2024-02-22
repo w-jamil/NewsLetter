@@ -1305,5 +1305,7 @@ Newmont Non-GAAP EPS of $0.50, revenue of $4B
 
 Newmont to sell six non-core assets, sees additional $500M cost savings
 
-P\\L: 298.65 bps. Top three in bps, Zscaler Inc (ZS) 44.86, DoorDash Inc (DASH) 58.75 and Moderna Inc (MRNA) 105.12. Bottom three in bps, Walgreens Boots Alliance Inc (WBA) -5.59, Illumina Inc (ILMN) -4.63 and Warner Bros Discovery Inc (WBD) -0.96
+P\L: 298.65 bps. Top three in bps, Zscaler Inc (ZS) 44.86, DoorDash Inc (DASH) 58.75 and Moderna Inc (MRNA) 105.12. Bottom three in bps, Walgreens Boots Alliance Inc (WBA) -5.59, Illumina Inc (ILMN) -4.63 and Warner Bros Discovery Inc (WBD) -0.96
+
+Risk, SD 2.15%, VaR 3.18% and CVaR 4.4%. Daily change, SD 18.91%, VaR 5.76%, CVaR 9.12%
 
