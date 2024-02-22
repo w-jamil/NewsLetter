@@ -1293,4 +1293,6 @@ In Asia, Japan -0.3%. Hong Kong +0.6%. China +0.4%. India +0.5%.
 
  P\L: -7.35 bps. NAV% -0.66%.
 
+ Top three in bps, VF Corporation (VFC) 2.1, Illumina (ILMN) 2.98 and ON Semiconductor (ON) 4.62
+
 
