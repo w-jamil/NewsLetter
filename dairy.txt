@@ -1309,3 +1309,5 @@ P\L: 298.65 bps. Top three in bps, Zscaler Inc (ZS) 44.86, DoorDash Inc (DASH) 5
 
 Risk, SD 2.15%, VaR 3.18% and CVaR 4.4%. Daily change, SD 18.91%, VaR 5.76%, CVaR 9.12%
 
+Risk Long (Short), SD 0.71% (0.38%), VaR 1.12% (0.7%) and CVaR 1.52% (0.91%). Daily change Long (Short), SD 0.52% (5.38%), VaR -0.37% (9.2%), CVaR -0.14% (8.27%)
+
