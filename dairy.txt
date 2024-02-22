@@ -1297,5 +1297,7 @@ In Asia, Japan -0.3%. Hong Kong +0.6%. China +0.4%. India +0.5%.
 
  Long-Only Pre-market Summary. P\L: 236.58 bps. Top three in bps, Zscaler Inc (ZS) 39.54, DoorDash Inc (DASH) 50.24 and Moderna Inc (MRNA) 51.5. Bottom three in bps, Walgreens Boots Alliance Inc (WBA) 0.0, Charter Communications Inc (CHTR) 2.43 and Tesla Inc (TSLA) 5.12.
 
+ Moderna posts Q4 revenue beat amid market share gains
+
 
 
