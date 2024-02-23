@@ -1320,3 +1320,5 @@ Long-Short Pre-market Summary. P\L: 46.01 bps. NAV% -0.68%. Top three in bps, Ne
 The latest rally resulted in the biggest single-session increase for a U.S. company in history, with Nvidia adding $277B in market value.
 
 Nvidia skyrocketing nearly 60% this year, it now accounts for more than a quarter of the benchmark S&P's increase YTD
+
+"Of course, there will come a time when Nvidia's AI demand will slow down, and growth will become lower than expected, leading to worsening profits and a lower stock price," Investing Group Leader Victor Dergunov writes in Nvidia Q4: It's Good To Be The King. 
