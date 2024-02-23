@@ -1324,3 +1324,5 @@ Nvidia skyrocketing nearly 60% this year, it now accounts for more than a quarte
 "Of course, there will come a time when Nvidia's AI demand will slow down, and growth will become lower than expected, leading to worsening profits and a lower stock price," Investing Group Leader Victor Dergunov writes in Nvidia Q4: It's Good To Be The King. 
 
 In Asia, Japan closed. Hong Kong -0.1%. China +0.6%. India flat.
+
+In Europe, at midday, London flat. Paris +0.6%. Frankfurt +0.1%.
