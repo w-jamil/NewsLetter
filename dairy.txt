@@ -1318,3 +1318,5 @@ LO pre-market. P\L: -44.46 bps. Top three in bps, DoorDash Inc (DASH) 0.36, Zsca
 Long-Short Pre-market Summary. P\L: 46.01 bps. NAV% -0.68%. Top three in bps, Newmont (NEM) 1.21, CarMax (KMX) 2.59 and Booking Holdings (BKNG) 42.56.Bottom three in bps, Tesla, Inc. (TSLA) -1.74, Morgan Stanley (MS) -1.08 and Illumina (ILMN) -0.58. 
 
 The latest rally resulted in the biggest single-session increase for a U.S. company in history, with Nvidia adding $277B in market value.
+
+Nvidia skyrocketing nearly 60% this year, it now accounts for more than a quarter of the benchmark S&P's increase YTD
