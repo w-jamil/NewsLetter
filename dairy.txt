@@ -1314,3 +1314,5 @@ Risk Long (Short), SD 0.71% (0.38%), VaR 1.12% (0.7%) and CVaR 1.52% (0.91%). Da
 P\L: -27.06 bps. NAV% -0.85%. Top three in bps, CarMax (KMX) 5.88, Booking Holdings (BKNG) 6.51 and Charter Communications (CHTR) 7.83. Bottom three in bps, Broadcom Inc. (AVGO) -20.15, Newmont (NEM) -13.01 and Gartner (IT) -7.26.
 
 LO pre-market. P\L: -44.46 bps. Top three in bps, DoorDash Inc (DASH) 0.36, Zscaler Inc (ZS) 0.86 and PayPal Holdings Inc (PYPL) 5.92. Bottom three in bps, Warner Bros Discovery Inc (WBD) -41.46, Tesla Inc (TSLA) -7.43 and Illumina Inc (ILMN) -1.68
+
+Long-Short Pre-market Summary. P\L: 46.01 bps. NAV% -0.68%. Top three in bps, Newmont (NEM) 1.21, CarMax (KMX) 2.59 and Booking Holdings (BKNG) 42.56.Bottom three in bps, Tesla, Inc. (TSLA) -1.74, Morgan Stanley (MS) -1.08 and Illumina (ILMN) -0.58. 
