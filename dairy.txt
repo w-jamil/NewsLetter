@@ -1316,3 +1316,5 @@ P\L: -27.06 bps. NAV% -0.85%. Top three in bps, CarMax (KMX) 5.88, Booking Holdi
 LO pre-market. P\L: -44.46 bps. Top three in bps, DoorDash Inc (DASH) 0.36, Zscaler Inc (ZS) 0.86 and PayPal Holdings Inc (PYPL) 5.92. Bottom three in bps, Warner Bros Discovery Inc (WBD) -41.46, Tesla Inc (TSLA) -7.43 and Illumina Inc (ILMN) -1.68
 
 Long-Short Pre-market Summary. P\L: 46.01 bps. NAV% -0.68%. Top three in bps, Newmont (NEM) 1.21, CarMax (KMX) 2.59 and Booking Holdings (BKNG) 42.56.Bottom three in bps, Tesla, Inc. (TSLA) -1.74, Morgan Stanley (MS) -1.08 and Illumina (ILMN) -0.58. 
+
+The latest rally resulted in the biggest single-session increase for a U.S. company in history, with Nvidia adding $277B in market value.
