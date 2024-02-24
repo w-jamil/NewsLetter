@@ -1347,3 +1347,5 @@ Risk, SD 2.18%, VaR 3.43% and CVaR 4.67%. Daily change, SD 1.34%, VaR 7.99%, CVa
 P\L LO: -147.6 bps. Top three in bps, Walgreens Boots Alliance Inc (WBA) 7.1, PayPal Holdings Inc (PYPL) 10.88 and Zscaler Inc (ZS) 34.13. Bottom three in bps, Warner Bros Discovery Inc (WBD) -92.54, Tesla Inc (TSLA) -33.02 and Moderna Inc (MRNA) -27.18
 
 Risk Long (Short), SD 0.71% (0.38%), VaR 1.12% (0.72%) and CVaR 1.52% (0.93%). Daily change Long (Short), SD 0.05% (-0.92%), VaR 0.22% (2.61%), CVaR 0.18% (1.78%). 
+
+LS P\L: 21.47 bps. NAV% -0.93%. Top three in bps, John Deere (DE) 3.55, Albemarle Corporation (ALB) 5.03 and Booking Holdings (BKNG) 50.33. Bottom three in bps, Tesla, Inc. (TSLA) -7.1, ON Semiconductor (ON) -6.14 and DaVita Inc. (DVA) -5.62.
