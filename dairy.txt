@@ -1357,3 +1357,5 @@ LS P\L: -1.2 bps. NAV% -0.95%. Top three in bps, Tesla, Inc. (TSLA) 0.53, ON Sem
 Customer unhappy with AT&T network outage reimbursement.
 
 Nvidia skyrocketing nearly 60% this year, it now accounts for more than a quarter of the benchmark S&P's increase YTD.
+
+Customer unhappy with AT&T network outage reimbursement.
