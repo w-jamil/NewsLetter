@@ -1355,3 +1355,5 @@ LO TECH P\L: 3.31 bps. Top three in bps, Tesla Inc (TSLA) 2.82, Zscaler Inc (ZS)
 LS P\L: -1.2 bps. NAV% -0.95%. Top three in bps, Tesla, Inc. (TSLA) 0.53, ON Semiconductor (ON) 0.59 and DR Horton (DHI) 0.91. Bottom three in bps, Broadcom Inc. (AVGO) -2.48, Newmont (NEM) -0.85 and Whirlpool Corporation (WHR) -0.51
 
 Customer unhappy with AT&T network outage reimbursement.
+
+Nvidia skyrocketing nearly 60% this year, it now accounts for more than a quarter of the benchmark S&P's increase YTD.
