@@ -1353,3 +1353,5 @@ LS P\L: 21.47 bps. NAV% -0.93%. Top three in bps, John Deere (DE) 3.55, Albemarl
 LO TECH P\L: 3.31 bps. Top three in bps, Tesla Inc (TSLA) 2.82, Zscaler Inc (ZS) 4.75 and Warner Bros Discovery Inc (WBD) 8.76. Bottom three in bps, Moderna Inc (MRNA) -13.27, PayPal Holdings Inc (PYPL) -2.39 and Atlassian Corp (TEAM) 0.0
 
 LS P\L: -1.2 bps. NAV% -0.95%. Top three in bps, Tesla, Inc. (TSLA) 0.53, ON Semiconductor (ON) 0.59 and DR Horton (DHI) 0.91. Bottom three in bps, Broadcom Inc. (AVGO) -2.48, Newmont (NEM) -0.85 and Whirlpool Corporation (WHR) -0.51
+
+Customer unhappy with AT&T network outage reimbursement.
