@@ -1373,3 +1373,5 @@ Ten-year Treasury Yield -1 bps to 4.25%.
 LS P\L: -7.6 bps. NAV% -1.02%. Top three in bps, International Flavors & Fragrances (IFF) 4.86, Illumina (ILMN) 7.46 and Tesla, Inc. (TSLA) 9.23. Bottom three in bps, VF Corporation (VFC) -7.77, Newmont (NEM) -6.72 and Whirlpool Corporation (WHR) -6.07
 
 Risk Long (Short), SD 0.65% (0.4%), VaR 1.15% (0.68%) and CVaR 1.52% (0.91%). Daily change Long (Short), SD -9.06% (7.04%), VaR 2.7% (-5.36%), CVaR -0.42% (-2.49%)
+
+LO P\L: 24.34 bps. Top three in bps, Illumina Inc (ILMN) 21.64, Zscaler Inc (ZS) 25.94 and Tesla Inc (TSLA) 43.82. Bottom three in bps, Moderna Inc (MRNA) -22.14, Walgreens Boots Alliance Inc (WBA) -20.68 and DoorDash Inc (DASH) -16.55
