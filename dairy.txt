@@ -1349,3 +1349,5 @@ P\L LO: -147.6 bps. Top three in bps, Walgreens Boots Alliance Inc (WBA) 7.1, Pa
 Risk Long (Short), SD 0.71% (0.38%), VaR 1.12% (0.72%) and CVaR 1.52% (0.93%). Daily change Long (Short), SD 0.05% (-0.92%), VaR 0.22% (2.61%), CVaR 0.18% (1.78%). 
 
 LS P\L: 21.47 bps. NAV% -0.93%. Top three in bps, John Deere (DE) 3.55, Albemarle Corporation (ALB) 5.03 and Booking Holdings (BKNG) 50.33. Bottom three in bps, Tesla, Inc. (TSLA) -7.1, ON Semiconductor (ON) -6.14 and DaVita Inc. (DVA) -5.62.
+
+LO TECH P\L: 3.31 bps. Top three in bps, Tesla Inc (TSLA) 2.82, Zscaler Inc (ZS) 4.75 and Warner Bros Discovery Inc (WBD) 8.76. Bottom three in bps, Moderna Inc (MRNA) -13.27, PayPal Holdings Inc (PYPL) -2.39 and Atlassian Corp (TEAM) 0.0
