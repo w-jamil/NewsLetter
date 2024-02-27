@@ -1395,3 +1395,5 @@ Ten-year Treasury Yield -3 bps to 4.27%.
 Long-Short Yesterday. P\L: -0.04%. Top three, Tesla, Inc. (TSLA) 0.08%, Ilumina (ILMN) 0.06% and International Flavors & Fragrances Inc (IFF) 0.04%. Bottom three, VF Corporation (VFC) -0.07%, Newmont (NEM) -0.06% and Whirlpool Corporation (WHR) -0.05%. 
 
 Long-Only Yesterday. P\L: 0.23%. Top three, Tesla Inc (TSLA) 0.42%, Zscaler Inc (ZS) 0.24% and Ilumina 0.21%. Bottom three in bps, Moderna Inc (MRNA) -0.22%, Walgreens Boots Alliance Inc (WBA) -0.20% DoorDash Inc (DASH) -0.16%. 
+
+Long-Only Risk-Reward. Risk, SD 1.98%, VaR 2.66% and CVaR 3.79%. Daily change, SD -8.9%, VaR -23.42%, CVaR -19.6%. P\L: 163.12 bps. Top three in bps, Moderna Inc (MRNA) 19.46, DoorDash Inc (DASH) 33.18 and Trade Desk Inc/The (TTD) 41.06. Bottom three in bps, Charter Communications Inc (CHTR) -4.5, Tesla Inc (TSLA) 0.57 and Zscaler Inc (ZS) 2.92. 
