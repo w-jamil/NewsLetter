@@ -1377,3 +1377,5 @@ Risk Long (Short), SD 0.65% (0.4%), VaR 1.15% (0.68%) and CVaR 1.52% (0.91%). Da
 LO P\L: 24.34 bps. Top three in bps, Illumina Inc (ILMN) 21.64, Zscaler Inc (ZS) 25.94 and Tesla Inc (TSLA) 43.82. Bottom three in bps, Moderna Inc (MRNA) -22.14, Walgreens Boots Alliance Inc (WBA) -20.68 and DoorDash Inc (DASH) -16.55
 
 LO Risk, SD 2.17%, VaR 3.47% and CVaR 4.71%. Daily change, SD -0.31%, VaR 1.23%, CVaR 0.82%
+
+JPMorgan (JPM) CEO Jamie Dimon is not too worried about commercial real estate, saying the sector's issues will only worsen if there is a recession.
