@@ -1387,3 +1387,5 @@ Alphabet (GOOG, GOOGL) fell more than 4% on Monday as Google's AI-powered face g
 In Asia, Japan flat. Hong Kong +0.9%. China +1.3%. India +0.4%.
 
 In Europe, at midday, London flat. Paris +0.1%. Frankfurt +0.4%.
+
+Futures at 7:00, Dow flat. S&P +0.1%. Nasdaq +0.1%. Crude -0.5% to $77.23. Gold +0.4% to $2,047.60. Bitcoin +10.7% to $56,587.
