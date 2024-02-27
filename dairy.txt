@@ -1379,3 +1379,5 @@ LO P\L: 24.34 bps. Top three in bps, Illumina Inc (ILMN) 21.64, Zscaler Inc (ZS)
 LO Risk, SD 2.17%, VaR 3.47% and CVaR 4.71%. Daily change, SD -0.31%, VaR 1.23%, CVaR 0.82%
 
 JPMorgan (JPM) CEO Jamie Dimon is not too worried about commercial real estate, saying the sector's issues will only worsen if there is a recession.
+
+Wendy's (WEN) is planning to test surge pricing next year, like Uber (UBER) and Lyft (LYFT). This means menu items would be more expensive during peak hours.
