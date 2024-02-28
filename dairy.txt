@@ -1417,3 +1417,5 @@ Ten-year Treasury Yield -3 bps to 4.29%.
 Pre-market Summary Long-Short. P\L: 1.72 bps. NAV% -0.58%. Top three in bps, NXP Semiconductors (NXPI) 1.29, Broadcom Inc. (AVGO) 1.66 and Albemarle Corporation (ALB) 4.92. Bottom three in bps, Aptiv (APTV) -1.76, ON Semiconductor (ON) -1.67 and VF Corporation (VFC) -1.45. 
 
 Pre-market Summary Long-Only. P\L: -59.38 bps. Top three in bps, Illumina Inc (ILMN) -0.05, Charter Communications Inc (CHTR) 0.0 and Tesla Inc (TSLA) 3.65. Bottom three in bps, Trade Desk Inc/The (TTD) -13.56, Zscaler Inc (ZS) -11.83 and Datadog Inc (DDOG) -8.77. 
+
+Long-Only Risk-Reward. Risk, SD 1.87%, VaR 2.76% and CVaR 3.82%. Daily change, SD -5.41%, VaR 3.62%, CVaR 0.93%. P\L: -96.62 bps. Top three in bps, Illumina Inc (ILMN) 6.61, Moderna Inc (MRNA) 7.2 and Tesla Inc (TSLA) 10.74. Bottom three in bps, Datadog Inc (DDOG) -45.73, Zscaler Inc (ZS) -27.96 and Trade Desk Inc/The (TTD) -15.68. 
