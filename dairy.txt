@@ -1403,3 +1403,5 @@ Long-Short Risk-Reward. Risk Long (Short), SD 0.39% (0.28%), VaR 0.58% (0.56%) a
 As Russia's invasion of Ukraine enters the third year, European Commission President Ursula von der Leyen said the region should prepare for the risks of a wider war
 
 Apple (AAPL) has reportedly canceled work on its electric vehicle initiative - Project Titan - and shifted some of the employees to work on generative artificial intelligence.
+
+Conditions are ripe for discontent, as wages in many industries have not kept up with the pace of inflation and the rising cost of living.
