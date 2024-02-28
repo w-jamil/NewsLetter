@@ -1401,3 +1401,5 @@ Long-Only Risk-Reward. Risk, SD 1.98%, VaR 2.66% and CVaR 3.79%. Daily change, S
 Long-Short Risk-Reward. Risk Long (Short), SD 0.39% (0.28%), VaR 0.58% (0.56%) and CVaR 0.81% (0.72%). Daily change Long (Short), SD 13.33% (-2.17%), VaR 30.34% (-5.09%), CVaR 25.13% (-4.46%). P\L: 42.75 bps. NAV% -0.58%. Top three in bps, CarMax (KMX) 6.99, VF Corporation (VFC) 9.18 and Albemarle Corporation (ALB) 14.41. Bottom three in bps, DaVita Inc. (DVA) -6.22, Bio-Rad (BIO) -5.48 and Masco (MAS) -2.99.
 
 As Russia's invasion of Ukraine enters the third year, European Commission President Ursula von der Leyen said the region should prepare for the risks of a wider war
+
+Apple (AAPL) has reportedly canceled work on its electric vehicle initiative - Project Titan - and shifted some of the employees to work on generative artificial intelligence.
