@@ -1399,3 +1399,5 @@ Long-Only Yesterday. P\L: 0.23%. Top three, Tesla Inc (TSLA) 0.42%, Zscaler Inc 
 Long-Only Risk-Reward. Risk, SD 1.98%, VaR 2.66% and CVaR 3.79%. Daily change, SD -8.9%, VaR -23.42%, CVaR -19.6%. P\L: 163.12 bps. Top three in bps, Moderna Inc (MRNA) 19.46, DoorDash Inc (DASH) 33.18 and Trade Desk Inc/The (TTD) 41.06. Bottom three in bps, Charter Communications Inc (CHTR) -4.5, Tesla Inc (TSLA) 0.57 and Zscaler Inc (ZS) 2.92. 
 
 Long-Short Risk-Reward. Risk Long (Short), SD 0.39% (0.28%), VaR 0.58% (0.56%) and CVaR 0.81% (0.72%). Daily change Long (Short), SD 13.33% (-2.17%), VaR 30.34% (-5.09%), CVaR 25.13% (-4.46%). P\L: 42.75 bps. NAV% -0.58%. Top three in bps, CarMax (KMX) 6.99, VF Corporation (VFC) 9.18 and Albemarle Corporation (ALB) 14.41. Bottom three in bps, DaVita Inc. (DVA) -6.22, Bio-Rad (BIO) -5.48 and Masco (MAS) -2.99.
+
+As Russia's invasion of Ukraine enters the third year, European Commission President Ursula von der Leyen said the region should prepare for the risks of a wider war
