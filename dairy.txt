@@ -1435,3 +1435,5 @@ In Europe, at midday, London +0.3%. Paris flat. Frankfurt +0.5%.
 Futures at 7:00, Dow -0.3%. S&P -0.2%. Nasdaq -0.2%. Crude -0.5% to $78.18. Gold -0.2% to $2,037.70. Bitcoin +6.8% to $62,992.
 
 Ten-year Treasury Yield +3 bps to 4.30%. 
+
+Pre-market Summary Long-Short. P\L: 8.65 bps. NAV% -1.18%. Top three in bps, Air Products and Chemicals (APD) 0.38, Albemarle Corporation (ALB) 7.14 and Hormel Foods (HRL) 7.29. Bottom three in bps, Broadcom Inc. (AVGO) -2.18, nan (DD) -1.93 and Oracle Corporation (ORCL) -0.99. 
