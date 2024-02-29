@@ -1439,3 +1439,5 @@ Ten-year Treasury Yield +3 bps to 4.30%.
 Pre-market Summary Long-Short. P\L: 8.65 bps. NAV% -1.18%. Top three in bps, Air Products and Chemicals (APD) 0.38, Albemarle Corporation (ALB) 7.14 and Hormel Foods (HRL) 7.29. Bottom three in bps, Broadcom Inc. (AVGO) -2.18, nan (DD) -1.93 and Oracle Corporation (ORCL) -0.99. 
 
 Pre-market Summary Long-Only. P\L: -44.65 bps. Top three in bps, Moderna Inc (MRNA) 0.0, Illumina Inc (ILMN) 0.1 and Walgreens Boots Alliance Inc (WBA) 0.56. Bottom three in bps, Datadog Inc (DDOG) -25.48, DoorDash Inc (DASH) -4.3 and Warner Bros Discovery Inc (WBD) -3.85
+
+Long-Only Risk-Reward. Risk, SD 1.14%, VaR 2.14% and CVaR 2.79%. Daily change, SD -31.25%, VaR -19.87%, CVaR -22.83%. P\L: 17.41 bps. Top three in bps, Charter Communications Inc (CHTR) 9.53, Zscaler Inc (ZS) 17.31 and DoorDash Inc (DASH) 18.55. Bottom three in bps, Moderna Inc (MRNA) -46.68, Illumina Inc (ILMN) -6.06 and Tesla Inc (TSLA) -1.04. 
