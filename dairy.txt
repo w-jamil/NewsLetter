@@ -1421,3 +1421,5 @@ Pre-market Summary Long-Only. P\L: -59.38 bps. Top three in bps, Illumina Inc (I
 Long-Only Risk-Reward. Risk, SD 1.87%, VaR 2.76% and CVaR 3.82%. Daily change, SD -5.41%, VaR 3.62%, CVaR 0.93%. P\L: -96.62 bps. Top three in bps, Illumina Inc (ILMN) 6.61, Moderna Inc (MRNA) 7.2 and Tesla Inc (TSLA) 10.74. Bottom three in bps, Datadog Inc (DDOG) -45.73, Zscaler Inc (ZS) -27.96 and Trade Desk Inc/The (TTD) -15.68. 
 
 Long-Short Risk-Reward. Risk Long (Short), SD 0.35% (0.27%), VaR 0.56% (0.5%) and CVaR 0.76% (0.65%). Daily change Long (Short), SD -10.67% (-4.38%), VaR -3.2% (-10.94%), CVaR -5.27% (-9.48%). P\L: 7.94 bps. NAV% -1.21%. Top three in bps, Humana (HUM) 2.35, Healthpeak (PEAK) 2.76 and Albemarle Corporation (ALB) 6.79. Bottom three in bps, Gartner (IT) -2.62, Booking Holdings (BKNG) -2.43 and NextEra Energy (NEE) -1.71.
+
+The core personal consumption expenditures price index, will be released at 8:30 AM ET – has the potential to reset the rates expectations. 
