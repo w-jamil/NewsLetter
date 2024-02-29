@@ -1437,3 +1437,5 @@ Futures at 7:00, Dow -0.3%. S&P -0.2%. Nasdaq -0.2%. Crude -0.5% to $78.18
 Ten-year Treasury Yield +3 bps to 4.30%. 
 
 Pre-market Summary Long-Short. P\L: 8.65 bps. NAV% -1.18%. Top three in bps, Air Products and Chemicals (APD) 0.38, Albemarle Corporation (ALB) 7.14 and Hormel Foods (HRL) 7.29. Bottom three in bps, Broadcom Inc. (AVGO) -2.18, nan (DD) -1.93 and Oracle Corporation (ORCL) -0.99. 
+
+Pre-market Summary Long-Only. P\L: -44.65 bps. Top three in bps, Moderna Inc (MRNA) 0.0, Illumina Inc (ILMN) 0.1 and Walgreens Boots Alliance Inc (WBA) 0.56. Bottom three in bps, Datadog Inc (DDOG) -25.48, DoorDash Inc (DASH) -4.3 and Warner Bros Discovery Inc (WBD) -3.85
