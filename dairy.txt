@@ -1441,3 +1441,6 @@ Pre-market Summary Long-Short. P\L: 8.65 bps. NAV% -1.18%. Top three in bps, Air
 Pre-market Summary Long-Only. P\L: -44.65 bps. Top three in bps, Moderna Inc (MRNA) 0.0, Illumina Inc (ILMN) 0.1 and Walgreens Boots Alliance Inc (WBA) 0.56. Bottom three in bps, Datadog Inc (DDOG) -25.48, DoorDash Inc (DASH) -4.3 and Warner Bros Discovery Inc (WBD) -3.85
 
 Long-Only Risk-Reward. Risk, SD 1.14%, VaR 2.14% and CVaR 2.79%. Daily change, SD -31.25%, VaR -19.87%, CVaR -22.83%. P\L: 17.41 bps. Top three in bps, Charter Communications Inc (CHTR) 9.53, Zscaler Inc (ZS) 17.31 and DoorDash Inc (DASH) 18.55. Bottom three in bps, Moderna Inc (MRNA) -46.68, Illumina Inc (ILMN) -6.06 and Tesla Inc (TSLA) -1.04. 
+
+Long-Short Risk-Reward. Risk Long (Short), SD 0.35% (0.23%), VaR 0.56% (0.41%) and CVaR 0.76% (0.54%). Daily change Long (Short), SD -1.17% (-12.59%), VaR -0.48% (-18.03%), CVaR -0.66% (-16.76%). P\L: 47.67 bps. NAV% -2.18%. Top three in bps, Newmont (NEM) 8.36, Albemarle Corporation (ALB) 11.03 and Hormel Foods (HRL) 18.37. Bottom three in bps, DR Horton (DHI) -5.56, NXP Semiconductors (NXPI) -4.98 and International Flavors & Fragrances (IFF) -4.51.
+
