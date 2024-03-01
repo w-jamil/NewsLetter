@@ -1458,3 +1458,5 @@ Futures at 7:00, Dow -0.1%. S&P -0.1%. Nasdaq flat. Crude +1.6% to $79.53. Gold 
 
 Ten-year Treasury Yield -3 bps to 4.23%.
 
+Pre-market Summary Long-Short. P\L: -1.14 bps. NAV% -2.2%. Top three in bps, Healthpeak (PEAK) 1.64, Newmont (NEM) 2.26 and Albemarle Corporation (ALB) 3.69. Bottom three in bps, Hewlett Packard Enterprise (HPE) -6.52, Broadcom Inc. (AVGO) -2.41 and Amgen (AMGN) -1.9.
+
