@@ -1446,3 +1446,5 @@ Long-Short Risk-Reward. Risk Long (Short), SD 0.35% (0.23%), VaR 0.56% (0.41%) a
 
 President Biden has directed Commerce Secretary Gina Raimondo to investigate connected vehicles amid national security risks.
 
+Fed's preferred inflation gauge - which met expectations and showed little progress in the central bank's fight to push inflation down to its 2% goal.
+
