@@ -1444,3 +1444,5 @@ Long-Only Risk-Reward. Risk, SD 1.14%, VaR 2.14% and CVaR 2.79%. Daily change, S
 
 Long-Short Risk-Reward. Risk Long (Short), SD 0.35% (0.23%), VaR 0.56% (0.41%) and CVaR 0.76% (0.54%). Daily change Long (Short), SD -1.17% (-12.59%), VaR -0.48% (-18.03%), CVaR -0.66% (-16.76%). P\L: 47.67 bps. NAV% -2.18%. Top three in bps, Newmont (NEM) 8.36, Albemarle Corporation (ALB) 11.03 and Hormel Foods (HRL) 18.37. Bottom three in bps, DR Horton (DHI) -5.56, NXP Semiconductors (NXPI) -4.98 and International Flavors & Fragrances (IFF) -4.51.
 
+President Biden has directed Commerce Secretary Gina Raimondo to investigate connected vehicles amid national security risks.
+
