@@ -1464,3 +1464,5 @@ Pre-market Summary Long-Only. P\L: -70.45 bps. Top three in bps, Illumina Inc (I
 
 Long-Only TECH Risk-Reward. Risk, SD 1.07%, VaR 1.89% and CVaR 2.5%. Daily change, SD -5.41%, VaR -11.83%, CVaR -10.34%. P\L: -88.7 bps. Top three in bps, Atlassian Corp (TEAM) 4.91, DoorDash Inc (DASH) 7.12 and Moderna Inc (MRNA) 20.26. Bottom three in bps, Zscaler Inc (ZS) -86.3, The Trade Desk (TTD) -12.38 and Warner Bros Discovery Inc (WBD) -10.28. 
 
+Long-Only SEC Risk-Reward. Risk, SD 0.78%, VaR 1.32% and CVaR 1.76%. Daily change, SD 1.36%, VaR -6.75%, CVaR -4.83%. P\L: -3.13 bps. Top three in bps, Dominion Energy (D) 0.74, Paycom (PAYC) 0.74 and Match Group (MTCH) 1.1. Bottom three in bps, Moderna (MRNA) -2.07, Bio-Rad (BIO) -1.81 and APA Corporation (APA) -1.14. 
+
