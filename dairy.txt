@@ -1460,3 +1460,5 @@ Ten-year Treasury Yield -3 bps to 4.23%.
 
 Pre-market Summary Long-Short. P\L: -1.14 bps. NAV% -2.2%. Top three in bps, Healthpeak (PEAK) 1.64, Newmont (NEM) 2.26 and Albemarle Corporation (ALB) 3.69. Bottom three in bps, Hewlett Packard Enterprise (HPE) -6.52, Broadcom Inc. (AVGO) -2.41 and Amgen (AMGN) -1.9.
 
+Pre-market Summary Long-Only. P\L: -70.45 bps. Top three in bps, Illumina Inc (ILMN) 0.0, PayPal Holdings Inc (PYPL) 0.12 and Moderna Inc (MRNA) 7.73. Bottom three in bps, Zscaler Inc (ZS) -65.07, Tesla Inc (TSLA) -7.07 and Warner Bros Discovery Inc (WBD) -3.85
+
