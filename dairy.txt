@@ -1462,3 +1462,5 @@ Pre-market Summary Long-Short. P\L: -1.14 bps. NAV% -2.2%. Top three in bps, Hea
 
 Pre-market Summary Long-Only. P\L: -70.45 bps. Top three in bps, Illumina Inc (ILMN) 0.0, PayPal Holdings Inc (PYPL) 0.12 and Moderna Inc (MRNA) 7.73. Bottom three in bps, Zscaler Inc (ZS) -65.07, Tesla Inc (TSLA) -7.07 and Warner Bros Discovery Inc (WBD) -3.85
 
+Long-Only TECH Risk-Reward. Risk, SD 1.07%, VaR 1.89% and CVaR 2.5%. Daily change, SD -5.41%, VaR -11.83%, CVaR -10.34%. P\L: -88.7 bps. Top three in bps, Atlassian Corp (TEAM) 4.91, DoorDash Inc (DASH) 7.12 and Moderna Inc (MRNA) 20.26. Bottom three in bps, Zscaler Inc (ZS) -86.3, The Trade Desk (TTD) -12.38 and Warner Bros Discovery Inc (WBD) -10.28. 
+
