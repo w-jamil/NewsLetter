@@ -1466,3 +1466,5 @@ Long-Only TECH Risk-Reward. Risk, SD 1.07%, VaR 1.89% and CVaR 2.5%. Daily chang
 
 Long-Only SEC Risk-Reward. Risk, SD 0.78%, VaR 1.32% and CVaR 1.76%. Daily change, SD 1.36%, VaR -6.75%, CVaR -4.83%. P\L: -3.13 bps. Top three in bps, Dominion Energy (D) 0.74, Paycom (PAYC) 0.74 and Match Group (MTCH) 1.1. Bottom three in bps, Moderna (MRNA) -2.07, Bio-Rad (BIO) -1.81 and APA Corporation (APA) -1.14. 
 
+Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.33% (0.26%), VaR 0.46% (0.53%) and CVaR 0.65% (0.67%). Daily change Long (Short), SD -5.55% (10.27%), VaR -18.18% (28.62%), CVaR -14.9% (24.11%). P\L: -33.99 bps. NAV% -2.52%. Top three in bps, Newmont (NEM) 4.06, ON Semiconductor (ON) 6.42 and Albemarle Corporation (ALB) 9.35. Bottom three in bps, Broadcom Inc. (AVGO) -29.02, Hormel Foods (HRL) -8.01 and NXP Semiconductors (NXPI) -6.68.
+
