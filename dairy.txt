@@ -1487,3 +1487,5 @@ Forex and Cryptos: EUR/USD +0.18%. USD/JPY -0.27%. GBP/USD -0.19%. Bitcoin +20.1
 S&P 500 Gainers: Constellation Energy (CEG) +27%. NetApp, Inc. (NTAP) +20%. Norwegian Cruise Line Holdings (NCLH) +19%. Albemarle (ALB) +18%. Axon Enterprise (AXON) +16%.
 
 S&P 500 Losers: Xcel Energy (XEL) -16%. Insulet (PODD) -8%. UnitedHealth Group (UNH) -7%. Viatris (VTRS) -7%. Dominion Energy (D) -6%.
+
+Long-Short ESG. P\L: 0.52%. Top three, Albemarle (ALB)  2.25%, ON Semiconductor (EL) 0.13% and Ilumina Inc (ILMN) 0.12%. Bottom three, Broadcom Inc (AVGO) -0.28%, NXP Semiconductors NV (NXPI) -0.14% and DR Horton Inc (DHII) -0.10%. 
