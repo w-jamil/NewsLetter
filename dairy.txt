@@ -1483,3 +1483,5 @@ World: London -0.3% to 7,683. France -0.4% to 7,934. Germany +1.8% to 17,735. Ja
 Commodities and Bonds: Crude Oil WTI +4.3% to $79.81/bbl. Gold +2.6% to $2,091.6/oz. Natural Gas +14.5% to 1.836. Ten-Year Bond Yield -0.2 bps to 4.186.
 
 Forex and Cryptos: EUR/USD +0.18%. USD/JPY -0.27%. GBP/USD -0.19%. Bitcoin +20.1%. Litecoin +28.4%. Ethereum +14.6%. XRP +15.4%.
+
+S&P 500 Gainers: Constellation Energy (CEG) +27%. NetApp, Inc. (NTAP) +20%. Norwegian Cruise Line Holdings (NCLH) +19%. Albemarle (ALB) +18%. Axon Enterprise (AXON) +16%.
