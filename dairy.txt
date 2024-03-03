@@ -1471,3 +1471,5 @@ Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.33% (0.26%), VaR 0.46% (0.53
 Beyond Meat (BYND) ripped 73.5% higher AH on Wednesday after reporting better-than-expected Q4 earnings.
 
 Bitcoin (BTC-USD) went on a roll this week, surging toward its all-time high and racking up its biggest monthly gain since December 2020.
+
+Apple (AAPL) reportedly canceled work on its electric vehicle initiative and shifted some of the employees to work on generative artificial intelligence.
