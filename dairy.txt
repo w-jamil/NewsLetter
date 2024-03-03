@@ -1489,3 +1489,5 @@ S&P 500 Gainers: Constellation Energy (CEG) +27%. NetApp, Inc. (NTAP) +20%. Norw
 S&P 500 Losers: Xcel Energy (XEL) -16%. Insulet (PODD) -8%. UnitedHealth Group (UNH) -7%. Viatris (VTRS) -7%. Dominion Energy (D) -6%.
 
 Long-Short ESG. P\L: 0.52%. Top three, Albemarle (ALB)  2.25%, ON Semiconductor (EL) 0.13% and Ilumina Inc (ILMN) 0.12%. Bottom three, Broadcom Inc (AVGO) -0.28%, NXP Semiconductors NV (NXPI) -0.14% and DR Horton Inc (DHII) -0.10%. 
+
+Long-Only TECH. P\L: 0.88%. Top three, Tesla Inc (TSLA) 0.60%, Ilumina Inc (ILMN) 0.37% and The Trade Desk (TTD) 0.35%. Bottom three,  Zscaler (ZS) -0.61%, The Trade Desk (MRNA) -0.17% and Charter (CHTR) -0.12%. 
