@@ -1485,3 +1485,5 @@ Commodities and Bonds: Crude Oil WTI +4.3% to $79.81/bbl. Gold +2.6% to $2,091.6
 Forex and Cryptos: EUR/USD +0.18%. USD/JPY -0.27%. GBP/USD -0.19%. Bitcoin +20.1%. Litecoin +28.4%. Ethereum +14.6%. XRP +15.4%.
 
 S&P 500 Gainers: Constellation Energy (CEG) +27%. NetApp, Inc. (NTAP) +20%. Norwegian Cruise Line Holdings (NCLH) +19%. Albemarle (ALB) +18%. Axon Enterprise (AXON) +16%.
+
+S&P 500 Losers: Xcel Energy (XEL) -16%. Insulet (PODD) -8%. UnitedHealth Group (UNH) -7%. Viatris (VTRS) -7%. Dominion Energy (D) -6%.
