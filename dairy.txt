@@ -1503,3 +1503,5 @@ The S&P 500 (SP500) is enjoying a strong run to start the year, a big thanks to 
 In Asia, Japan +0.5%. Hong Kong flat. China +0.4%. India +0.1%.
 
 In Europe, at midday, London -0.5%. Paris +0.1%. Frankfurt -0.1%.
+
+Futures at 7:00, Dow -0.2%. S&P -0.1%. Nasdaq flat. Crude -0.6% to $79.53. Gold -0.2% to $2,091.70. Bitcoin +5.4% to $65,207.
