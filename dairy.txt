@@ -1501,3 +1501,5 @@ Arkhouse Management and Brigade Capital offered to buy shares they don’t alrea
 The S&P 500 (SP500) is enjoying a strong run to start the year, a big thanks to artificial intelligence.
 
 In Asia, Japan +0.5%. Hong Kong flat. China +0.4%. India +0.1%.
+
+In Europe, at midday, London -0.5%. Paris +0.1%. Frankfurt -0.1%.
