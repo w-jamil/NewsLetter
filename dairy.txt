@@ -1515,3 +1515,5 @@ Pre-market Summary Long-Only TECH. P\L: -6.01 bps. Top three in bps, Sirius XM H
 Pre-market Summary Long-Only SEC. P\L: 5.12 bps. Top three in bps, Newmont (NEM) 1.22, Etsy (ETSY) 1.22 and Warner Bros. Discovery (WBD) 1.74. Bottom three in bps, Whirlpool Corporation (WHR) -3.58, VF Corporation (VFC) -0.65 and Walgreens Boots Alliance (WBA) -0.33. 
 
 Long-Only TECH Risk-Reward. Risk, SD 1.33%, VaR 2.49% and CVaR 3.24%. Daily change, SD 23.61%, VaR 31.81%, CVaR 29.8%. P\L: -296.71 bps. Top three in bps, Keurig Dr Pepper Inc (KDP) -1.55, Moderna Inc (MRNA) 8.29 and Xcel Energy Inc (XEL) 10.92. Bottom three in bps, Tesla Inc (TSLA) -100.46, Warner Bros Discovery Inc (WBD) -72.51 and Charter Communications Inc (CHTR) -40.28.
+
+Long-Only SEC Risk-Reward. Risk, SD 0.7%, VaR 1.13% and CVaR 1.53%. Daily change, SD -10.27%, VaR -14.59%, CVaR -13.5%. P\L: -50.61 bps. Top three in bps, KeyCorp (KEY) 7.27, Baxter International (BAX) 7.35 and Newmont (NEM) 13.44. Bottom three in bps, Warner Bros. Discovery (WBD) -23.24, Etsy (ETSY) -12.21 and Caesars Entertainment (CZR) -12.04. 
