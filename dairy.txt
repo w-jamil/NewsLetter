@@ -1497,3 +1497,5 @@ Long-Only SEC. P\L: -0.07%. Top three, Cash (USD) 0.10%, Match Group Inc (MTCH) 
 Deckers Outdoor (DECK) will be added to the S&P 500 as part of the latest quarterly rebalancing, replacing Whirlpool (WHR) and Zions Bancorporation  (ZION).
 
 Arkhouse Management and Brigade Capital offered to buy shares they don’t already own for $24 each, or $6.6B in total, which is 33% higher than Macy's closing price on Friday. The stock jumped 16% in response in premarket trading on Monday.
+
+The S&P 500 (SP500) is enjoying a strong run to start the year, a big thanks to artificial intelligence.
