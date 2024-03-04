@@ -1511,3 +1511,5 @@ Ten-year Treasury Yield +3 bps to 4.21%.
 Pre-market Summary Long-Short ESG. P\L: -13.35 bps. NAV% -2.66%. Top three in bps, Oracle Corporation (ORCL) 0.83, Hewlett Packard Enterprise (HPE) 1.45 and ON Semiconductor (ON) 2.2.Bottom three in bps, Broadcom Inc. (AVGO) -5.13, Albemarle Corporation (ALB) -4.1 and Whirlpool Corporation (WHR) -3.66.
 
 Pre-market Summary Long-Only TECH. P\L: -6.01 bps. Top three in bps, Sirius XM Holdings Inc (SIRI) 1.7, Charter Communications Inc (CHTR) 2.32 and Warner Bros Discovery Inc (WBD) 7.98.Bottom three in bps, Tesla Inc (TSLA) -17.55, Walgreens Boots Alliance Inc (WBA) -1.02 and PayPal Holdings Inc (PYPL) -0.14. 
+
+Pre-market Summary Long-Only SEC. P\L: 5.12 bps. Top three in bps, Newmont (NEM) 1.22, Etsy (ETSY) 1.22 and Warner Bros. Discovery (WBD) 1.74. Bottom three in bps, Whirlpool Corporation (WHR) -3.58, VF Corporation (VFC) -0.65 and Walgreens Boots Alliance (WBA) -0.33. 
