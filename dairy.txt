@@ -1529,3 +1529,5 @@ Pre-market Summary Long-Only TECH. P\L: -45.93 bps. Top three in bps, Xcel Energ
 Pre-market Summary Long-Only SEC. P\L: -3.06 bps. Top three in bps, Warner Bros. Discovery (WBD) 1.32, Newmont (NEM) 2.06 and Baxter International (BAX) 12.34. Bottom three in bps, Moderna (MRNA) -3.07, Skyworks Solutions (SWKS) -2.69 and PayPal (PYPL) -2.14.
 
 Long-Only TECH Risk-Reward. Risk, SD 1.28%, VaR 2.51% and CVaR 3.23%. Daily change, SD -3.77%, VaR 0.78%, CVaR -0.28%. P\L: -151.09 bps. Top three in bps, Charter Communications Inc (CHTR) 5.15, Warner Bros Discovery Inc (WBD) 5.55 and Walgreens Boots Alliance Inc (WBA) 15.94. Bottom three in bps, Atlassian Corp (TEAM) -59.4, Tesla Inc (TSLA) -50.28 and PayPal Holdings Inc (PYPL) -28.24.
+
+Long-Only SEC Risk-Reward. Risk, SD 0.67%, VaR 1.1% and CVaR 1.48%. Daily change, SD -4.6%, VaR -2.24%, CVaR -2.86%. P\L: -28.58 bps. Top three in bps, Truist (TFC) 5.42, KeyCorp (KEY) 8.96 and Comerica (CMA) 11.59. Bottom three in bps, Generac (GNRC) -11.93, Skyworks Solutions (SWKS) -9.95 and PayPal (PYPL) -8.75.
