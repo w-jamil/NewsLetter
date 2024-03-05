@@ -1525,3 +1525,5 @@ Before the bell. Donald Trump as the U.S. began the new year with the national d
 Pre-market Summary Long-Short ESG. P\L: -45.55 bps. NAV% -3.58%. Top three in bps, Newmont (NEM) 1.4, DR Horton (DHI) 1.56 and NXP Semiconductors (NXPI) 1.73. Bottom three in bps, DaVita Inc. (DVA) -19.12, Albemarle Corporation (ALB) -17.24 and Tesla, Inc. (TSLA) -5.11.
 
 Pre-market Summary Long-Only TECH. P\L: -45.93 bps. Top three in bps, Xcel Energy Inc (XEL) 1.03, Sirius XM Holdings Inc (SIRI) 3.51 and Warner Bros Discovery Inc (WBD) 4.12. Bottom three in bps, Tesla Inc (TSLA) -27.56, Atlassian Corp (TEAM) -11.64 and Moderna Inc (MRNA) -9.61. 
+
+Pre-market Summary Long-Only SEC. P\L: -3.06 bps. Top three in bps, Warner Bros. Discovery (WBD) 1.32, Newmont (NEM) 2.06 and Baxter International (BAX) 12.34. Bottom three in bps, Moderna (MRNA) -3.07, Skyworks Solutions (SWKS) -2.69 and PayPal (PYPL) -2.14.
