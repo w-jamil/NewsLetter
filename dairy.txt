@@ -1533,3 +1533,5 @@ Long-Only TECH Risk-Reward. Risk, SD 1.28%, VaR 2.51% and CVaR 3.23%. Daily chan
 Long-Only SEC Risk-Reward. Risk, SD 0.67%, VaR 1.1% and CVaR 1.48%. Daily change, SD -4.6%, VaR -2.24%, CVaR -2.86%. P\L: -28.58 bps. Top three in bps, Truist (TFC) 5.42, KeyCorp (KEY) 8.96 and Comerica (CMA) 11.59. Bottom three in bps, Generac (GNRC) -11.93, Skyworks Solutions (SWKS) -9.95 and PayPal (PYPL) -8.75.
 
 Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.29% (0.26%), VaR 0.39% (0.53%) and CVaR 0.56% (0.68%). Daily change Long (Short), SD -10.97% (-0.47%), VaR -13.95% (1.52%), CVaR -13.09% (1.09%). P\L: -45.55 bps. NAV% -3.58%. Top three in bps, Newmont (NEM) 1.4, DR Horton (DHI) 1.56 and NXP Semiconductors (NXPI) 1.73. Bottom three in bps, DaVita Inc. (DVA) -19.12, Albemarle Corporation (ALB) -17.24 and Tesla, Inc. (TSLA) -5.11.
+
+Pre-market Summary Long-Short ESG. P\L: -2.75 bps. NAV% -3.53%. Top three in bps, Whirlpool Corporation (WHR) 1.74, ON Semiconductor (ON) 1.78 and Hewlett Packard Enterprise (HPE) 1.85. Bottom three in bps, Broadcom Inc. (AVGO) -9.3, NXP Semiconductors (NXPI) -2.21 and Morgan Stanley (MS) -0.72.
