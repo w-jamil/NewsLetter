@@ -1537,3 +1537,5 @@ Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.29% (0.26%), VaR 0.39% (0.53
 Pre-market Summary Long-Short ESG. P\L: -2.75 bps. NAV% -3.53%. Top three in bps, Whirlpool Corporation (WHR) 1.74, ON Semiconductor (ON) 1.78 and Hewlett Packard Enterprise (HPE) 1.85. Bottom three in bps, Broadcom Inc. (AVGO) -9.3, NXP Semiconductors (NXPI) -2.21 and Morgan Stanley (MS) -0.72.
 
 Pre-market Summary Long-Only TECH. P\L: 35.2 bps. Top three in bps, PayPal Holdings Inc (PYPL) 5.23, Tesla Inc (TSLA) 7.7 and Warner Bros Discovery Inc (WBD) 9.69. Bottom three in bps, Walgreens Boots Alliance Inc (WBA) -1.41, Comcast Corp (CMCSA) 0.43 and Charter Communications Inc (CHTR) 0.44.
+
+Pre-market Summary Long-Only SEC. P\L: 17.19 bps. Top three in bps, Skyworks Solutions (SWKS) 2.54, Warner Bros. Discovery (WBD) 2.63 and Etsy (ETSY) 6.87. Bottom three in bps, Estée Lauder Companies (The) (EL) -6.99, Walgreens Boots Alliance (WBA) -0.45 and Generac (GNRC) 0.0.
