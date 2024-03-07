@@ -1547,3 +1547,5 @@ Long-Only TECH Risk-Reward. Risk, SD 1.3%, VaR 2.41% and CVaR 3.15%. Daily chang
 Long-Only SEC Risk-Reward. Risk, SD 0.71%, VaR 1.09% and CVaR 1.49%. Daily change, SD 5.55%, VaR -1.23%, CVaR 0.51%. P\L: 69.06 bps. Top three in bps, Skyworks Solutions (SWKS) 8.24, Moderna (MRNA) 8.68 and Warner Bros. Discovery (WBD) 10.92. Bottom three in bps, Match Group (MTCH) -6.52, Boston Properties (BXP) -5.41 and Comerica (CMA) -3.31.
 
 Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.34% (0.26%), VaR 0.6% (0.49%) and CVaR 0.8% (0.64%). Daily change Long (Short), SD 15.63% (-4.73%), VaR 36.7% (-5.32%), CVaR 30.86% (-5.18%). P\L: 61.45 bps. NAV% 0.7%. Top three in bps, PNC Financial Services (PNC) 6.87, Morgan Stanley (MS) 8.11 and Albemarle Corporation (ALB) 20.02. Bottom three in bps, Tesla, Inc. (TSLA) -6.96, Gartner (IT) -5.26 and Charter Communications (CHTR) -4.14.
+
+Pre-market Summary Long-Short ESG. P\L: -10.5 bps. NAV% 0.62%. Top three in bps, Biogen (BIIB) 1.24, Newmont (NEM) 1.49 and ON Semiconductor (ON) 2.11. Bottom three in bps, Broadcom Inc. (AVGO) -6.21, Tesla, Inc. (TSLA) -5.64 and Albemarle Corporation (ALB) -3.13.
