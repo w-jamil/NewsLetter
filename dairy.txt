@@ -1561,3 +1561,5 @@ Long-Only TECH Risk-Reward. Risk, SD 1.22%, VaR 2.35% and CVaR 3.04%. Daily chan
 Long-Only SEC Risk-Reward. Risk, SD 0.78%, VaR 1.1% and CVaR 1.54%. Daily change, SD 10.44%, VaR 0.79%, CVaR 3.4%. P\L: 102.74 bps. Top three in bps, Paycom (PAYC) 7.99, Generac (GNRC) 10.53 and Warner Bros. Discovery (WBD) 13.83. Bottom three in bps, Truist (TFC) -2.27, Pfizer (PFE) -1.94 and Catalent (CTLT) -1.83.
 
 Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.42% (0.25%), VaR 0.66% (0.47%) and CVaR 0.9% (0.62%). Daily change Long (Short), SD 22.49% (-2.92%), VaR 10.34% (-3.4%), CVaR 13.32% (-3.29%). P\L: 11.34 bps. NAV% 0.83%. Top three in bps, Charter Communications (CHTR) 6.01, Albemarle Corporation (ALB) 9.12 and ON Semiconductor (ON) 16.54. Bottom three in bps, Broadcom Inc. (AVGO) -14.7, Kroger (KR) -10.39 and NXP Semiconductors (NXPI) -7.03.
+
+Pre-market Summary Long-Short ESG. P\L: 17.64 bps. NAV% 0.99%. Top three in bps, International Flavors & Fragrances (IFF) 1.93, Broadcom Inc. (AVGO) 6.25 and Biogen (BIIB) 7.23. Bottom three in bps, BorgWarner (BWA) -0.84, DR Horton (DHI) -0.82 and Halliburton (HAL) -0.62.
