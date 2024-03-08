@@ -1565,3 +1565,5 @@ Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.42% (0.25%), VaR 0.66% (0.47
 Pre-market Summary Long-Short ESG. P\L: 17.64 bps. NAV% 0.99%. Top three in bps, International Flavors & Fragrances (IFF) 1.93, Broadcom Inc. (AVGO) 6.25 and Biogen (BIIB) 7.23. Bottom three in bps, BorgWarner (BWA) -0.84, DR Horton (DHI) -0.82 and Halliburton (HAL) -0.62.
 
 Pre-market Summary Long-Only TECH. P\L: -7.16 bps. Top three in bps, Illumina Inc (ILMN) 1.45, Xcel Energy Inc (XEL) 2.58 and Tesla Inc (TSLA) 2.92. Bottom three in bps, Moderna Inc (MRNA) -5.48, Warner Bros Discovery Inc (WBD) -5.46 and Comcast Corp (CMCSA) -2.96.
+
+Pre-market Summary Long-Only SEC. P\L: 1.88 bps. Top three in bps, Newmont (NEM) 2.03, Caesars Entertainment (CZR) 2.22 and Skyworks Solutions (SWKS) 2.89. Bottom three in bps, Warner Bros. Discovery (WBD) -1.73, Moderna (MRNA) -1.51 and APA Corporation (APA) -1.46.
