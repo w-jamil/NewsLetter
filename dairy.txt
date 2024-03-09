@@ -1577,3 +1577,5 @@ Long-Only SEC Risk-Reward. Risk, SD 0.8%, VaR 1.05% and CVaR 1.51%. Daily change
 Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.42% (0.26%), VaR 0.65% (0.47%) and CVaR 0.89% (0.62%). Daily change Long (Short), SD -0.09% (4.94%), VaR -1.79% (-0.97%), CVaR -1.34% (0.4%). P\L: 22.29 bps. NAV% 1.04%. Top three in bps, NextEra Energy (NEE) 5.47, NXP Semiconductors (NXPI) 6.19 and Broadcom Inc. (AVGO) 23.92. Bottom three in bps, Albemarle Corporation (ALB) -12.9, ON Semiconductor (ON) -12.46 and Tesla, Inc. (TSLA) -4.51.
 
 Long-Short ESG. P\L: 0.10%. Top three, Hewlett Packard Enterprise Co (HPE) 0.22%, Broadcom Inc (AVGO) 0.22% and Newmont Corporation (NEM) 0.12%. Bottom three, Albemarle Corp (ALB) -0.41%, Tesla Inc (TSLA) -0.31% and DaVita Inc (DVA) -0.16%. 
+
+Long-Only TECH. P\L: -1.90%. Top three, Moderna Inc (MRNA) 0.93%, Warner Bros Discovery Inc  (WBD	) 0.11% and Xcel Energy Inc (XEL) 0.10%. Bottom three,  Tesla Inc (TSLA) -1.82%, Ilumina Inc (ILMN) -0.34% and Charter (CHTR) -0.26%. 
