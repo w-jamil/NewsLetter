@@ -1579,3 +1579,5 @@ Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.42% (0.26%), VaR 0.65% (0.47
 Long-Short ESG. P\L: 0.10%. Top three, Hewlett Packard Enterprise Co (HPE) 0.22%, Broadcom Inc (AVGO) 0.22% and Newmont Corporation (NEM) 0.12%. Bottom three, Albemarle Corp (ALB) -0.41%, Tesla Inc (TSLA) -0.31% and DaVita Inc (DVA) -0.16%. 
 
 Long-Only TECH. P\L: -1.90%. Top three, Moderna Inc (MRNA) 0.93%, Warner Bros Discovery Inc  (WBD	) 0.11% and Xcel Energy Inc (XEL) 0.10%. Bottom three,  Tesla Inc (TSLA) -1.82%, Ilumina Inc (ILMN) -0.34% and Charter (CHTR) -0.26%. 
+
+Long-Only SEC. P\L: 1.79%. Top three, Moderna Inc (MRNA)  0.29% FMC Corp (FMC) 0.21% and Comerica Inc (CMA) 0.19%. Bottom three, Match Group Inc (MTCH) -0.17%, Ilumina Inc (ILMN) -0.11% and Boston Properties Inc (BXP) -0.08%.
