@@ -1591,3 +1591,5 @@ Pre-market Summary Long-Short ESG. P\L: 17.26 bps. NAV% 1.23%. Top three in bps,
 Pre-market Summary Long-Only TECH. P\L: 13.62 bps. Top three in bps, Illumina Inc (ILMN) 1.85, Tesla Inc (TSLA) 3.43 and Xcel Energy Inc (XEL) 12.99.Bottom three in bps, Atlassian Corp (TEAM) -3.34, Moderna Inc (MRNA) -3.23 and Walgreens Boots Alliance Inc (WBA) -0.69.
 
 Pre-market Summary Long-Only SEC. P\L: -4.14 bps. Top three in bps, Pfizer (PFE) 0.71, Healthpeak (DOC) 0.72 and Etsy (ETSY) 3.92. Bottom three in bps, Skyworks Solutions (SWKS) -2.0, Moderna (MRNA) -1.39 and Warner Bros. Discovery (WBD) -1.29.
+
+Long-Only TECH Risk-Reward. Risk, SD 1.63%, VaR 2.4% and CVaR 3.33%. Daily change, SD 38.55%, VaR 18.03%, CVaR 23.13%. P\L: 319.85 bps. Top three in bps, Charter Communications Inc (CHTR) 39.37, Warner Bros Discovery Inc (WBD) 47.17 and Moderna Inc (MRNA) 100.34. Bottom three in bps, Sirius XM Holdings Inc (SIRI) 0.0, Keurig Dr Pepper Inc (KDP) 1.82 and Walgreens Boots Alliance Inc (WBA) 12.71.
