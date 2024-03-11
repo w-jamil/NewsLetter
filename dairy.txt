@@ -1593,3 +1593,5 @@ Pre-market Summary Long-Only TECH. P\L: 13.62 bps. Top three in bps, Illumina In
 Pre-market Summary Long-Only SEC. P\L: -4.14 bps. Top three in bps, Pfizer (PFE) 0.71, Healthpeak (DOC) 0.72 and Etsy (ETSY) 3.92. Bottom three in bps, Skyworks Solutions (SWKS) -2.0, Moderna (MRNA) -1.39 and Warner Bros. Discovery (WBD) -1.29.
 
 Long-Only TECH Risk-Reward. Risk, SD 1.63%, VaR 2.4% and CVaR 3.33%. Daily change, SD 38.55%, VaR 18.03%, CVaR 23.13%. P\L: 319.85 bps. Top three in bps, Charter Communications Inc (CHTR) 39.37, Warner Bros Discovery Inc (WBD) 47.17 and Moderna Inc (MRNA) 100.34. Bottom three in bps, Sirius XM Holdings Inc (SIRI) 0.0, Keurig Dr Pepper Inc (KDP) 1.82 and Walgreens Boots Alliance Inc (WBA) 12.71.
+
+Long-Only SEC Risk-Reward. Risk, SD 0.66%, VaR 0.57% and CVaR 0.95%. Daily change, SD -18.2%, VaR -45.54%, CVaR -37.23%. P\L: 112.53 bps. Top three in bps, Newmont (NEM) 10.34, Warner Bros. Discovery (WBD) 15.26 and Moderna (MRNA) 32.39. Bottom three in bps, EPAM Systems (EPAM) -6.01, Zebra Technologies (ZBRA) -2.35 and Generac (GNRC) -2.02.
