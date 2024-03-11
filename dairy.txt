@@ -1589,3 +1589,5 @@ Before the bell. The U.S. nonfarm payrolls report due today is expected to show 
 Pre-market Summary Long-Short ESG. P\L: 17.26 bps. NAV% 1.23%. Top three in bps, Albemarle Corporation (ALB) 2.0, Broadcom Inc. (AVGO) 5.69 and Xcel Energy (XEL) 6.02. Bottom three in bps, ON Semiconductor (ON) -1.4, Masco (MAS) -1.34 and Amgen (AMGN) -0.78.
 
 Pre-market Summary Long-Only TECH. P\L: 13.62 bps. Top three in bps, Illumina Inc (ILMN) 1.85, Tesla Inc (TSLA) 3.43 and Xcel Energy Inc (XEL) 12.99.Bottom three in bps, Atlassian Corp (TEAM) -3.34, Moderna Inc (MRNA) -3.23 and Walgreens Boots Alliance Inc (WBA) -0.69.
+
+Pre-market Summary Long-Only SEC. P\L: -4.14 bps. Top three in bps, Pfizer (PFE) 0.71, Healthpeak (DOC) 0.72 and Etsy (ETSY) 3.92. Bottom three in bps, Skyworks Solutions (SWKS) -2.0, Moderna (MRNA) -1.39 and Warner Bros. Discovery (WBD) -1.29.
