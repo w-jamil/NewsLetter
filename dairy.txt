@@ -1603,3 +1603,5 @@ Before the bell. Jerome Powell was quite dovish in his latest testimony in Congr
 Pre-market Summary Long-Short ESG. P\L: 2.82 bps. NAV% 1.86%. Top three in bps, Hershey's (HSY) 1.0, Tesla, Inc. (TSLA) 2.12 and Albemarle Corporation (ALB) 4.24. Bottom three in bps, Broadcom Inc. (AVGO) -3.04, State Street Corporation (STT) -1.06 and NXP Semiconductors (NXPI) -0.63.
 
 Pre-market Summary Long-Only TECH. P\L: 21.06 bps. Top three in bps, Warner Bros Discovery Inc (WBD) 3.92, Sirius XM Holdings Inc (SIRI) 5.01 and Tesla Inc (TSLA) 9.94. Bottom three in bps, Moderna Inc (MRNA) -1.45, Charter Communications Inc (CHTR) 0.0 and Illumina Inc (ILMN) 0.0.
+
+Pre-market Summary Long-Only SEC. P\L: 10.29 bps. Top three in bps, Warner Bros. Discovery (WBD) 1.27, Match Group (MTCH) 1.45 and 3M (MMM) 4.68. Bottom three in bps, Newmont (NEM) -0.66, Moderna (MRNA) -0.47 and Truist (TFC) -0.18.
