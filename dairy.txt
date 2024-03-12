@@ -1607,3 +1607,5 @@ Pre-market Summary Long-Only TECH. P\L: 21.06 bps. Top three in bps, Warner Bros
 Pre-market Summary Long-Only SEC. P\L: 10.29 bps. Top three in bps, Warner Bros. Discovery (WBD) 1.27, Match Group (MTCH) 1.45 and 3M (MMM) 4.68. Bottom three in bps, Newmont (NEM) -0.66, Moderna (MRNA) -0.47 and Truist (TFC) -0.18.
 
 Long-Only TECH Risk-Reward. Risk, SD 1.64%, VaR 2.62% and CVaR 3.56%. Daily change, SD 0.37%, VaR 9.51%, CVaR 6.95%. P\L: -114.84 bps. Top three in bps, PayPal Holdings Inc (PYPL) -1.03, Keurig Dr Pepper Inc (KDP) -0.11 and Atlassian Corp (TEAM) 18.49. Bottom three in bps, Illumina Inc (ILMN) -42.6, Warner Bros Discovery Inc (WBD) -27.9 and Moderna Inc (MRNA) -16.18.
+
+Long-Only SEC Risk-Reward. Risk, SD 0.69%, VaR 0.81% and CVaR 1.21%. Daily change, SD 5.17%, VaR 42.31%, CVaR 27.59%. P\L: -76.58 bps. Top three in bps, Zebra Technologies (ZBRA) 5.23, EPAM Systems (EPAM) 5.51 and 3M (MMM) 9.79. Bottom three in bps, Illumina (ILMN) -13.76, Newmont (NEM) -10.2 and Warner Bros. Discovery (WBD) -8.98.
