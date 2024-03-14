@@ -1631,3 +1631,5 @@ Before the bell. In Asia, Japan +0.3%. Hong Kong -0.7%. China -0.2%. India +0.5%
 Pre-market Summary Long-Short ESG. P\L: -2.63 bps. NAV% -39.36%. Top three in bps, Bristol Myers Squibb (BMY) 0.62, NextEra Energy (NEE) 0.89 and Halliburton (HAL) 0.9. Bottom three in bps, Albemarle Corporation (ALB) -2.51, Tesla, Inc. (TSLA) -2.4 and Broadcom Inc. (AVGO) -1.03.
 
 Pre-market Summary Long-Only TECH. P\L: 45.49 bps. Top three in bps, Warner Bros Discovery Inc (WBD) 8.02, Sirius XM Holdings Inc (SIRI) 8.54 and Moderna Inc (MRNA) 26.12. Bottom three in bps, Tesla Inc (TSLA) -15.4, Charter Communications Inc (CHTR) 0.0 and Illumina Inc (ILMN) 0.13.
+
+Pre-market Summary Long-Only SEC. P\L: 26.94 bps. Top three in bps, Boston Properties (BXP) 2.57, APA Corporation (APA) 2.87 and Moderna (MRNA) 8.32. Bottom three in bps, 3M (MMM) -2.1, Fidelity National Information Services (FIS) -0.52 and Tyson Foods (TSN) 0.0.
