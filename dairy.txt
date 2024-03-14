@@ -1625,3 +1625,5 @@ Long-Only TECH Risk-Reward. Risk, SD 1.64%, VaR 2.62% and CVaR 3.56%. Daily chan
 Long-Only SEC Risk-Reward. Risk, SD 0.62%, VaR 0.61% and CVaR 0.96%. Daily change, SD -9.83%, VaR -24.96%, CVaR -20.02%. P\L: 11.78 bps. Top three in bps, APA Corporation (APA) 10.35, 3M (MMM) 10.94 and PayPal (PYPL) 11.25. Bottom three in bps, Moderna (MRNA) -15.23, Etsy (ETSY) -9.73 and EPAM Systems (EPAM) -8.43.
 
 Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.58% (0.28%), VaR 0.82% (0.59%) and CVaR 1.14% (0.75%). Daily change Long (Short), SD 15.1% (18.13%), VaR 16.87% (20.32%), CVaR 16.36% (19.84%). P\L: 18.29 bps. NAV% -39.34%. Top three in bps, Broadcom Inc. (AVGO) 5.67, NextEra Energy (NEE) 5.76 and nan (BIO) 21.86. Bottom three in bps, Tesla, Inc. (TSLA) -7.92, ON Semiconductor (ON) -5.28 and Morgan Stanley (MS) -3.33.
+
+Before the bell. In Asia, Japan +0.3%. Hong Kong -0.7%. China -0.2%. India +0.5%. In Europe, at midday, London flat. Paris +0.9%. Frankfurt +0.2%.Futures at 7:00, Dow +0.3%. S&P +0.3%. Nasdaq +0.4%. Crude +0.8% to $80.37. Gold -0.3% to $2,175. Bitcoin -0.6% to $72,905. Ten-year Treasury Yield unchanged at 4.19%.
