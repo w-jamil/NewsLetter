@@ -1635,3 +1635,5 @@ Pre-market Summary Long-Only TECH. P\L: 45.49 bps. Top three in bps, Warner Bros
 Pre-market Summary Long-Only SEC. P\L: 26.94 bps. Top three in bps, Boston Properties (BXP) 2.57, APA Corporation (APA) 2.87 and Moderna (MRNA) 8.32. Bottom three in bps, 3M (MMM) -2.1, Fidelity National Information Services (FIS) -0.52 and Tyson Foods (TSN) 0.0.
 
 Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.61% (0.36%), VaR 0.63% (0.63%) and CVaR 1.35% (0.84%). Daily change Long (Short), SD 5.87% (28.16%), VaR 22.56% (8.06%), CVaR 17.76% (12.36%). P\L: 10.6 bps. NAV% -0.83%. Top three in bps, NXP Semiconductors (NXPI) 6.5, DR Horton (DHI) 7.87 and nan (BIO) 34.63. Bottom three in bps, VF Corporation (VFC) -15.67, Albemarle Corporation (ALB) -12.54 and Tesla, Inc. (TSLA) -10.19.
+
+Long-Only SEC Risk-Reward. Risk, SD 0.87%, VaR 1.25% and CVaR 1.74%. Daily change, SD 39.07%, VaR 104.7%, CVaR 80.53%. P\L: -170.8 bps. Top three in bps, Paycom (PAYC) 2.14, PayPal (PYPL) 2.56 and Devon Energy (DVN) 5.75. Bottom three in bps, Caesars Entertainment (CZR) -14.51, VF Corporation (VFC) -14.33 and Warner Bros. Discovery (WBD) -13.91.
