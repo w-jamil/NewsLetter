@@ -1640,3 +1640,4 @@ Long-Only SEC Risk-Reward. Risk, SD 0.87%, VaR 1.25% and CVaR 1.74%. Daily chang
 
 Long-Only TECH Risk-Reward. Risk, SD 1.7%, VaR 2.93% and CVaR 3.9%. Daily change, SD 3.33%, VaR 7.77%, CVaR 6.63%.P\L: -201.46 bps. Top three in bps, Keurig Dr Pepper Inc (KDP) 1.19, Xcel Energy Inc (XEL) 6.63 and PayPal Holdings Inc (PYPL) 8.07. Bottom three in bps, Tesla Inc (TSLA) -46.12, Warner Bros Discovery Inc (WBD) -42.47 and Moderna Inc (MRNA) -35.64.
 
+Pre-market Summary Long-Short ESG. P\L: 4.14 bps. NAV% -0.8%. Top three in bps, Tesla, Inc. (TSLA) 2.27, Healthpeak (DOC) 2.79 and NXP Semiconductors (NXPI) 4.69. Bottom three in bps, ON Semiconductor (ON) -6.15, Newmont (NEM) -3.14 and Broadcom Inc. (AVGO) -0.84.
