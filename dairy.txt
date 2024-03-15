@@ -1645,3 +1645,5 @@ Pre-market Summary Long-Short ESG. P\L: 4.14 bps. NAV% -0.8%. Top three in bps, 
 Pre-market Summary Long-Only TECH. P\L: 35.19 bps. Top three in bps, Warner Bros Discovery Inc (WBD) 5.46, Sirius XM Holdings Inc (SIRI) 6.97 and Tesla Inc (TSLA) 10.23. Bottom three in bps, Xcel Energy Inc (XEL) -0.15, Atlassian Corp (TEAM) 0.0 and Charter Communications Inc (CHTR) 0.0.
 
 Pre-market Summary Long-Only SEC. P\L: 6.83 bps. Top three in bps, KeyCorp (KEY) 1.65, Warner Bros. Discovery (WBD) 1.74 and Healthpeak (DOC) 3.77. Bottom three in bps, Newmont (NEM) -4.23, Tyson Foods (TSN) -1.62 and Estée Lauder Companies (The) (EL) -0.69.
+
+Long-Only TECH Risk-Reward. Risk, SD 1.69%, VaR 2.96% and CVaR 3.92%. Daily change, SD -0.51%, VaR 0.91%, CVaR 0.56%. P\L: -54.28 bps. Top three in bps, Moderna Inc (MRNA) 3.41, Tesla Inc (TSLA) 6.84 and Walgreens Boots Alliance Inc (WBA) 7.03. Bottom three in bps, Atlassian Corp (TEAM) -42.9, Charter Communications Inc (CHTR) -18.15 and Illumina Inc (ILMN) -5.64.
