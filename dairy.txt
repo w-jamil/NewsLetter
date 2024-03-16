@@ -1657,3 +1657,5 @@ Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.61% (0.32%), VaR 0.51% (0.51
 Long-Short ESG. P\L: 0.74%. Top three, BIO-RAD Laboratories (BIO) 0.54%, Broadcom Inc (AVGO) 0.16% and Albemarle (ALB) 0.12%. Bottom three, VF Corp (VFC) -0.18%, Tesla Inc (TSLA)-0.15% and On Semiconductor (ON) -0.10%. 
 
 Long-Only TECH. P\L: -1.64%. Top three, PayPal (PYPL) 0.57%, Charter Communication (CHTR) 0.19% and Xcel energy (XEL) 0.11%. Bottom three,  Tesla Inc (TSLA) -0.77%, Atlassian Corp (TEAM) -0.73%, Illumina Inc (ILMN) -0.51%. 
+
+Long-Only SEC. P\L: -1.36%. Top three, 3M (MMM) 0.22%, PayPal (PYPL) 0.18% and Devon Energy (DVN) 0.12%. Bottom three, ETSY Inc (ETSY) -0.33%, Caesars Entertainment (CZR) -0.24% and VF Corp (VFC) -0.19%.
