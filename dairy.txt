@@ -1675,3 +1675,7 @@ Long-Only TECH Risk-Reward
 Long-Only SEC Risk-Reward 
     Risk, SD 0.85%, VaR 1.22% and CVaR 1.71%. Daily change, SD -1.4%, VaR -5.92%, CVaR -4.68%.
     P\L: 23.98 bps. Top three in bps, Estée Lauder Companies (The) (EL) 1.96, Etsy (ETSY) 2.53 and Moderna (MRNA) 10.6. Bottom three in bps, Comerica (CMA) -0.67, KeyCorp (KEY) -0.2 and 3M (MMM) -0.16.
+
+Long-Short ESG Risk-Reward 
+    Risk Long (Short), SD 0.54% (0.29%), VaR 0.46% (0.46%) and CVaR 1.09% (0.63%). Daily change Long (Short), SD -12.05% (-10.54%), VaR -22.03% (-9.16%), CVaR -19.46% (-9.52%)
+    P\L: 16.57 bps. NAV% -0.49%. Top three in bps, Charter Communications (CHTR) 5.28, Albemarle Corporation (ALB) 6.33 and Tesla, Inc. (TSLA) 16.18. Bottom three in bps, VF Corporation (VFC) -6.93, Booking Holdings (BKNG) -3.71 and ON Semiconductor (ON) -3.19.
