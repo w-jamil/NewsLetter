@@ -1659,3 +1659,7 @@ Long-Short ESG. P\L: 0.74%. Top three, BIO-RAD Laboratories (BIO) 0.54%, Broadco
 Long-Only TECH. P\L: -1.64%. Top three, PayPal (PYPL) 0.57%, Charter Communication (CHTR) 0.19% and Xcel energy (XEL) 0.11%. Bottom three,  Tesla Inc (TSLA) -0.77%, Atlassian Corp (TEAM) -0.73%, Illumina Inc (ILMN) -0.51%. 
 
 Long-Only SEC. P\L: -1.36%. Top three, 3M (MMM) 0.22%, PayPal (PYPL) 0.18% and Devon Energy (DVN) 0.12%. Bottom three, ETSY Inc (ETSY) -0.33%, Caesars Entertainment (CZR) -0.24% and VF Corp (VFC) -0.19%.
+
+Pre-market Summary Long-Short ESG. P\L: 17.78 bps. NAV% -0.48%. Top three in bps, Charter Communications (CHTR) 2.64, ON Semiconductor (ON) 3.13 and Tesla, Inc. (TSLA) 8.06. Bottom three in bps, Broadcom Inc. (AVGO) -3.81, Verisign (VRSN) -0.92 and Xcel Energy (XEL) -0.73.
+
+
