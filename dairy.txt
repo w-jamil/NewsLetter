@@ -1671,3 +1671,7 @@ Before the bell. In Asia, Japan +2.7%. Hong Kong +0.1%. China +1%. India +0.1%. 
 Long-Only TECH Risk-Reward 
      Risk, SD 1.57%, VaR 2.39% and CVaR 3.28%. Daily change, SD -7.0%, VaR -19.26%, CVaR -16.25%.
      P\L: 94.23 bps. Top three in bps, Atlassian Corp (TEAM) 8.44, Moderna Inc (MRNA) 33.3 and Tesla Inc (TSLA) 35.44. Bottom three in bps, Xcel Energy Inc (XEL) -1.76, Keurig Dr Pepper Inc (KDP) -1.07 and Comcast Corp (CMCSA) -0.7.
+
+Long-Only SEC Risk-Reward 
+    Risk, SD 0.85%, VaR 1.22% and CVaR 1.71%. Daily change, SD -1.4%, VaR -5.92%, CVaR -4.68%.
+    P\L: 23.98 bps. Top three in bps, Estée Lauder Companies (The) (EL) 1.96, Etsy (ETSY) 2.53 and Moderna (MRNA) 10.6. Bottom three in bps, Comerica (CMA) -0.67, KeyCorp (KEY) -0.2 and 3M (MMM) -0.16.
