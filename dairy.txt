@@ -1683,3 +1683,5 @@ Long-Short ESG Risk-Reward
 Pre-market Summary Long-Short ESG. P\L: 0.11 bps. NAV% -0.51%. Top three in bps, NextEra Energy (NEE) 0.68, Bristol Myers Squibb (BMY) 0.81 and Broadcom Inc. (AVGO) 3.32.Bottom three in bps, International Flavors & Fragrances (IFF) -1.63, Albemarle Corporation (ALB) -1.51 and Newmont (NEM) -1.18.
 
 Pre-market Summary Long-Only SEC. P\L: -4.93 bps. Top three in bps, Walgreens Boots Alliance (WBA) 0.44, Truist (TFC) 1.14 and 3M (MMM) 1.57. Bottom three in bps, PayPal (PYPL) -2.12, Newmont (NEM) -1.52 and Devon Energy (DVN) -1.15.
+
+Pre-market Summary Long-Only TECH. P\L: -18.12 bps. Top three in bps, Warner Bros Discovery Inc (WBD) 0.0, Xcel Energy Inc (XEL) 0.0 and Walgreens Boots Alliance Inc (WBA) 1.39. Bottom three in bps, Atlassian Corp (TEAM) -7.81, PayPal Holdings Inc (PYPL) -6.65 and Tesla Inc (TSLA) -3.38. 
