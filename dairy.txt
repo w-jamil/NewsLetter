@@ -1689,3 +1689,5 @@ Pre-market Summary Long-Only TECH. P\L: -18.12 bps. Top three in bps, Warner Bro
 Before the bell. In Asia, Japan +0.7%. Hong Kong -1.2%. China -0.7%. India -1%. In Europe, at midday, London -0.2%. Paris +0.2%. Frankfurt flat. Futures at 7:00, Dow -0.1%. S&P -0.2%. Nasdaq -0.3%. Crude -0.2% to $81.98. Gold -0.4% to $2,156.40. Bitcoin -7.2% to $63,098. Ten-year Treasury Yield -3 bps to 4.31%.
 
 Long-Only TECH Risk-Reward. Risk, SD 1.49%, VaR 2.12% and CVaR 2.97%. Daily change, SD -5.23%, VaR -11.09%, CVaR -9.49%. P\L: -5.75 bps. Top three in bps, Charter Communications Inc (CHTR) 5.67, Moderna Inc (MRNA) 9.87 and Illumina Inc (ILMN) 20.76. Bottom three in bps, PayPal Holdings Inc (PYPL) -17.53, Tesla Inc (TSLA) -16.68 and Sirius XM Holdings Inc (SIRI) -6.94.
+
+Long-Only SEC Risk-Reward. Risk, SD 0.85%, VaR 1.14% and CVaR 1.62%. Daily change, SD -0.21%, VaR -6.63%, CVaR -4.8%. P\L: 50.45 bps. Top three in bps, Devon Energy (DVN) 6.45, Illumina (ILMN) 6.61 and APA Corporation (APA) 7.76. Bottom three in bps, FMC Corporation (FMC) -17.04, Newmont (NEM) -6.93 and PayPal (PYPL) -5.57.
