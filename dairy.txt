@@ -1685,3 +1685,5 @@ Pre-market Summary Long-Short ESG. P\L: 0.11 bps. NAV% -0.51%. Top three in bps,
 Pre-market Summary Long-Only SEC. P\L: -4.93 bps. Top three in bps, Walgreens Boots Alliance (WBA) 0.44, Truist (TFC) 1.14 and 3M (MMM) 1.57. Bottom three in bps, PayPal (PYPL) -2.12, Newmont (NEM) -1.52 and Devon Energy (DVN) -1.15.
 
 Pre-market Summary Long-Only TECH. P\L: -18.12 bps. Top three in bps, Warner Bros Discovery Inc (WBD) 0.0, Xcel Energy Inc (XEL) 0.0 and Walgreens Boots Alliance Inc (WBA) 1.39. Bottom three in bps, Atlassian Corp (TEAM) -7.81, PayPal Holdings Inc (PYPL) -6.65 and Tesla Inc (TSLA) -3.38. 
+
+Before the bell. In Asia, Japan +0.7%. Hong Kong -1.2%. China -0.7%. India -1%. In Europe, at midday, London -0.2%. Paris +0.2%. Frankfurt flat. Futures at 7:00, Dow -0.1%. S&P -0.2%. Nasdaq -0.3%. Crude -0.2% to $81.98. Gold -0.4% to $2,156.40. Bitcoin -7.2% to $63,098. Ten-year Treasury Yield -3 bps to 4.31%.
