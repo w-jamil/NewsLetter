@@ -1701,3 +1701,5 @@ Pre-market Summary Long-Short ESG. P\L: -4.53 bps. NAV% -0.79%. Top three in bps
 Pre-market Summary Long-Only TECH. P\L: -4.04 bps. Top three in bps, Sirius XM Holdings Inc (SIRI) 1.74, PayPal Holdings Inc (PYPL) 3.02 and Tesla Inc (TSLA) 5.94. Bottom three in bps, Moderna Inc (MRNA) -16.02, Comcast Corp (CMCSA) -0.42 and Atlassian Corp (TEAM) 0.0. 
 
 Pre-market Summary Long-Only SEC. P\L: -9.13 bps. Top three in bps, Skyworks Solutions (SWKS) 1.2, Baxter International (BAX) 1.61 and FMC Corporation (FMC) 2.29. Bottom three in bps, Moderna (MRNA) -4.09, Comerica (CMA) -3.88 and Newmont (NEM) -1.73.
+
+Long-Only TECH Risk-Reward. Risk, SD 1.5%, VaR 2.11% and CVaR 2.97%. Daily change, SD 0.55%, VaR -0.43%, CVaR -0.15%. P\L: 59.27 bps. Top three in bps, Tesla Inc (TSLA) 29.73, PayPal Holdings Inc (PYPL) 30.49 and Warner Bros Discovery Inc (WBD) 31.09. Bottom three in bps, Moderna Inc (MRNA) -23.4, Sirius XM Holdings Inc (SIRI) -18.98 and Charter Communications Inc (CHTR) -9.2.
