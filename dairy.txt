@@ -1699,3 +1699,5 @@ Before the bell. FOMC is widely expected to hold interest rates steady at the 5.
 Pre-market Summary Long-Short ESG. P\L: -4.53 bps. NAV% -0.79%. Top three in bps, NextEra Energy (NEE) 0.68, Tesla, Inc. (TSLA) 1.29 and Albemarle Corporation (ALB) 1.7.Bottom three in bps, Broadcom Inc. (AVGO) -3.03, General Mills (GIS) -2.67 and Newmont (NEM) -1.23.
 
 Pre-market Summary Long-Only TECH. P\L: -4.04 bps. Top three in bps, Sirius XM Holdings Inc (SIRI) 1.74, PayPal Holdings Inc (PYPL) 3.02 and Tesla Inc (TSLA) 5.94. Bottom three in bps, Moderna Inc (MRNA) -16.02, Comcast Corp (CMCSA) -0.42 and Atlassian Corp (TEAM) 0.0. 
+
+Pre-market Summary Long-Only SEC. P\L: -9.13 bps. Top three in bps, Skyworks Solutions (SWKS) 1.2, Baxter International (BAX) 1.61 and FMC Corporation (FMC) 2.29. Bottom three in bps, Moderna (MRNA) -4.09, Comerica (CMA) -3.88 and Newmont (NEM) -1.73.
