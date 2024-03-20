@@ -1703,3 +1703,5 @@ Pre-market Summary Long-Only TECH. P\L: -4.04 bps. Top three in bps, Sirius XM H
 Pre-market Summary Long-Only SEC. P\L: -9.13 bps. Top three in bps, Skyworks Solutions (SWKS) 1.2, Baxter International (BAX) 1.61 and FMC Corporation (FMC) 2.29. Bottom three in bps, Moderna (MRNA) -4.09, Comerica (CMA) -3.88 and Newmont (NEM) -1.73.
 
 Long-Only TECH Risk-Reward. Risk, SD 1.5%, VaR 2.11% and CVaR 2.97%. Daily change, SD 0.55%, VaR -0.43%, CVaR -0.15%. P\L: 59.27 bps. Top three in bps, Tesla Inc (TSLA) 29.73, PayPal Holdings Inc (PYPL) 30.49 and Warner Bros Discovery Inc (WBD) 31.09. Bottom three in bps, Moderna Inc (MRNA) -23.4, Sirius XM Holdings Inc (SIRI) -18.98 and Charter Communications Inc (CHTR) -9.2.
+
+Long-Only SEC Risk-Reward. Risk, SD 0.93%, VaR 1.2% and CVaR 1.73%. Daily change, SD 9.35%, VaR 5.2%, CVaR 6.44%. P\L: 136.97 bps. Top three in bps, Comerica (CMA) 11.3, KeyCorp (KEY) 11.92 and Generac (GNRC) 18.6. Bottom three in bps, Moderna (MRNA) -7.39, EPAM Systems (EPAM) -4.26 and VF Corporation (VFC) -1.6.
