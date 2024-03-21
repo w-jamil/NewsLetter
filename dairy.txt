@@ -1713,3 +1713,5 @@ Before the bell. The Federal Reserve continues to expect three interest rate cut
 Pre-market Summary Long-Short ESG. P\L: 5.34 bps. NAV% 2.03%. Top three in bps, Hewlett Packard Enterprise (HPE) 3.31, Newmont (NEM) 3.74 and ON Semiconductor (ON) 4.5.Bottom three in bps, Broadcom Inc. (AVGO) -10.23, Booking Holdings (BKNG) -4.82 and NXP Semiconductors (NXPI) -1.77.
 
 Pre-market Summary Long-Only TECH. P\L: 103.94 bps. Top three in bps, Tesla Inc (TSLA) 12.22, Atlassian Corp (TEAM) 19.9 and Illumina Inc (ILMN) 34.5. Bottom three in bps, Charter Communications Inc (CHTR) 0.0, Xcel Energy Inc (XEL) 0.0 and Keurig Dr Pepper Inc (KDP) 0.93. 
+
+Pre-market Summary Long-Only SEC. P\L: 58.89 bps. Top three in bps, Newmont (NEM) 5.68, Etsy (ETSY) 5.84 and Illumina (ILMN) 11.74. Bottom three in bps, EPAM Systems (EPAM) -6.33, Zebra Technologies (ZBRA) 0.0 and Devon Energy (DVN) 0.0.
