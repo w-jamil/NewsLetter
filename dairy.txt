@@ -1711,3 +1711,5 @@ Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.48% (0.33%), VaR 0.63% (0.63
 Before the bell. The Federal Reserve continues to expect three interest rate cuts this year, according to its closely-watched dot plot released on Wednesday.In Asia, Japan +2%. Hong Kong +1.9%. China -0.1%. India +0.8%.In Europe, at midday, London +0.9%. Paris -0.3%. Frankfurt +0.3%.Futures at 7:00, Dow +0.2%. S&P +0.3%. Nasdaq +0.7%. Crude -0.2% to $81.09. Gold +2.2% to $2,209.40. Bitcoin +6.3% to $66,978. Ten-year Treasury Yield -4 bps to 4.23%.
 
 Pre-market Summary Long-Short ESG. P\L: 5.34 bps. NAV% 2.03%. Top three in bps, Hewlett Packard Enterprise (HPE) 3.31, Newmont (NEM) 3.74 and ON Semiconductor (ON) 4.5.Bottom three in bps, Broadcom Inc. (AVGO) -10.23, Booking Holdings (BKNG) -4.82 and NXP Semiconductors (NXPI) -1.77.
+
+Pre-market Summary Long-Only TECH. P\L: 103.94 bps. Top three in bps, Tesla Inc (TSLA) 12.22, Atlassian Corp (TEAM) 19.9 and Illumina Inc (ILMN) 34.5. Bottom three in bps, Charter Communications Inc (CHTR) 0.0, Xcel Energy Inc (XEL) 0.0 and Keurig Dr Pepper Inc (KDP) 0.93. 
