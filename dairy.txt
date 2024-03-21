@@ -1668,8 +1668,7 @@ Pre-market Summary Long-Only TECH. P\L: 94.23 bps. Top three in bps, Atlassian C
 Pre-market Summary Long-Only SEC. P\L: 23.98 bps. Top three in bps, Estée Lauder Companies (The) (EL) 1.96, Etsy (ETSY) 2.53 and Moderna (MRNA) 10.6. Bottom three in bps, Comerica (CMA) -0.67, KeyCorp (KEY) -0.2 and 3M (MMM) -0.16.
 Before the bell. In Asia, Japan +2.7%. Hong Kong +0.1%. China +1%. India +0.1%. In Europe, at midday, London +0.1%. Paris flat. Frankfurt +0.3%. Futures at 7:00, Dow -0.1%. S&P +0.4%. Nasdaq +0.8%. Crude +0.9% to $81.29. Gold flat at $2,161.40. Bitcoin +1.5% to $68,040. Ten-year Treasury Yield unchanged at 4.31%.
 
-Long-Only TECH Risk-Reward 
-     Risk, SD 1.57%, VaR 2.39% and CVaR 3.28%. Daily change, SD -7.0%, VaR -19.26%, CVaR -16.25%.
+Long-Only TECH Risk-Reward Risk, SD 1.57%, VaR 2.39% and CVaR 3.28%. Daily change, SD -7.0%, VaR -19.26%, CVaR -16.25%.
      P\L: 94.23 bps. Top three in bps, Atlassian Corp (TEAM) 8.44, Moderna Inc (MRNA) 33.3 and Tesla Inc (TSLA) 35.44. Bottom three in bps, Xcel Energy Inc (XEL) -1.76, Keurig Dr Pepper Inc (KDP) -1.07 and Comcast Corp (CMCSA) -0.7.
 
 Long-Only SEC Risk-Reward 
@@ -1707,3 +1706,6 @@ Long-Only TECH Risk-Reward. Risk, SD 1.5%, VaR 2.11% and CVaR 2.97%. Daily chang
 Long-Only SEC Risk-Reward. Risk, SD 0.93%, VaR 1.2% and CVaR 1.73%. Daily change, SD 9.35%, VaR 5.2%, CVaR 6.44%. P\L: 136.97 bps. Top three in bps, Comerica (CMA) 11.3, KeyCorp (KEY) 11.92 and Generac (GNRC) 18.6. Bottom three in bps, Moderna (MRNA) -7.39, EPAM Systems (EPAM) -4.26 and VF Corporation (VFC) -1.6.
 
 Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.48% (0.33%), VaR 0.63% (0.63%) and CVaR 0.99% (0.82%). Daily change Long (Short), SD -4.1% (10.3%), VaR 10.58% (15.93%), CVaR 6.1% (14.57%). P\L: -34.29 bps. NAV% 2.0%. Top three in bps, Tesla, Inc. (TSLA) 6.09, ON Semiconductor (ON) 6.48 and Albemarle Corporation (ALB) 9.41. Bottom three in bps, Broadcom Inc. (AVGO) -12.68, Booking Holdings (BKNG) -6.84 and Morgan Stanley (MS) -6.32.
+
+
+Before the bell. The Federal Reserve continues to expect three interest rate cuts this year, according to its closely-watched dot plot released on Wednesday.In Asia, Japan +2%. Hong Kong +1.9%. China -0.1%. India +0.8%.In Europe, at midday, London +0.9%. Paris -0.3%. Frankfurt +0.3%.Futures at 7:00, Dow +0.2%. S&P +0.3%. Nasdaq +0.7%. Crude -0.2% to $81.09. Gold +2.2% to $2,209.40. Bitcoin +6.3% to $66,978. Ten-year Treasury Yield -4 bps to 4.23%.
