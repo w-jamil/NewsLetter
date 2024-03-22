@@ -1721,3 +1721,5 @@ Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.47% (0.33%), VaR 0.62% (0.62
 Long-Only SEC Risk-Reward. Risk, SD 0.94%, VaR 1.21% and CVaR 1.74%. Daily change, SD 1.13%, VaR 0.82%, CVaR 0.92%.P\L: 90.85 bps. Top three in bps, Zebra Technologies (ZBRA) 9.17, Illumina (ILMN) 9.85 and Bio-Rad (BIO) 11.66. Bottom three in bps, EPAM Systems (EPAM) -12.3, Eversource (ES) -3.52 and Walgreens Boots Alliance (WBA) -3.02.
 
 Long-Only TECH Risk-Reward. Risk, SD 1.46%, VaR 2.15% and CVaR 2.98%. Daily change, SD -2.71%, VaR 1.87%, CVaR 0.56%. P\L: 26.28 bps. Top three in bps, Moderna Inc (MRNA) 11.62, PayPal Holdings Inc (PYPL) 16.03 and Illumina Inc (ILMN) 31.36. Bottom three in bps, Tesla Inc (TSLA) -20.56, Walgreens Boots Alliance Inc (WBA) -9.98 and Comcast Corp (CMCSA) -2.78.
+
+Pre-market Summary Long-Only TECH. P\L: -27.99 bps. Top three in bps, Sirius XM Holdings Inc (SIRI) 3.45, Moderna Inc (MRNA) 3.8 and PayPal Holdings Inc (PYPL) 4.51. Bottom three in bps, Tesla Inc (TSLA) -42.36, Warner Bros Discovery Inc (WBD) -1.35 and Illumina Inc (ILMN) -0.34
