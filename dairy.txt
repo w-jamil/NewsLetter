@@ -1727,3 +1727,5 @@ Pre-market Summary Long-Only TECH. P\L: -27.99 bps. Top three in bps, Sirius XM 
 Pre-market Summary Long-Short ESG.P\L: -2.09 bps. NAV% -1.0%. Top three in bps, Bio-Rad (BIO) 1.68, Booking Holdings (BKNG) 3.03 and FedEx (FDX) 17.24. Bottom three in bps, Tesla, Inc. (TSLA) -7.87, VF Corporation (VFC) -4.57 and ON Semiconductor (ON) -2.97
 
 Pre-market Summary Long-Only SEC. P\L: -2.85 bps. Top three in bps, Devon Energy (DVN) 1.74, Stanley Black & Decker (SWK) 2.06 and PayPal (PYPL) 2.58. Bottom three in bps, VF Corporation (VFC) -4.51, Etsy (ETSY) -3.0 and Newmont (NEM) -2.43
+
+In Asia, Japan +0.2%. Hong Kong -2.2%. China -1%. India +0.3%. In Europe, at midday, London +0.8%. Paris -0.1%. Frankfurt +0.1%. Futures at 7:00, Dow +0.1%. S&P +0.2%. Nasdaq +0.1%. Crude +0.2% to $81.23. Gold -0.7% to $2,169.20. Bitcoin -3.3% to $64,788. Ten-year Treasury Yield -2 bps to 4.24%.
