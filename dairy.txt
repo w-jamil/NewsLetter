@@ -1723,3 +1723,5 @@ Long-Only SEC Risk-Reward. Risk, SD 0.94%, VaR 1.21% and CVaR 1.74%. Daily chang
 Long-Only TECH Risk-Reward. Risk, SD 1.46%, VaR 2.15% and CVaR 2.98%. Daily change, SD -2.71%, VaR 1.87%, CVaR 0.56%. P\L: 26.28 bps. Top three in bps, Moderna Inc (MRNA) 11.62, PayPal Holdings Inc (PYPL) 16.03 and Illumina Inc (ILMN) 31.36. Bottom three in bps, Tesla Inc (TSLA) -20.56, Walgreens Boots Alliance Inc (WBA) -9.98 and Comcast Corp (CMCSA) -2.78.
 
 Pre-market Summary Long-Only TECH. P\L: -27.99 bps. Top three in bps, Sirius XM Holdings Inc (SIRI) 3.45, Moderna Inc (MRNA) 3.8 and PayPal Holdings Inc (PYPL) 4.51. Bottom three in bps, Tesla Inc (TSLA) -42.36, Warner Bros Discovery Inc (WBD) -1.35 and Illumina Inc (ILMN) -0.34
+
+Pre-market Summary Long-Short ESG.P\L: -2.09 bps. NAV% -1.0%. Top three in bps, Bio-Rad (BIO) 1.68, Booking Holdings (BKNG) 3.03 and FedEx (FDX) 17.24. Bottom three in bps, Tesla, Inc. (TSLA) -7.87, VF Corporation (VFC) -4.57 and ON Semiconductor (ON) -2.97
