@@ -1731,3 +1731,5 @@ Pre-market Summary Long-Only SEC. P\L: -2.85 bps. Top three in bps, Devon Energy
 In Asia, Japan +0.2%. Hong Kong -2.2%. China -1%. India +0.3%. In Europe, at midday, London +0.8%. Paris -0.1%. Frankfurt +0.1%. Futures at 7:00, Dow +0.1%. S&P +0.2%. Nasdaq +0.1%. Crude +0.2% to $81.23. Gold -0.7% to $2,169.20. Bitcoin -3.3% to $64,788. Ten-year Treasury Yield -2 bps to 4.24%.
 
 Long-Only TECH Risk-Reward. Risk, SD 1.46%, VaR 2.34% and CVaR 3.17%. Daily change, SD 0.38%, VaR 8.63%, CVaR 6.33%. P\L: -99.12 bps. Top three in bps, Sirius XM Holdings Inc (SIRI) 0.0, Keurig Dr Pepper Inc (KDP) 2.6 and Moderna Inc (MRNA) 15.56. Bottom three in bps, Warner Bros Discovery Inc (WBD) -36.77, Atlassian Corp (TEAM) -24.46 and PayPal Holdings Inc (PYPL) -19.68.
+
+Long-Only SEC Risk-Reward. Risk, SD 1.04%, VaR 1.58% and CVaR 2.18%. Daily change, SD 10.83%, VaR 31.19%, CVaR 24.93%. P\L: -146.07 bps. Top three in bps, Eversource (ES) 0.0, Match Group (MTCH) 0.52 and Moderna (MRNA) 4.9. Bottom three in bps, EPAM Systems (EPAM) -18.11, Generac (GNRC) -14.94 and Warner Bros. Discovery (WBD) -11.14.
