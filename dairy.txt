@@ -1729,3 +1729,5 @@ Pre-market Summary Long-Short ESG.P\L: -2.09 bps. NAV% -1.0%. Top three in bps, 
 Pre-market Summary Long-Only SEC. P\L: -2.85 bps. Top three in bps, Devon Energy (DVN) 1.74, Stanley Black & Decker (SWK) 2.06 and PayPal (PYPL) 2.58. Bottom three in bps, VF Corporation (VFC) -4.51, Etsy (ETSY) -3.0 and Newmont (NEM) -2.43
 
 In Asia, Japan +0.2%. Hong Kong -2.2%. China -1%. India +0.3%. In Europe, at midday, London +0.8%. Paris -0.1%. Frankfurt +0.1%. Futures at 7:00, Dow +0.1%. S&P +0.2%. Nasdaq +0.1%. Crude +0.2% to $81.23. Gold -0.7% to $2,169.20. Bitcoin -3.3% to $64,788. Ten-year Treasury Yield -2 bps to 4.24%.
+
+Long-Only TECH Risk-Reward. Risk, SD 1.46%, VaR 2.34% and CVaR 3.17%. Daily change, SD 0.38%, VaR 8.63%, CVaR 6.33%. P\L: -99.12 bps. Top three in bps, Sirius XM Holdings Inc (SIRI) 0.0, Keurig Dr Pepper Inc (KDP) 2.6 and Moderna Inc (MRNA) 15.56. Bottom three in bps, Warner Bros Discovery Inc (WBD) -36.77, Atlassian Corp (TEAM) -24.46 and PayPal Holdings Inc (PYPL) -19.68.
