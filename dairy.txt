@@ -1725,3 +1725,5 @@ Long-Only TECH Risk-Reward. Risk, SD 1.46%, VaR 2.15% and CVaR 2.98%. Daily chan
 Pre-market Summary Long-Only TECH. P\L: -27.99 bps. Top three in bps, Sirius XM Holdings Inc (SIRI) 3.45, Moderna Inc (MRNA) 3.8 and PayPal Holdings Inc (PYPL) 4.51. Bottom three in bps, Tesla Inc (TSLA) -42.36, Warner Bros Discovery Inc (WBD) -1.35 and Illumina Inc (ILMN) -0.34
 
 Pre-market Summary Long-Short ESG.P\L: -2.09 bps. NAV% -1.0%. Top three in bps, Bio-Rad (BIO) 1.68, Booking Holdings (BKNG) 3.03 and FedEx (FDX) 17.24. Bottom three in bps, Tesla, Inc. (TSLA) -7.87, VF Corporation (VFC) -4.57 and ON Semiconductor (ON) -2.97
+
+Pre-market Summary Long-Only SEC. P\L: -2.85 bps. Top three in bps, Devon Energy (DVN) 1.74, Stanley Black & Decker (SWK) 2.06 and PayPal (PYPL) 2.58. Bottom three in bps, VF Corporation (VFC) -4.51, Etsy (ETSY) -3.0 and Newmont (NEM) -2.43
