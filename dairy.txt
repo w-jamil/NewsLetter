@@ -1737,3 +1737,5 @@ Long-Only SEC Risk-Reward. Risk, SD 1.04%, VaR 1.58% and CVaR 2.18%. Daily chang
 Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.48% (0.33%), VaR 0.62% (0.62%) and CVaR 1.03% (0.8%). Daily change Long (Short), SD 1.22% (-1.44%), VaR 4.96% (-0.72%), CVaR 3.95% (-0.89%). P\L: 0.3 bps. NAV% -0.98%. Top three in bps, Becton Dickinson (BDX) 3.36, DaVita Inc. (DVA) 4.65 and FedEx (FDX) 16.27. Bottom three in bps, Albemarle Corporation (ALB) -8.4, VF Corporation (VFC) -7.37 and Hasbro (HAS) -4.52.
 
 17/03/24 - 23/03/24 U.S. Indices. Dow +2.0% to 39,476. S&P 500 +2.3% to 5,234. Nasdaq +2.9% to 16,429. Russell 2000 +1.4% to 2,069. CBOE Volatility Index -9.4% to 13.06.
+
+17/03/24 - 23/03/24 S&P 500 Sectors Consumer Staples +0.9%. Utilities +1.5%. Financials +1.9%. Telecom +4.8%. Healthcare +0.4%. Industrials +2.9%. Information Technology +2.9%. Materials +1.0%. Energy +1.8%. Consumer Discretionary +2.8%. Real Estate -0.4%.
