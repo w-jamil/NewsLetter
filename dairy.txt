@@ -1751,3 +1751,5 @@ Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.48% (0.33%), VaR 0.62% (0.62
 17/03/24 - 23/03/24 Top S&P 500 Losers Lululemon Athletica (LULU) -13%. Accenture (ACN) -10%. EPAM Systems (EPAM) -9%. Super Micro Computer (SMCI) -9%. FactSet Research Systems (FDS) -6%.
 
 17/03/24 - 23/03/24 Long-Short ESG P\L: -0.53%. Top three, FedEx Corporation (FDX) 0.18%, BIO-RAD Laboratories (BIO) 0.10% and Cash (USD) 0.09%. Bottom three, Broadcom Inc (AVGO) -0.30%, Booking Holding Inc (BKNG) -0.18% and DR Horton Inc (DHI) -0.14%.
+
+17/03/24 - 23/03/24 Long-Only TECH P\L: 1.22%. Top three, Illumina Inc (ILMN) 0.65%, Tesla Inc (TSLA) 0.50% and PayPal (PYPL) 0.29%.Bottom three,  TSirius XM Holdings Inc (SIRI)  -0.30%, Warner  Bros Discovery Inc (WBD )-0.13% and Atlassian Corp (TEAM) -0.09%.
