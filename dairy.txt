@@ -1743,3 +1743,5 @@ Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.48% (0.33%), VaR 0.62% (0.62
 17/03/24 - 23/03/24 World Indices London +2.6% to 7,931. France -0.2% to 8,152. Germany +1.5% to 18,213. Japan +5.7% to 40,897. China -0.2% to 3,048. Hong Kong -1.3% to 16,499. India +0.3% to 72,832.
 
 17/03/24 - 23/03/24 Commodities and Bonds Crude Oil WTI -0.3% to $80.82/bbl. Gold +0.2% to $2,166.5/oz. Natural Gas -0.1% to 1.654. Ten-Year Bond Yield -0.2 bps to 4.202.
+
+17/03/24 - 23/03/24 Forex and Cryptos EUR/USD -0.73%. USD/JPY +1.63%. GBP/USD -1.08%. Bitcoin -1.6%. Litecoin +0.7%. Ethereum -5.0%. XRP +1.9%.
