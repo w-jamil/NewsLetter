@@ -1745,3 +1745,5 @@ Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.48% (0.33%), VaR 0.62% (0.62
 17/03/24 - 23/03/24 Commodities and Bonds Crude Oil WTI -0.3% to $80.82/bbl. Gold +0.2% to $2,166.5/oz. Natural Gas -0.1% to 1.654. Ten-Year Bond Yield -0.2 bps to 4.202.
 
 17/03/24 - 23/03/24 Forex and Cryptos EUR/USD -0.73%. USD/JPY +1.63%. GBP/USD -1.08%. Bitcoin -1.6%. Litecoin +0.7%. Ethereum -5.0%. XRP +1.9%.
+
+17/03/24 - 23/03/24 Top S&P 500 Gainers Micron Technology (MU) +18%. FedEx (FDX) +12%. Arista Networks (ANET) +10%. Broadcom (AVGO) +10%. International Paper (IP) +9%.
