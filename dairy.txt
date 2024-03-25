@@ -1765,3 +1765,5 @@ Pre-market Summary Long-Only TECH. P\L: 1.58 bps. Top three in bps, Sirius XM Ho
 Pre-market Summary Long-Only SEC. P\L: 6.13 bps. Top three in bps, FMC Corporation (FMC) 2.42, Camden Property Trust (CPT) 3.27 and Moderna (MRNA) 3.92. Bottom three in bps, 3M (MMM) -2.6, Zebra Technologies (ZBRA) -1.65 and Generac (GNRC) -1.56.
 
 Long-Only TECH Risk-Reward . Risk, SD 1.03%, VaR 1.89% and CVaR 2.48%. Daily change, SD -29.42%, VaR -19.25%, CVaR -21.92%. P\L: 84.5 bps. Top three in bps, Tesla Inc (TSLA) 13.47, PayPal Holdings Inc (PYPL) 19.06 and Moderna Inc (MRNA) 58.88. Bottom three in bps, Illumina Inc (ILMN) -21.72, Sirius XM Holdings Inc (SIRI) -1.72 and Comcast Corp (CMCSA) -1.39.
+
+Long-Only SEC Risk-Reward. Risk, SD 0.98%, VaR 1.57% and CVaR 2.13%. Daily change, SD -5.65%, VaR -0.69%, CVaR -2.04%. P\L: 38.14 bps. Top three in bps, Generac (GNRC) 7.78, APA Corporation (APA) 10.82 and Moderna (MRNA) 18.62. Bottom three in bps, Etsy (ETSY) -11.15, Bio-Rad (BIO) -6.96 and Illumina (ILMN) -6.88.
