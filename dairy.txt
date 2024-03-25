@@ -1761,3 +1761,5 @@ Before the bell. In Asia, Japan -1.2%. Hong Kong -0.2%. China -0.7%. India close
 Pre-market Summary Long-Short ESG. P\L: -11.54 bps. NAV% -1.12%. Top three in bps, Newmont (NEM) 1.19, Broadcom Inc. (AVGO) 1.94 and NXP Semiconductors (NXPI) 2.1. Bottom three in bps, Albemarle Corporation (ALB) -4.85, Tesla, Inc. (TSLA) -3.59 and ON Semiconductor (ON) -3.41.
 
 Pre-market Summary Long-Only TECH. P\L: 1.58 bps. Top three in bps, Sirius XM Holdings Inc (SIRI) 3.48, Walgreens Boots Alliance Inc (WBA) 4.17 and Moderna Inc (MRNA) 15.1. Bottom three in bps, Tesla Inc (TSLA) -15.35, Atlassian Corp (TEAM) -2.74 and PayPal Holdings Inc (PYPL) -2.42.  
+
+Pre-market Summary Long-Only SEC. P\L: 6.13 bps. Top three in bps, FMC Corporation (FMC) 2.42, Camden Property Trust (CPT) 3.27 and Moderna (MRNA) 3.92. Bottom three in bps, 3M (MMM) -2.6, Zebra Technologies (ZBRA) -1.65 and Generac (GNRC) -1.56.
