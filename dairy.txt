@@ -1757,3 +1757,5 @@ Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.48% (0.33%), VaR 0.62% (0.62
 17/03/24 - 23/03/24 Long-Only SEC P\L: 1.54%. Top three, Illumina Inc (ILMN) 0.20%, Match Group (MTCH) 0.19% and Caesars Entertainment Inc (CZR) 0.18%.Bottom three, EPAM Systems (EPAM) -0.38%, VF Corp (VFC) -0.11% and FMC Corp (FMC) -0.10.
 
 Before the bell. In Asia, Japan -1.2%. Hong Kong -0.2%. China -0.7%. India closed. In Europe, at midday, London -0.4%. Paris -0.4%. Frankfurt -0.1%.Futures at 7:00, Dow -0.2%. S&P -0.3%. Nasdaq -0.4%. Crude +0.6% to $81.12. Gold +0.4% to $2,169.50. Bitcoin +3% to $67,006. Ten-year Treasury Yield +3 bps to 4.23%.
+
+Pre-market Summary Long-Short ESG. P\L: -11.54 bps. NAV% -1.12%. Top three in bps, Newmont (NEM) 1.19, Broadcom Inc. (AVGO) 1.94 and NXP Semiconductors (NXPI) 2.1. Bottom three in bps, Albemarle Corporation (ALB) -4.85, Tesla, Inc. (TSLA) -3.59 and ON Semiconductor (ON) -3.41.
