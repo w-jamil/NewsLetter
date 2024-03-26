@@ -1775,3 +1775,5 @@ Pre-market Summary Long-Only TECH. P\L: 69.21 bps. Top three in bps, PayPal Hold
 Pre-market Summary Long-Only SEC. P\L: 33.61 bps. Top three in bps, Caesars Entertainment (CZR) 3.37, Moderna (MRNA) 5.89 and Newmont (NEM) 6.23. Bottom three in bps, Baxter International (BAX) -0.91, 3M (MMM) -0.29 and Walgreens Boots Alliance (WBA) -0.22.  
 
 Pre-market Summary Long-Short ESG. P\L: 25.63 bps. NAV% -0.64%.  Top three in bps, Newmont (NEM) 4.53, McCormick & Company (MKC) 5.95 and Tesla, Inc. (TSLA) 9.56.Bottom three in bps, Broadcom Inc. (AVGO) -2.71, NXP Semiconductors (NXPI) -1.47 and Amphenol (APH) -0.92.
+
+Before the bell. In Asia, Japan flat. Hong Kong +0.9%. China +0.2%. India -0.5%. In Europe, at midday, London flat. Paris +0.2%. Frankfurt +0.5%.Futures at 7:00, Dow +0.3%. S&P +0.4%. Nasdaq +0.5%. Crude -0.1% to $81.85. Gold +0.9% to $2,196.80. Bitcoin +5.8% to $70,913.Ten-year Treasury Yield -1 bp to 4.23%.
