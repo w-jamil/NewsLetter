@@ -1773,3 +1773,5 @@ Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.34% (0.33%), VaR 0.59% (0.59
 Pre-market Summary Long-Only TECH. P\L: 69.21 bps. Top three in bps, PayPal Holdings Inc (PYPL) 7.31, Moderna Inc (MRNA) 18.54 and Tesla Inc (TSLA) 39.76.Bottom three in bps, Walgreens Boots Alliance Inc (WBA) -0.68, Charter Communications Inc (CHTR) 0.0 and Comcast Corp (CMCSA) 0.0.
 
 Pre-market Summary Long-Only SEC. P\L: 33.61 bps. Top three in bps, Caesars Entertainment (CZR) 3.37, Moderna (MRNA) 5.89 and Newmont (NEM) 6.23. Bottom three in bps, Baxter International (BAX) -0.91, 3M (MMM) -0.29 and Walgreens Boots Alliance (WBA) -0.22.  
+
+Pre-market Summary Long-Short ESG. P\L: 25.63 bps. NAV% -0.64%.  Top three in bps, Newmont (NEM) 4.53, McCormick & Company (MKC) 5.95 and Tesla, Inc. (TSLA) 9.56.Bottom three in bps, Broadcom Inc. (AVGO) -2.71, NXP Semiconductors (NXPI) -1.47 and Amphenol (APH) -0.92.
