@@ -1771,3 +1771,5 @@ Long-Only SEC Risk-Reward. Risk, SD 0.98%, VaR 1.57% and CVaR 2.13%. Daily chang
 Long-Short ESG Risk-Reward. Risk Long (Short), SD 0.34% (0.33%), VaR 0.59% (0.59%) and CVaR 0.83% (0.78%). Daily change Long (Short), SD -27.93% (1.06%), VaR -16.19% (-3.52%), CVaR -19.29% (-2.46%).P\L: 11.53 bps. NAV% -0.89%. Top three in bps, NXP Semiconductors (NXPI) 3.99, Hasbro (HAS) 4.01 and VF Corporation (VFC) 7.0. Bottom three in bps, Bio-Rad (BIO) -7.61, Albemarle Corporation (ALB) -6.55 and ON Semiconductor (ON) -3.73.
 
 Pre-market Summary Long-Only TECH. P\L: 69.21 bps. Top three in bps, PayPal Holdings Inc (PYPL) 7.31, Moderna Inc (MRNA) 18.54 and Tesla Inc (TSLA) 39.76.Bottom three in bps, Walgreens Boots Alliance Inc (WBA) -0.68, Charter Communications Inc (CHTR) 0.0 and Comcast Corp (CMCSA) 0.0.
+
+Pre-market Summary Long-Only SEC. P\L: 33.61 bps. Top three in bps, Caesars Entertainment (CZR) 3.37, Moderna (MRNA) 5.89 and Newmont (NEM) 6.23. Bottom three in bps, Baxter International (BAX) -0.91, 3M (MMM) -0.29 and Walgreens Boots Alliance (WBA) -0.22.  
