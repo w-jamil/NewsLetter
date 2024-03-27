@@ -1789,3 +1789,5 @@ Before the bell. In Asia, Japan +0.9%. Hong Kong -1.4%. China -1.3%. India +0.7%
 Pre-market Summary Long-Short ESG. P\L: -4.56 bps. NAV% -0.89%. Top three in bps, ON Semiconductor (ON) 1.86, Newmont (NEM) 2.16 and Tesla, Inc. (TSLA) 2.51.Bottom three in bps, Merck & Co. (MRK) -5.46, Broadcom Inc. (AVGO) -2.35 and Amphenol (APH) -1.37.
 
 Pre-market Summary Long-Only SEC. P\L: 42.32 bps. Top three in bps, Newmont (NEM) 2.54, Etsy (ETSY) 3.3 and Moderna (MRNA) 17.69.Bottom three in bps, APA Corporation (APA) -1.06, Hasbro (HAS) -0.87 and Devon Energy (DVN) -0.2. 
+
+Pre-market Summary Long-Only TECH. P\L: 88.0 bps. Bottom three in bps, Keurig Dr Pepper Inc (KDP) 0.0, Xcel Energy Inc (XEL) 0.0 and Charter Communications Inc (CHTR) 0.28. Top three in bps, PayPal Holdings Inc (PYPL) 7.61, Tesla Inc (TSLA) 9.74 and Moderna Inc (MRNA) 59.25. Top three in bps, PayPal Holdings Inc (PYPL) 7.61, Tesla Inc (TSLA) 9.74 and Moderna Inc (MRNA) 59.25.
