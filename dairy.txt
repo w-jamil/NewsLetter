@@ -1790,4 +1790,4 @@ Pre-market Summary Long-Short ESG. P\L: -4.56 bps. NAV% -0.89%. Top three in bps
 
 Pre-market Summary Long-Only SEC. P\L: 42.32 bps. Top three in bps, Newmont (NEM) 2.54, Etsy (ETSY) 3.3 and Moderna (MRNA) 17.69.Bottom three in bps, APA Corporation (APA) -1.06, Hasbro (HAS) -0.87 and Devon Energy (DVN) -0.2. 
 
-Pre-market Summary Long-Only TECH. P\L: 88.0 bps. Bottom three in bps, Keurig Dr Pepper Inc (KDP) 0.0, Xcel Energy Inc (XEL) 0.0 and Charter Communications Inc (CHTR) 0.28. Top three in bps, PayPal Holdings Inc (PYPL) 7.61, Tesla Inc (TSLA) 9.74 and Moderna Inc (MRNA) 59.25. Top three in bps, PayPal Holdings Inc (PYPL) 7.61, Tesla Inc (TSLA) 9.74 and Moderna Inc (MRNA) 59.25.
+Pre-market Summary Long-Only TECH. P\L: 88.0 bps. Bottom three in bps, Keurig Dr Pepper Inc (KDP) 0.0, Xcel Energy Inc (XEL) 0.0 and Charter Communications Inc (CHTR) 0.28. Top three in bps, PayPal Holdings Inc (PYPL) 7.61, Tesla Inc (TSLA) 9.74 and Moderna Inc (MRNA) 59.25. Bottom three in bps, Keurig Dr Pepper Inc (KDP) 0.0, Xcel Energy Inc (XEL) 0.0 and Charter Communications Inc (CHTR) 0.28.
