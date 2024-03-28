@@ -1801,3 +1801,5 @@ Long-Only TECH Risk-Reward. Risk, SD 1.13%, VaR 1.67% and CVaR 2.32%. Daily chan
 Pre-market Summary Long-Short ESG. P\L: -3.69 bps. NAV% -0.92%. Top three in bps, Hershey's (HSY) 0.47, Tesla, Inc. (TSLA) 0.56 and Newmont (NEM) 2.36. Bottom three in bps, VF Corporation (VFC) -1.48, Albemarle Corporation (ALB) -1.31 and Walgreens Boots Alliance (WBA) -1.06. 
 
 Pre-market Summary Long-Only SEC. P\L: 5.83 bps. Top three in bps, Devon Energy (DVN) 0.91, Newmont (NEM) 3.27 and Estée Lauder Companies (The) (EL) 8.52. Bottom three in bps, VF Corporation (VFC) -1.41, Walgreens Boots Alliance (WBA) -1.28 and Baxter International (BAX) -1.22.
+
+Pre-market Summary Long-Only TECH. P\L: -0.86 bps. Top three in bps, PayPal Holdings Inc (PYPL) 0.14, Sirius XM Holdings Inc (SIRI) 1.7 and Tesla Inc (TSLA) 2.44. Bottom three in bps, Walgreens Boots Alliance Inc (WBA) -4.07, Comcast Corp (CMCSA) -0.83 and Atlassian Corp (TEAM) -0.36.
