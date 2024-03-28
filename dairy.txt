@@ -1805,3 +1805,5 @@ Pre-market Summary Long-Only SEC. P\L: 5.83 bps. Top three in bps, Devon Energy 
 Pre-market Summary Long-Only TECH. P\L: -0.86 bps. Top three in bps, PayPal Holdings Inc (PYPL) 0.14, Sirius XM Holdings Inc (SIRI) 1.7 and Tesla Inc (TSLA) 2.44. Bottom three in bps, Walgreens Boots Alliance Inc (WBA) -4.07, Comcast Corp (CMCSA) -0.83 and Atlassian Corp (TEAM) -0.36.
 
 Before the bell. In Asia, Japan -1.6%. Hong Kong +0.9%. China +0.6%. India +0.9%. In Europe, at midday, London +0.2%. Paris +0.2%. Frankfurt flat. Futures at 7:00, Dow flat. S&P flat. Nasdaq flat. Crude +1.4% to $82.46. Gold +0.9% to $2231.60. Bitcoin +0.8% to $70,693.Ten-year Treasury Yield +3 bps to 4.23%
+
+Long-Short ESG Risk-Reward Risk Long (Short), SD 0.46% (0.34%), VaR 0.75% (0.75%) and CVaR 0.9% (0.94%). Daily change Long (Short), SD -14.74% (-19.94%), VaR -26.5% (-6.19%), CVaR -23.37% (-9.38%).P\L: -8.85 bps. NAV% -0.96%. Top three in bps, Booking Holdings (BKNG) 4.36, Walgreens Boots Alliance (WBA) 6.06 and Albemarle Corporation (ALB) 6.47. Bottom three in bps, ON Semiconductor (ON) -7.6, Discover Financial (DFS) -6.91 and Tesla, Inc. (TSLA) -6.13.
