@@ -1803,3 +1803,5 @@ Pre-market Summary Long-Short ESG. P\L: -3.69 bps. NAV% -0.92%. Top three in bps
 Pre-market Summary Long-Only SEC. P\L: 5.83 bps. Top three in bps, Devon Energy (DVN) 0.91, Newmont (NEM) 3.27 and Estée Lauder Companies (The) (EL) 8.52. Bottom three in bps, VF Corporation (VFC) -1.41, Walgreens Boots Alliance (WBA) -1.28 and Baxter International (BAX) -1.22.
 
 Pre-market Summary Long-Only TECH. P\L: -0.86 bps. Top three in bps, PayPal Holdings Inc (PYPL) 0.14, Sirius XM Holdings Inc (SIRI) 1.7 and Tesla Inc (TSLA) 2.44. Bottom three in bps, Walgreens Boots Alliance Inc (WBA) -4.07, Comcast Corp (CMCSA) -0.83 and Atlassian Corp (TEAM) -0.36.
+
+Before the bell. In Asia, Japan -1.6%. Hong Kong +0.9%. China +0.6%. India +0.9%. In Europe, at midday, London +0.2%. Paris +0.2%. Frankfurt flat. Futures at 7:00, Dow flat. S&P flat. Nasdaq flat. Crude +1.4% to $82.46. Gold +0.9% to $2231.60. Bitcoin +0.8% to $70,693.Ten-year Treasury Yield +3 bps to 4.23%
