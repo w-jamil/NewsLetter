@@ -1811,3 +1811,5 @@ Long-Short ESG Risk-Reward Risk Long (Short), SD 0.46% (0.34%), VaR 0.75% (0.75%
 Long-Only SEC Risk-Reward. Risk, SD 1.21%, VaR 1.39% and CVaR 2.08%. Daily change, SD -12.36%, VaR -28.5%, CVaR -23.86%. P\L: 91.34 bps. Top three in bps, APA Corporation (APA) 7.34, Boston Properties (BXP) 7.49 and Estée Lauder Companies (The) (EL) 13.6. Bottom three in bps, Moderna (MRNA) -14.25, Illumina (ILMN) -2.85 and Bio-Rad (BIO) -2.67.
 
 Long-Only TECH Risk-Reward. Risk, SD 0.87%, VaR 1.1% and CVaR 1.6%. Daily change, SD -22.89%, VaR -34.25%, CVaR -31.1%. P\L: -36.33 bps. Top three in bps, Atlassian Corp (TEAM) 9.99, Warner Bros Discovery Inc (WBD) 13.35 and Walgreens Boots Alliance Inc (WBA) 23.16. Bottom three in bps, Moderna Inc (MRNA) -45.91, Tesla Inc (TSLA) -29.7 and Illumina Inc (ILMN) -9.19.
+
+Pre-market Summary Long-Short ESG. P\L: -6.1 bps. NAV% -0.94%. Top three in bps, Newmont (NEM) 5.3, Walgreens Boots Alliance (WBA) 6.06 and Albemarle Corporation (ALB) 6.6. Bottom three in bps, ON Semiconductor (ON) -7.34, Discover Financial (DFS) -7.12 and Tesla, Inc. (TSLA) -6.67. 
