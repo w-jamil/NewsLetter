@@ -1825,3 +1825,5 @@ Pre-market Summary Long-Only TECH. P\L: -39.71 bps. Top three in bps, Atlassian 
 24/03/24 - 31/03/24 World Indices: London +0.3% to 7,953. France +0.7% to 8,206. Germany +1.6% to 18,505. Japan -1.3% to 40,369. China -0.3% to 3,041. Hong Kong +0.3% to 16,541. India +1.1% to 73,651.
 
 24/03/24 - 31/03/24 Commodities and Bonds: Crude Oil WTI +3.1% to $83.11/bbl. Gold +3.9% to $2,254.8/oz. Natural Gas +5.6% to 1.752. Ten-Year Bond Yield -0.2 bps to 4.21.
+
+24/03/24 - 31/03/24 Forex and Cryptos: EUR/USD -0.11%. USD/JPY -0.03%. GBP/USD +0.18%. Bitcoin +9.4%. Litecoin +22.3%. Ethereum +5.5%. XRP +1.8%.
