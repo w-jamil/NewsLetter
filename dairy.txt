@@ -1831,3 +1831,5 @@ Pre-market Summary Long-Only TECH. P\L: -39.71 bps. Top three in bps, Atlassian 
 24/03/24 - 31/03/24 Top S&P 500 Gainers: The AES Corporation (AES) +14%. First Solar (FSLR) +11%. McCormick & Company (MKC) +11%. FedEx (FDX) +9%. Domino's Pizza (DPZ) +9%.
 
 24/03/24 - 31/03/24 Top S&P 500 Losers: Lululemon Athletica (LULU) -18%. NIKE (NKE) -7%. Dayforce (DAY) -7%. Synopsys (SNPS) -5%. Arista Networks (ANET) -5%.
+
+24/03/24 - 31/03/24 Long-Short ESG P\L: 0.47%. Top three, Albemarle Corporation (ALB) 0.24%, VF Corp (VFC) 0.19% and McCormick & Company Inc (MKC) 0.12%. Bottom three, Discover Financial Services (DFS) -0.09%, Davita Inc (DVA) -0.07% and PNC Financial Services Group Inc (PNC) -0.07%.
