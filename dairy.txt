@@ -1819,3 +1819,5 @@ Pre-market Summary Long-Only SEC. P\L: 87.81 bps. Top three in bps, Walgreens Bo
 Pre-market Summary Long-Only TECH. P\L: -39.71 bps. Top three in bps, Atlassian Corp (TEAM) 9.02, Warner Bros Discovery Inc (WBD) 16.02 and Walgreens Boots Alliance Inc (WBA) 23.51. Bottom three in bps, Moderna Inc (MRNA) -44.9, Tesla Inc (TSLA) -31.7 and Illumina Inc (ILMN) -8.78.
 
 24/03/24 - 31/03/24 U.S. Indices Dow +0.8% to 39,807. S&P 500 +0.4% to 5,254. Nasdaq -0.3% to 16,379. Russell 2000 +2.3% to 2,120. CBOE Volatility Index -0.4% to 13.01.
+
+24/03/24 - 31/03/24 S&P 500 Sectors: Consumer Staples +0.9%. Utilities +2.8%. Financials +1.7%. Telecom -0.8%. Healthcare +1.9%. Industrials +0.6%. Information Technology -1.3%. Materials +1.6%. Energy +2.2%. Consumer Discretionary +0.7%. Real Estate +2.2%.
