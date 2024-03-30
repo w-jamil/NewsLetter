@@ -1829,3 +1829,5 @@ Pre-market Summary Long-Only TECH. P\L: -39.71 bps. Top three in bps, Atlassian 
 24/03/24 - 31/03/24 Forex and Cryptos: EUR/USD -0.11%. USD/JPY -0.03%. GBP/USD +0.18%. Bitcoin +9.4%. Litecoin +22.3%. Ethereum +5.5%. XRP +1.8%.
 
 24/03/24 - 31/03/24 Top S&P 500 Gainers: The AES Corporation (AES) +14%. First Solar (FSLR) +11%. McCormick & Company (MKC) +11%. FedEx (FDX) +9%. Domino's Pizza (DPZ) +9%.
+
+24/03/24 - 31/03/24 Top S&P 500 Losers: Lululemon Athletica (LULU) -18%. NIKE (NKE) -7%. Dayforce (DAY) -7%. Synopsys (SNPS) -5%. Arista Networks (ANET) -5%.
