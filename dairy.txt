@@ -1839,3 +1839,5 @@ Pre-market Summary Long-Only TECH. P\L: -39.71 bps. Top three in bps, Atlassian 
 24/03/24 - 31/03/24 Long-Only SEC P\L: 3.49%. Top three, Generac Holdings Inc (GNRC) 0.37%, Caesars Entertainment Inc (CZR) 0.20% and  VF Corp (VFC) 0.20%. Bottom three, Bio-Rad Laboratories, Inc  (BIO) -0.03%, 3M Co (MMM) -0.01% and Cash (USD) 0.00%.
 
 Pre-market Summary Long-Short ESG P\L: 0.01%. NAV% -1.18%. Top three in pct, DAVITA INC (DVA) 0.02, DR HORTON INC (DHI) 0.03 and HUMANA INC (HUM) 0.06. Bottom three in bps, UNITEDHEALTH GROUP INC (UNH) -0.08, VF CORP (VFC) -0.06 and TESLA INC (TSLA) -0.02. 
+
+Pre-market Summary Long-Only SEC P\L: -0.05%. Top three in pct, NEWMONT CORP (NEM) 0.03, ESTEE LAUDER COMPANIES-CL A (EL) 0.05 and GENERAC HOLDINGS INC (GNRC) 0.06. Bottom three in bps, VF CORP (VFC) -0.08, WHIRLPOOL CORP (WHR) -0.03 and WARNER BROS DISCOVERY INC (WBD) -0.03.
