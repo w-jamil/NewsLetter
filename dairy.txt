@@ -1851,3 +1851,5 @@ Pre-market Summary Long-Only SEC P\L: -0.02%. Top three in pct, WARNER BROS DISC
 Pre-market Summary Long-Short ESG P\L: 0.04%. NAV% -1.56%. Top three in pct, BRISTOL-MYERS SQUIBB CO (BMY) 0.01, WALGREENS BOOTS ALLIANCE INC (WBA) 0.01 and UNITED PARCEL SERVICE-CL B (UPS) 0.02. Bottom three in bps, TESLA INC (TSLA) -0.02, ON SEMICONDUCTOR (ON) -0.01 and NEWMONT CORP (NEM) -0.01
 
 After the bell ESGLS P\L: -0.26%. NAV% -0.68%. Top three in pct, GILEAD SCIENCES INC (GILD) 0.03, HALLIBURTON CO (HAL) 0.04 and ALBEMARLE CORP (ALB) 0.06. Bottom three in pct, VF CORP (VFC) -0.07, BROADCOM INC (AVGO) -0.07 and BOOKING HOLDINGS INC (BKNG) -0.06
+
+After the bell ESGLS Risk Long (Short), SD 0.64% (0.48%), VaR 0.87% (0.87%) and CVaR 1.43% (1.14%). Daily change Long (Short), SD 5.22% (1.3%), VaR 4.06% (6.28%), CVaR 4.35% (5.05%)
