@@ -1861,3 +1861,5 @@ After the bell LOSEC Risk, SD 0.77%, VaR 1.29% and CVaR 1.73%. Daily change, SD 
 After the bell LOTECH P\L: -0.39%. Top three in pct, PAYPAL HOLDINGS INC (PYPL) 0.1, TESLA INC (TSLA) 0.13 and WARNER BROS DISCOVERY INC (WBD) 0.32. Bottom three in pct, DATADOG INC - CLASS A (DDOG) -0.26, SIRIUS XM HOLDINGS INC (SIRI) -0.23 and MODERNA INC (MRNA) -0.23
 
 After the bell LOTECH Risk, SD 1.06%, VaR 2.0% and CVaR 2.6%. Daily change, SD -0.69%, VaR -3.23%, CVaR -2.65%
+
+Pre-market Summary Long-Short ESGLS P\L: 0.09%. NAV% -0.62%. Top three in pct, TESLA INC (TSLA) 0.02, ALBEMARLE CORP (ALB) 0.02 and VF CORP (VFC) 0.03. Bottom three in pct, BROADCOM INC (AVGO) -0.02, MORGAN STANLEY (MS) -0.01 and NXP SEMICONDUCTORS NV (NXPI) -0.01
