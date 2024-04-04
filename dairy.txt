@@ -1865,3 +1865,5 @@ After the bell LOTECH Risk, SD 1.06%, VaR 2.0% and CVaR 2.6%. Daily change, SD -
 Pre-market Summary Long-Short ESGLS P\L: 0.09%. NAV% -0.62%. Top three in pct, TESLA INC (TSLA) 0.02, ALBEMARLE CORP (ALB) 0.02 and VF CORP (VFC) 0.03. Bottom three in pct, BROADCOM INC (AVGO) -0.02, MORGAN STANLEY (MS) -0.01 and NXP SEMICONDUCTORS NV (NXPI) -0.01
 
 Pre-market Summary Long-Only TECH P\L: 0.51%. Top three in pct, DATADOG INC - CLASS A (DDOG) 0.06, ATLASSIAN CORP-CL A (TEAM) 0.07 and TESLA INC (TSLA) 0.11. Bottom three in pct, KEURIG DR PEPPER INC (KDP) 0.0, MODERNA INC (MRNA) 0.01 and WALGREENS BOOTS ALLIANCE INC (WBA) 0.03
+
+Pre-market Summary Long-Only SEC P\L: 0.01%. Top three in pct, DOMINION ENERGY INC (D) 0.01, EVERSOURCE ENERGY (ES) 0.06 and ABBVIE INC (ABBV) 0.08. Bottom three in pct, ALPHABET INC-CL A (GOOGL) -0.13, SOLVENTUM CORP (SOLV) -0.01 and MARKETAXESS HOLDINGS INC (MKTX) 0.0
