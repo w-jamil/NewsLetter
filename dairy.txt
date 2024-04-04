@@ -1863,3 +1863,5 @@ After the bell LOTECH P\L: -0.39%. Top three in pct, PAYPAL HOLDINGS INC (PYPL) 
 After the bell LOTECH Risk, SD 1.06%, VaR 2.0% and CVaR 2.6%. Daily change, SD -0.69%, VaR -3.23%, CVaR -2.65%
 
 Pre-market Summary Long-Short ESGLS P\L: 0.09%. NAV% -0.62%. Top three in pct, TESLA INC (TSLA) 0.02, ALBEMARLE CORP (ALB) 0.02 and VF CORP (VFC) 0.03. Bottom three in pct, BROADCOM INC (AVGO) -0.02, MORGAN STANLEY (MS) -0.01 and NXP SEMICONDUCTORS NV (NXPI) -0.01
+
+Pre-market Summary Long-Only TECH P\L: 0.51%. Top three in pct, DATADOG INC - CLASS A (DDOG) 0.06, ATLASSIAN CORP-CL A (TEAM) 0.07 and TESLA INC (TSLA) 0.11. Bottom three in pct, KEURIG DR PEPPER INC (KDP) 0.0, MODERNA INC (MRNA) 0.01 and WALGREENS BOOTS ALLIANCE INC (WBA) 0.03
