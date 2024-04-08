@@ -1869,3 +1869,5 @@ Pre-market Summary Long-Only TECH P\L: 0.51%. Top three in pct, DATADOG INC - CL
 Pre-market Summary Long-Only SEC P\L: 0.01%. Top three in pct, DOMINION ENERGY INC (D) 0.01, EVERSOURCE ENERGY (ES) 0.06 and ABBVIE INC (ABBV) 0.08. Bottom three in pct, ALPHABET INC-CL A (GOOGL) -0.13, SOLVENTUM CORP (SOLV) -0.01 and MARKETAXESS HOLDINGS INC (MKTX) 0.0
 
 Pre-market Summary Long-Short ESGLS P\L: 0.18%. NAV% -0.43%. Top three in pct, HERSHEY CO/THE (HSY) 0.02, NEWMONT CORP (NEM) 0.03 and TESLA INC (TSLA) 0.07. Bottom three in pct, AMGEN INC (AMGN) -0.01, VF CORP (VFC) 0.0 and COCA-COLA CO/THE (KO) -0.0
+
+Pre-market Summary Long-Only TECH P\L: 0.36%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.01, SIRIUS XM HOLDINGS INC (SIRI) 0.06 and TESLA INC (TSLA) 0.4. Bottom three in pct, MODERNA INC (MRNA) -0.06, ILLUMINA INC (ILMN) -0.02 and DATADOG INC - CLASS A (DDOG) -0.01
