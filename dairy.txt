@@ -1871,3 +1871,5 @@ Pre-market Summary Long-Only SEC P\L: 0.01%. Top three in pct, DOMINION ENERGY I
 Pre-market Summary Long-Short ESGLS P\L: 0.18%. NAV% -0.43%. Top three in pct, HERSHEY CO/THE (HSY) 0.02, NEWMONT CORP (NEM) 0.03 and TESLA INC (TSLA) 0.07. Bottom three in pct, AMGEN INC (AMGN) -0.01, VF CORP (VFC) 0.0 and COCA-COLA CO/THE (KO) -0.0
 
 Pre-market Summary Long-Only TECH P\L: 0.36%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.01, SIRIUS XM HOLDINGS INC (SIRI) 0.06 and TESLA INC (TSLA) 0.4. Bottom three in pct, MODERNA INC (MRNA) -0.06, ILLUMINA INC (ILMN) -0.02 and DATADOG INC - CLASS A (DDOG) -0.01
+
+After the bell ESGLS P\L: 0.25%. NAV% -0.29%. Top three in pct, CHARTER COMMUNICATIONS INC-A (CHTR) 0.05, TESLA INC (TSLA) 0.13 and ALBEMARLE CORP (ALB) 0.21. Bottom three in pct, PNC FINANCIAL SERVICES GROUP (PNC) -0.05, VF CORP (VFC) -0.04 and NXP SEMICONDUCTORS NV (NXPI) -0.0. Risk Long (Short), SD 0.68% (0.48%), VaR 0.77% (0.77%) and CVaR 1.49% (1.04%). Daily change Long (Short), SD 6.41% (1.14%), VaR 3.74% (-12.0%), CVaR 4.42% (-8.89%)
