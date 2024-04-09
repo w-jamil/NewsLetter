@@ -1882,3 +1882,5 @@ Pre-market Summary Long-Only TECH P\L: -0.03%. Top three in pct, ATLASSIAN CORP-
 
 After the bell ESGLS P\L: 0.46%. NAV% 0.24%. Top three in pct, APTIV PLC (APTV) 0.07, ON SEMICONDUCTOR (ON) 0.09 and BIO-RAD LABORATORIES-A (BIO) 0.1. Bottom three in pct, NXP SEMICONDUCTORS NV (NXPI) -0.07, ALBEMARLE CORP (ALB) -0.06 and MORGAN STANLEY (MS) -0.02. Risk Long (Short), SD 0.7% (0.48%), VaR 0.78% (0.78%) and CVaR 1.44% (1.06%). Daily change Long (Short), SD 3.15% (0.6%), VaR -6.1% (1.96%), CVaR -3.7% (1.6%)
 
+After the bell LOTECH P\L: 1.93%. Top three in pct, ATLASSIAN CORP-CL A (TEAM) 0.26, TESLA INC (TSLA) 0.31 and MODERNA INC (MRNA) 0.6. Bottom three in pct, CHARTER COMMUNICATIONS INC-A (CHTR) -0.03, DATADOG INC - CLASS A (DDOG) -0.01 and WALGREENS BOOTS ALLIANCE INC (WBA) 0.01. Risk, SD 1.38%, VaR 2.17% and CVaR 2.96%. Daily change, SD 16.43%, VaR 5.26%, CVaR 8.02%
+
