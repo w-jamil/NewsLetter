@@ -1879,3 +1879,6 @@ After the bell LOTECH P\L: 1.51%. Top three in pct, PAYPAL HOLDINGS INC (PYPL) 0
 Pre-market Summary Long-Short ESGLS P\L: 0.07%. NAV% -0.27%. Top three in pct, AT&T INC (T) 0.02, ALBEMARLE CORP (ALB) 0.03 and NEWMONT CORP (NEM) 0.04. Bottom three in pct, BROADCOM INC (AVGO) -0.04, CHARTER COMMUNICATIONS INC-A (CHTR) -0.03 and BANK OF NEW YORK MELLON CORP (BK) -0.02
 
 Pre-market Summary Long-Only TECH P\L: -0.03%. Top three in pct, ATLASSIAN CORP-CL A (TEAM) 0.01, TESLA INC (TSLA) 0.03 and PAYPAL HOLDINGS INC (PYPL) 0.05. Bottom three in pct, CHARTER COMMUNICATIONS INC-A (CHTR) -0.09, MODERNA INC (MRNA) -0.05 and SIRIUS XM HOLDINGS INC (SIRI) 0.0
+
+After the bell ESGLS P\L: 0.46%. NAV% 0.24%. Top three in pct, APTIV PLC (APTV) 0.07, ON SEMICONDUCTOR (ON) 0.09 and BIO-RAD LABORATORIES-A (BIO) 0.1. Bottom three in pct, NXP SEMICONDUCTORS NV (NXPI) -0.07, ALBEMARLE CORP (ALB) -0.06 and MORGAN STANLEY (MS) -0.02. Risk Long (Short), SD 0.7% (0.48%), VaR 0.78% (0.78%) and CVaR 1.44% (1.06%). Daily change Long (Short), SD 3.15% (0.6%), VaR -6.1% (1.96%), CVaR -3.7% (1.6%)
+
