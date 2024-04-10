@@ -1887,3 +1887,5 @@ After the bell LOTECH P\L: 1.93%. Top three in pct, ATLASSIAN CORP-CL A (TEAM) 0
 Pre-market Summary Long-Short ESGLS P\L: -0.09%. NAV% 0.18%. Top three in pct, NXP SEMICONDUCTORS NV (NXPI) 0.05, BROADCOM INC (AVGO) 0.06 and DR HORTON INC (DHI) 0.08. Bottom three in pct, VF CORP (VFC) -0.08, APTIV PLC (APTV) -0.06 and ON SEMICONDUCTOR (ON) -0.06
 
 Pre-market Summary Long-Only TECH P\L: -2.11%. Top three in pct, CHARTER COMMUNICATIONS INC-A (CHTR) -0.08, SIRIUS XM HOLDINGS INC (SIRI) -0.02 and KEURIG DR PEPPER INC (KDP) -0.02. Bottom three in pct, ATLASSIAN CORP-CL A (TEAM) -0.32, TESLA INC (TSLA) -0.29 and ILLUMINA INC (ILMN) -0.27
+
+After the bell ESGLS P\L: -0.22%. NAV% -6.14%. Top three in pct, PNC FINANCIAL SERVICES GROUP (PNC) 0.09, NXP SEMICONDUCTORS NV (NXPI) 0.12 and DR HORTON INC (DHI) 0.16. Bottom three in pct, VF CORP (VFC) -0.13, WALGREENS BOOTS ALLIANCE INC (WBA) -0.12 and APTIV PLC (APTV) -0.11. Risk Long (Short), SD 0.59% (0.46%), VaR 0.55% (0.55%) and CVaR 1.47% (0.81%). Daily change Long (Short), SD -15.84% (-5.02%), VaR 8.98% (-29.29%), CVaR 2.08% (-22.97%)
