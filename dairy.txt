@@ -1885,3 +1885,5 @@ After the bell ESGLS P\L: 0.46%. NAV% 0.24%. Top three in pct, APTIV PLC (APTV) 
 After the bell LOTECH P\L: 1.93%. Top three in pct, ATLASSIAN CORP-CL A (TEAM) 0.26, TESLA INC (TSLA) 0.31 and MODERNA INC (MRNA) 0.6. Bottom three in pct, CHARTER COMMUNICATIONS INC-A (CHTR) -0.03, DATADOG INC - CLASS A (DDOG) -0.01 and WALGREENS BOOTS ALLIANCE INC (WBA) 0.01. Risk, SD 1.38%, VaR 2.17% and CVaR 2.96%. Daily change, SD 16.43%, VaR 5.26%, CVaR 8.02%
 
 Pre-market Summary Long-Short ESGLS P\L: -0.09%. NAV% 0.18%. Top three in pct, NXP SEMICONDUCTORS NV (NXPI) 0.05, BROADCOM INC (AVGO) 0.06 and DR HORTON INC (DHI) 0.08. Bottom three in pct, VF CORP (VFC) -0.08, APTIV PLC (APTV) -0.06 and ON SEMICONDUCTOR (ON) -0.06
+
+Pre-market Summary Long-Only TECH P\L: -2.11%. Top three in pct, CHARTER COMMUNICATIONS INC-A (CHTR) -0.08, SIRIUS XM HOLDINGS INC (SIRI) -0.02 and KEURIG DR PEPPER INC (KDP) -0.02. Bottom three in pct, ATLASSIAN CORP-CL A (TEAM) -0.32, TESLA INC (TSLA) -0.29 and ILLUMINA INC (ILMN) -0.27
