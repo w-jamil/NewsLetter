@@ -1905,3 +1905,5 @@ Pre-market Summary Long-Short ESGLS P\L: 0.06%. NAV% -1.0%. Top three in pct, PN
 Pre-market Summary Long-Only TECH P\L: -0.55%. Top three in pct, KEURIG DR PEPPER INC (KDP) 0.0, CHARTER COMMUNICATIONS INC-A (CHTR) 0.01 and SIRIUS XM HOLDINGS INC (SIRI) 0.02. Bottom three in pct, ATLASSIAN CORP-CL A (TEAM) -0.25, TESLA INC (TSLA) -0.12 and DATADOG INC - CLASS A (DDOG) -0.08
 
 07/04/24 - 14/07/24 Long-Only TECH P\L: 0.19%. Top three, Atlassian Corp (TEAM) 0.55%, Tesla Inc (TSLA) 0.50% and DataDog Inc (DDOG) 0.28%. Bottom three,  Sirus XM Holdings (SIRI) -0.57%, Wallgreens Boots Alliance (WBA)-0.43% and Charter Communications Inc (CHTR) -0.19%.
+
+07/04/24 - 14/07/24 Long-Short ESG P\L: -0.01%. Top three, Morgan Stanley (MS) 0.12%, Discover Financial Services (DFS) 0.10% and DR Horton Ince (DHI) 0.08%. Bottom three, Globe Life Inc (GL) -0.24% , Wallgreens Boots Alliance (WBA) -0.11% On semiconductor (ON) -0.10%.
