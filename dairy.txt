@@ -1909,3 +1909,5 @@ Pre-market Summary Long-Only TECH P\L: -0.55%. Top three in pct, KEURIG DR PEPPE
 07/04/24 - 14/07/24 Long-Short ESG P\L: -0.01%. Top three, Morgan Stanley (MS) 0.12%, Discover Financial Services (DFS) 0.10% and DR Horton Ince (DHI) 0.08%. Bottom three, Globe Life Inc (GL) -0.24% , Wallgreens Boots Alliance (WBA) -0.11% On semiconductor (ON) -0.10%.
 
 Pre-market Summary Long-Short ESGLS P\L: 0.05%. NAV% -1.29%. Top three in pct, CISCO SYSTEMS INC (CSCO) 0.03, ON SEMICONDUCTOR (ON) 0.03 and ALBEMARLE CORP (ALB) 0.04. Bottom three in pct, BROADCOM INC (AVGO) -0.05, TESLA INC (TSLA) -0.04 and NXP SEMICONDUCTORS NV (NXPI) -0.01
+
+Pre-market Summary Long-Only TECH P\L: 0.13%. Top three in pct, ATLASSIAN CORP-CL A (TEAM) 0.03, SIRIUS XM HOLDINGS INC (SIRI) 0.08 and DATADOG INC - CLASS A (DDOG) 0.09. Bottom three in pct, TESLA INC (TSLA) -0.15, MODERNA INC (MRNA) -0.01 and ILLUMINA INC (ILMN) 0.0
