@@ -1911,3 +1911,5 @@ Pre-market Summary Long-Only TECH P\L: -0.55%. Top three in pct, KEURIG DR PEPPE
 Pre-market Summary Long-Short ESGLS P\L: 0.05%. NAV% -1.29%. Top three in pct, CISCO SYSTEMS INC (CSCO) 0.03, ON SEMICONDUCTOR (ON) 0.03 and ALBEMARLE CORP (ALB) 0.04. Bottom three in pct, BROADCOM INC (AVGO) -0.05, TESLA INC (TSLA) -0.04 and NXP SEMICONDUCTORS NV (NXPI) -0.01
 
 Pre-market Summary Long-Only TECH P\L: 0.13%. Top three in pct, ATLASSIAN CORP-CL A (TEAM) 0.03, SIRIUS XM HOLDINGS INC (SIRI) 0.08 and DATADOG INC - CLASS A (DDOG) 0.09. Bottom three in pct, TESLA INC (TSLA) -0.15, MODERNA INC (MRNA) -0.01 and ILLUMINA INC (ILMN) 0.0
+
+After the bell ESGLS P\L: -0.2%. NAV% -1.42%. Top three in pct, DR HORTON INC (DHI) 0.04, BOOKING HOLDINGS INC (BKNG) 0.06 and BROADCOM INC (AVGO) 0.1. Bottom three in pct, TESLA INC (TSLA) -0.17, ALBEMARLE CORP (ALB) -0.06 and ON SEMICONDUCTOR (ON) -0.05.Risk Long (Short), SD 0.54% (0.45%), VaR 0.48% (0.48%) and CVaR 1.48% (0.74%). Daily change Long (Short), SD -3.9% (0.25%), VaR 1.21% (-10.23%), CVaR 0.11% (-6.85%)
