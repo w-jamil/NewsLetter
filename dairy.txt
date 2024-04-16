@@ -1915,3 +1915,5 @@ Pre-market Summary Long-Only TECH P\L: 0.13%. Top three in pct, ATLASSIAN CORP-C
 After the bell ESGLS P\L: -0.2%. NAV% -1.42%. Top three in pct, DR HORTON INC (DHI) 0.04, BOOKING HOLDINGS INC (BKNG) 0.06 and BROADCOM INC (AVGO) 0.1. Bottom three in pct, TESLA INC (TSLA) -0.17, ALBEMARLE CORP (ALB) -0.06 and ON SEMICONDUCTOR (ON) -0.05.Risk Long (Short), SD 0.54% (0.45%), VaR 0.48% (0.48%) and CVaR 1.48% (0.74%). Daily change Long (Short), SD -3.9% (0.25%), VaR 1.21% (-10.23%), CVaR 0.11% (-6.85%)
 
 After the bell LOTECH P\L: -2.65%. Top three in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.06, KEURIG DR PEPPER INC (KDP) 0.03 and WARNER BROS DISCOVERY INC (WBD) 0.04. Bottom three in pct, ATLASSIAN CORP-CL A (TEAM) -0.84, TESLA INC (TSLA) -0.77 and ILLUMINA INC (ILMN) -0.43. Risk, SD 1.29%, VaR 2.41% and CVaR 3.14%. Daily change, SD -17.17%, VaR -8.73%, CVaR -10.85%
+
+Pre-market Summary Long-Only TECH P\L: -0.42%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.03, ATLASSIAN CORP-CL A (TEAM) 0.03 and SIRIUS XM HOLDINGS INC (SIRI) 0.04. Bottom three in pct, TESLA INC (TSLA) -0.27, MODERNA INC (MRNA) -0.12 and ILLUMINA INC (ILMN) -0.09
