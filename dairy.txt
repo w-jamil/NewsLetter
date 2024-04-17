@@ -1923,3 +1923,5 @@ Pre-market Summary Long-Short ESGLS P\L: -0.07%. NAV% -1.52%. Top three in pct, 
 After the bell LOTECH P\L: -0.72%. Top three in pct, CHARTER COMMUNICATIONS INC-A (CHTR) 0.02, DATADOG INC - CLASS A (DDOG) 0.1 and ATLASSIAN CORP-CL A (TEAM) 0.17. Bottom three in pct, TESLA INC (TSLA) -0.36, WARNER BROS DISCOVERY INC (WBD) -0.31 and ILLUMINA INC (ILMN) -0.26. Risk, SD 1.54%, VaR 2.78% and CVaR 3.66%. Daily change, SD 19.72%, VaR 15.59%, CVaR 16.55%
 
 After the bell ESGLS P\L: -0.22%. NAV% -1.62%. Top three in pct, GLOBE LIFE INC (GL) 0.05, DR HORTON INC (DHI) 0.05 and UNITEDHEALTH GROUP INC (UNH) 0.13. Bottom three in pct, ALBEMARLE CORP (ALB) -0.19, TESLA INC (TSLA) -0.08 and MORGAN STANLEY (MS) -0.05. Risk Long (Short), SD 0.48% (0.43%), VaR 0.49% (0.49%) and CVaR 1.29% (0.74%). Daily change Long (Short), SD -10.75% (-4.38%), VaR -12.92% (1.81%), CVaR -12.47% (-0.34%)
+
+Pre-market Summary Long-Only TECH P\L: 0.39%. Top three in pct, WARNER BROS DISCOVERY INC (WBD) 0.07, PAYPAL HOLDINGS INC (PYPL) 0.08 and TESLA INC (TSLA) 0.13. Bottom three in pct, MODERNA INC (MRNA) -0.01, SIRIUS XM HOLDINGS INC (SIRI) 0.0 and KEURIG DR PEPPER INC (KDP) 0.0
