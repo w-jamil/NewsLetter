@@ -1935,3 +1935,7 @@ After the bell LOTECH P\L: -0.44%. Top three in pct, ILLUMINA INC (ILMN) 0.05, K
 Pre-market Summary Long-Short ESGLS P\L: -0.04%. NAV% 0.42%. Top three in pct, DOMINION ENERGY INC (D) 0.04, AMERICAN AIRLINES GROUP INC (AAL) 0.05 and VF CORP (VFC) 0.05. Bottom three in pct, PULTE GROUP INC (PHM) -0.14, NVIDIA CORP (NVDA) -0.07 and EATON CORP PLC (ETN) -0.02
 
 Pre-market Summary Long-Only TECH P\L: -0.18%. Top three in pct, WARNER BROS DISCOVERY INC (WBD) 0.04, ATLASSIAN CORP-CL A (TEAM) 0.04 and DATADOG INC - CLASS A (DDOG) 0.05. Bottom three in pct, TESLA INC (TSLA) -0.37, ILLUMINA INC (ILMN) -0.08 and MODERNA INC (MRNA) -0.0
+
+After the bell LOTECH P\L: -0.66%. Top three in pct, CHARTER COMMUNICATIONS INC-A (CHTR) 0.05, DATADOG INC - CLASS A (DDOG) 0.12 and WARNER BROS DISCOVERY INC (WBD) 0.26. Bottom three in pct, TESLA INC (TSLA) -0.52, MODERNA INC (MRNA) -0.17 and PAYPAL HOLDINGS INC (PYPL) -0.15. Risk, SD 1.52%, VaR 2.76% and CVaR 3.63%. Daily change, SD -0.89%, VaR -0.56%, CVaR -0.64%
+
+
