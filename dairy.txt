@@ -1938,4 +1938,6 @@ Pre-market Summary Long-Only TECH P\L: -0.18%. Top three in pct, WARNER BROS DIS
 
 After the bell LOTECH P\L: -0.66%. Top three in pct, CHARTER COMMUNICATIONS INC-A (CHTR) 0.05, DATADOG INC - CLASS A (DDOG) 0.12 and WARNER BROS DISCOVERY INC (WBD) 0.26. Bottom three in pct, TESLA INC (TSLA) -0.52, MODERNA INC (MRNA) -0.17 and PAYPAL HOLDINGS INC (PYPL) -0.15. Risk, SD 1.52%, VaR 2.76% and CVaR 3.63%. Daily change, SD -0.89%, VaR -0.56%, CVaR -0.64%
 
+After the bell ESGLS P\L: 0.66%. NAV% 1.12%. Top three in pct, AMERICAN AIRLINES GROUP INC (AAL) 0.05, MARATHON PETROLEUM CORP (MPC) 0.21 and VF CORP (VFC) 0.22. Bottom three in pct, NVIDIA CORP (NVDA) -0.05, HEALTHPEAK PROPERTIES INC (DOC) -0.02 and WALGREENS BOOTS ALLIANCE INC (WBA) -0.02. Risk Long (Short), SD 0.71% (0.46%), VaR 0.59% (0.59%) and CVaR 1.74% (0.85%). Daily change Long (Short), SD 5.71% (-5.85%), VaR 0.35% (-0.81%), CVaR 1.54% (-2.42%)
+
 
