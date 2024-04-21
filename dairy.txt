@@ -1950,4 +1950,5 @@ After the bell LOTECH P\L: -0.16%. Top three in pct, CHARTER COMMUNICATIONS INC-
 
 14/04/24 - 21/04/24 LOTECH -4.54%. Top three, Keurig dr ppper Inc (KDP) 0.16%, Charter Communication (CHTR) 0.15% and Walgreens Boots Alliance (WBA) 0.15%. Bottom three, Tesla Inc (TSLA) -1.95%, Team Tankers International (TEAM) -0.84% and Illumina Inc (ILMN) -0.70%
 
+14/04/24 - 21/04/24 ESGLS 1.75%. Top three, Nvidia Corp (NVDA) 0.77%, Anglo American PLC (AAL) 0.19% and United Health Group (UNH) 0.18%. Bottom three, Tesla Inc (TSLA) -0.23%, Albemarle (ALB) -0.17% and Morgan Stanley (MS) -0.09%
 
