@@ -1960,3 +1960,5 @@ After the bell ESGLS P\L: -0.47%. NAV% 1.88%. Top three in pct, DOMINION ENERGY 
 
 After the bell ESGLS Risk Long (Short), SD 0.75% (0.51%), VaR 0.62% (0.62%) and CVaR 1.8% (0.91%). Daily change Long (Short), SD 2.03% (43.13%), VaR 0.62% (121.69%), CVaR 0.95% (88.4%)
 
+After the bell LOTECH P\L: 0.74%. Top three in pct, DATADOG INC - CLASS A (DDOG) 0.19, ILLUMINA INC (ILMN) 0.21 and MODERNA INC (MRNA) 0.31. Bottom three in pct, TESLA INC (TSLA) -0.44, WALGREENS BOOTS ALLIANCE INC (WBA) 0.0 and CHARTER COMMUNICATIONS INC-A (CHTR) -0.0
+
