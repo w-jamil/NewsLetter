@@ -1966,3 +1966,5 @@ After the bell LOTECH Risk, SD 1.44%, VaR 2.72% and CVaR 3.54%. Daily change, SD
 
 After the bell LOTECH P\L: 2.51%. Top three in pct, MODERNA INC (MRNA) 0.35, DATADOG INC - CLASS A (DDOG) 0.39 and TESLA INC (TSLA) 0.99. Bottom three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.06, WARNER BROS DISCOVERY INC (WBD) -0.04 and KEURIG DR PEPPER INC (KDP) 0.0. Risk, SD 1.46%, VaR 2.76% and CVaR 3.59%. Daily change, SD 1.3%, VaR 1.6%, CVaR 1.53%
 
+After the bell ESGLS P\L: -1.14%. NAV% 0.77%. Top three in pct, HEALTHPEAK PROPERTIES INC (DOC) 0.06, DENTSPLY SIRONA INC (XRAY) 0.06 and VF CORP (VFC) 0.08. Bottom three in pct, NVIDIA CORP (NVDA) -0.33, INVESCO LTD (IVZ) -0.31 and PULTE GROUP INC (PHM) -0.26. Risk Long (Short), SD 0.71% (0.63%), VaR 0.93% (0.93%) and CVaR 1.77% (1.29%). Daily change Long (Short), SD -6.37% (22.65%), VaR 0.03% (51.09%), CVaR -1.5% (41.93%)
+
