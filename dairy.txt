@@ -1968,3 +1968,4 @@ After the bell LOTECH P\L: 2.51%. Top three in pct, MODERNA INC (MRNA) 0.35, DAT
 
 After the bell ESGLS P\L: -1.14%. NAV% 0.77%. Top three in pct, HEALTHPEAK PROPERTIES INC (DOC) 0.06, DENTSPLY SIRONA INC (XRAY) 0.06 and VF CORP (VFC) 0.08. Bottom three in pct, NVIDIA CORP (NVDA) -0.33, INVESCO LTD (IVZ) -0.31 and PULTE GROUP INC (PHM) -0.26. Risk Long (Short), SD 0.71% (0.63%), VaR 0.93% (0.93%) and CVaR 1.77% (1.29%). Daily change Long (Short), SD -6.37% (22.65%), VaR 0.03% (51.09%), CVaR -1.5% (41.93%)
 
+Pre-market Summary Long-Short ESGLS P\L: -0.3%. NAV% 0.6%. Top three in pct, PUBLIC SERVICE ENTERPRISE GP (PEG) 0.01, ALPHABET INC-CL A (GOOGL) 0.02 and AT&T INC (T) 0.11. Bottom three in pct, NVIDIA CORP (NVDA) -0.14, EATON CORP PLC (ETN) -0.13 and VF CORP (VFC) -0.06
