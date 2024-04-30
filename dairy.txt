@@ -2001,3 +2001,5 @@ After the bell ESGLS P\L: 0.18%. NAV% -1.28%. Top three in pct, NVR INC (NVR) 0.
 After the bell LOTECH P\L: 2.92%. Top three in pct, SIRIUS XM HOLDINGS INC (SIRI) 0.31, MODERNA INC (MRNA) 0.36 and TESLA INC (TSLA) 1.98. Bottom three in pct, DATADOG INC - CLASS A (DDOG) -0.21, ATLASSIAN CORP-CL A (TEAM) -0.15 and KEURIG DR PEPPER INC (KDP) -0.0. Risk, SD 1.32%, VaR 1.65% and CVaR 2.4%. Daily change, SD 14.51%, VaR -15.03%, CVaR -7.57%
 
 Pre-market Summary Long-Only TECH P\L: -0.08%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.04, PAYPAL HOLDINGS INC (PYPL) 0.07 and SIRIUS XM HOLDINGS INC (SIRI) 0.14. Bottom three in pct, TESLA INC (TSLA) -0.27, ILLUMINA INC (ILMN) -0.02 and ATLASSIAN CORP-CL A (TEAM) -0.02
+
+Pre-market Summary Long-Short ESGLS P\L: -0.09%. NAV% -1.37%. Top three in pct, AUTOZONE INC (AZO) 0.0, INVESCO LTD (IVZ) 0.0 and LAM RESEARCH CORP (LRCX) 0.01. Bottom three in pct, VF CORP (VFC) -0.03, AMERICAN AIRLINES GROUP INC (AAL) -0.02 and CARNIVAL CORP (CCL) -0.02
