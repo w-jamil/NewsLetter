@@ -2017,3 +2017,5 @@ After the bell LOTECH P\L: -0.16%. Top three in pct, SIRIUS XM HOLDINGS INC (SIR
 After the bell ESGLS P\L: 0.21%. NAV% -1.1%. Top three in pct, KEYCORP (KEY) 0.09, LAM RESEARCH CORP (LRCX) 0.19 and BROADCOM INC (AVGO) 0.37. Bottom three in pct, HEWLETT PACKARD ENTERPRISE (HPE) -0.19, CARNIVAL CORP (CCL) -0.14 and VF CORP (VFC) -0.14. Risk Long (Short), SD 0.51% (0.52%), VaR 0.76% (0.76%) and CVaR 1.03% (1.06%). Daily change Long (Short), SD 0.93% (-10.12%), VaR 12.18% (-8.43%), CVaR 8.77% (-8.91%)
 
 Pre-market Summary Long-Only TECH  P\L: 0.8%. Top three in pct, SIRIUS XM HOLDINGS INC (SIRI) 0.12, WARNER BROS DISCOVERY INC (WBD) 0.24 and INTEL CORP (INTC) 0.28. Bottom three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.07, BAKER HUGHES CO (BKR) 0.09 and SIRIUS XM HOLDINGS INC (SIRI) 0.12
+
+After the bell ESGLS P\L: 0.33%. NAV% -0.91%. Top three in pct, CARNIVAL CORP (CCL) 0.07, VF CORP (VFC) 0.08 and REGENERON PHARMACEUTICALS (REGN) 0.09. Bottom three in pct, BROADCOM INC (AVGO) -0.16, LAM RESEARCH CORP (LRCX) -0.09 and O'REILLY AUTOMOTIVE INC (ORLY) 0.0
