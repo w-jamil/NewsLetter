@@ -2019,3 +2019,5 @@ After the bell ESGLS P\L: 0.21%. NAV% -1.1%. Top three in pct, KEYCORP (KEY) 0.0
 Pre-market Summary Long-Only TECH  P\L: 0.8%. Top three in pct, SIRIUS XM HOLDINGS INC (SIRI) 0.12, WARNER BROS DISCOVERY INC (WBD) 0.24 and INTEL CORP (INTC) 0.28. Bottom three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.07, BAKER HUGHES CO (BKR) 0.09 and SIRIUS XM HOLDINGS INC (SIRI) 0.12
 
 After the bell ESGLS P\L: 0.33%. NAV% -0.91%. Top three in pct, CARNIVAL CORP (CCL) 0.07, VF CORP (VFC) 0.08 and REGENERON PHARMACEUTICALS (REGN) 0.09. Bottom three in pct, BROADCOM INC (AVGO) -0.16, LAM RESEARCH CORP (LRCX) -0.09 and O'REILLY AUTOMOTIVE INC (ORLY) 0.0
+
+After the bell ESGLS P\L: -0.33%. NAV% -1.45%. Top three in pct, FORD MOTOR CO (F) 0.11, AMERICAN AIRLINES GROUP INC (AAL) 0.12 and VF CORP (VFC) 0.16. Bottom three in pct, BOOKING HOLDINGS INC (BKNG) -0.45, REGENERON PHARMACEUTICALS (REGN) -0.17 and LAM RESEARCH CORP (LRCX) -0.11. Risk Long (Short), SD 0.53% (0.53%), VaR 0.85% (0.85%) and CVaR 1.05% (1.15%). Daily change Long (Short), SD 2.92% (2.26%), VaR 1.24% (11.58%), CVaR 1.71% (8.98%)
