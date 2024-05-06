@@ -2042,4 +2042,5 @@ Pre-market Summary Long-Short ESGLS P\L: 0.2%. NAV% -1.29%. Top three in pct, KE
 
 After the bell LS P\L: 0.31%. NAV% -1.24%. Top three in pct, NEWELL BRANDS INC (NWL) 0.08, HEWLETT PACKARD ENTERPRISE (HPE) 0.1 and AMERICAN AIRLINES GROUP INC (AAL) 0.31. Bottom three in pct, BROADCOM INC (AVGO) -0.19, LAM RESEARCH CORP (LRCX) -0.11 and CHIPOTLE MEXICAN GRILL INC (CMG) -0.05. Risk Long (Short), SD 0.65% (0.69%), VaR 1.29% (1.29%) and CVaR 1.27% (1.68%). Daily change Long (Short), SD 21.96% (23.79%), VaR 20.63% (24.3%), CVaR 21.01% (24.18%)
 
+After the bell LOTECH P\L: -0.02%. Top three in pct, BAKER HUGHES CO (BKR) 0.05, INTEL CORP (INTC) 0.13 and SIRIUS XM HOLDINGS INC (SIRI) 0.33. Bottom three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.5, WARNER BROS DISCOVERY INC (WBD) -0.03 and BAKER HUGHES CO (BKR) 0.05. Risk, SD 2.18%, VaR 3.92% and CVaR 5.16%. Daily change, SD 5.07%, VaR 7.35%, CVaR 6.79%
 
