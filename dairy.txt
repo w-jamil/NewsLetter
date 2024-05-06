@@ -2040,4 +2040,6 @@ Pre-market Summary Long-Only TECH P\L: 0.68%. Top three in pct, INTEL CORP (INTC
 
 Pre-market Summary Long-Short ESGLS P\L: 0.2%. NAV% -1.29%. Top three in pct, KEYCORP (KEY) 0.05, VF CORP (VFC) 0.05 and CARNIVAL CORP (CCL) 0.06. Bottom three in pct, BROADCOM INC (AVGO) -0.03, HUNTINGTON BANCSHARES INC (HBAN) -0.01 and LAM RESEARCH CORP (LRCX) -0.01
 
+After the bell LS P\L: 0.31%. NAV% -1.24%. Top three in pct, NEWELL BRANDS INC (NWL) 0.08, HEWLETT PACKARD ENTERPRISE (HPE) 0.1 and AMERICAN AIRLINES GROUP INC (AAL) 0.31. Bottom three in pct, BROADCOM INC (AVGO) -0.19, LAM RESEARCH CORP (LRCX) -0.11 and CHIPOTLE MEXICAN GRILL INC (CMG) -0.05. Risk Long (Short), SD 0.65% (0.69%), VaR 1.29% (1.29%) and CVaR 1.27% (1.68%). Daily change Long (Short), SD 21.96% (23.79%), VaR 20.63% (24.3%), CVaR 21.01% (24.18%)
+
 
