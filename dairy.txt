@@ -2054,3 +2054,5 @@ After the bell LOTECH P\L: -1.03%. Top three in pct, INTEL CORP (INTC) -0.2, BAK
 
 After the bell LOTECH Risk, SD 2.02%, VaR 3.74% and CVaR 4.89%. Daily change, SD -7.1%, VaR -4.67%, CVaR -5.25%
 
+After the bell LS Risk Long (Short), SD 0.6% (0.53%), VaR 0.96% (0.96%) and CVaR 1.24% (1.27%). Daily change Long (Short), SD -7.93% (-22.26%), VaR -0.44% (-25.17%), CVaR -2.61% (-24.49%)
+
