@@ -2052,3 +2052,5 @@ After the bell LS  P\L: -0.64%. NAV% -1.9%. Top three in pct, BROADCOM INC (AVGO
 
 After the bell LOTECH P\L: -1.03%. Top three in pct, INTEL CORP (INTC) -0.2, BAKER HUGHES CO (BKR) 0.07 and WALGREENS BOOTS ALLIANCE INC (WBA) 0.07. Bottom three in pct, WARNER BROS DISCOVERY INC (WBD) -0.66, SIRIUS XM HOLDINGS INC (SIRI) -0.31 and INTEL CORP (INTC) -0.2
 
+After the bell LOTECH Risk, SD 2.02%, VaR 3.74% and CVaR 4.89%. Daily change, SD -7.1%, VaR -4.67%, CVaR -5.25%
+
