@@ -2060,3 +2060,5 @@ Pre-market Summary Long-Only TECH P\L: -0.18%. Top three in pct, WALGREENS BOOTS
 
 Pre-market Summary Long-Short LS P\L: -0.02%. NAV% -2.0%. Top three in pct, AUTOZONE INC (AZO) 0.0, BROADCOM INC (AVGO) 0.01 and NEWELL BRANDS INC (NWL) 0.02. Bottom three in pct, HEWLETT PACKARD ENTERPRISE (HPE) -0.02, FORD MOTOR CO (F) -0.01 and VF CORP (VFC) -0.01
 
+After the bell LS P\L: 0.3%. NAV% -1.01%. Top three in pct, CARNIVAL CORP (CCL) 0.08, HEWLETT PACKARD ENTERPRISE (HPE) 0.08 and NVR INC (NVR) 0.11. Bottom three in pct, BROADCOM INC (AVGO) -0.13, BOOKING HOLDINGS INC (BKNG) -0.07 and WARNER BROS DISCOVERY INC (WBD) -0.05. Risk Long (Short), SD 1.1% (0.48%), VaR 0.91% (0.91%) and CVaR 2.37% (1.19%). Daily change Long (Short), SD 85.26% (-10.24%), VaR 92.8% (-5.09%), CVaR 90.74% (-6.33%)
+
