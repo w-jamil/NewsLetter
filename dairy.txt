@@ -2082,7 +2082,7 @@ After the bell LOTECH P\L: -0.3%. Top three in pct, INTEL CORP (INTC) -0.15, WAL
 
 05/05/24 - 12/05/24 LOTECH -0.65%. Top three, WBD 0.67%, BKR 0.39% and USD -0.01%. Bottom three, INTC -0.64%, WBA -0.62% and SIRI -0.42%.
 
-05/05/24 - 12/05/24 LS -0.11%. Top three, IVZ 0.21%, WBD 0.19% and AAL 0.19%. Bottom three, MTD -0.89%, FICO -0.39% and AVGO -0.28%.
+05/05/24 - 12/05/24 LS -1.31%. Top three, IVZ 0.21%, WBD 0.19% and AAL 0.19%. Bottom three, MTD -0.89%, FICO -0.39% and AVGO -0.28%.
 
 
 
