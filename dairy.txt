@@ -2079,3 +2079,7 @@ Pre-market Summary Long-Only TECH P\L: 0.62%. Top three in pct, SIRIUS XM HOLDIN
 After the bell LS P\L: -1.27%. NAV% -2.49%. Top three in pct, O'REILLY AUTOMOTIVE INC (ORLY) 0.04, WARNER BROS DISCOVERY INC (WBD) 0.09 and INVESCO LTD (IVZ) 0.12. Bottom three in pct, METTLER-TOLEDO INTERNATIONAL (MTD) -0.87, FAIR ISAAC CORP (FICO) -0.22 and BROADCOM INC (AVGO) -0.16. Risk Long (Short), SD 1.1% (0.64%), VaR 1.39% (1.39%) and CVaR 2.22% (1.75%). Daily change Long (Short), SD -1.4% (25.48%), VaR -3.93% (37.12%), CVaR -3.23% (34.53%)
 
 After the bell LOTECH P\L: -0.3%. Top three in pct, INTEL CORP (INTC) -0.15, WALGREENS BOOTS ALLIANCE INC (WBA) -0.06 and WARNER BROS DISCOVERY INC (WBD) 0.34. Bottom three in pct, BAKER HUGHES CO (BKR) -0.25, SIRIUS XM HOLDINGS INC (SIRI) -0.18 and INTEL CORP (INTC) -0.15. Risk, SD 1.99%, VaR 3.3% and CVaR 4.43%. Daily change, SD -6.39%, VaR -12.01%, CVaR -10.64%
+
+05/05/24 - 12/05/24 LOTECH -0.65%. Top three, WBD 0.67%, BKR 0.39% and USD -0.01%. Bottom three, INTC -0.64%, WBA -0.62% and SIRI -0.42%.
+
+				
