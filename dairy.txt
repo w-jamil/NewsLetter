@@ -2102,5 +2102,7 @@ Pre-market Summary Long-Only TECH P\L: 0.01%. Top three in pct, INTEL CORP (INTC
 
 After the bell LS  P\L: -0.72%. NAV% -1.58%. Top three in pct, INVESCO LTD (IVZ) 0.08, CARNIVAL CORP (CCL) 0.14 and PARAMOUNT GLOBAL-CLASS B (PARA) 0.15. Bottom three in pct, BROADCOM INC (AVGO) -0.33, WARNER BROS DISCOVERY INC (WBD) -0.27 and NVR INC (NVR) -0.13. Risk Long (Short), SD 0.77% (0.57%), VaR 1.42% (1.42%) and CVaR 1.44% (1.74%). Daily change Long (Short), SD -2.3% (-0.43%), VaR 15.96% (7.46%), CVaR 9.73% (5.9%)
 
+After the bell LOTECH P\L: -2.09%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.42, INTEL CORP (INTC) 0.13 and BAKER HUGHES CO (BKR) 0.17. Bottom two in pct, WARNER BROS DISCOVERY INC (WBD) -1.23, and SIRIUS XM HOLDINGS INC (SIRI) -0.74. Risk, SD 1.52%, VaR 2.03% and CVaR 2.89%. Daily change, SD 21.11%, VaR 58.5%, CVaR 45.13%
+
 
 				
