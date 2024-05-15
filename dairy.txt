@@ -2096,5 +2096,7 @@ After the bell LOTECH P\L: 1.37%. Top three in pct, WALGREENS BOOTS ALLIANCE INC
 
 After the bell LS P\L: -0.59%. NAV% -1.83%. Top three in pct, INVESCO LTD (IVZ) 0.07, AMERICAN AIRLINES GROUP INC (AAL) 0.08 and WARNER BROS DISCOVERY INC (WBD) 0.14. Bottom three in pct, PARAMOUNT GLOBAL-CLASS B (PARA) -0.44, BROADCOM INC (AVGO) -0.23 and METTLER-TOLEDO INTERNATIONAL (MTD) -0.14. Risk Long (Short), SD 0.79% (0.57%), VaR 1.32% (1.32%) and CVaR 1.31% (1.64%). Daily change Long (Short), SD -30.34% (-16.39%), VaR -46.36% (-2.9%), CVaR -41.79% (-5.89%).
 
+Pre-market Summary Long-Short P\L: 0.08%. NAV% -1.72%. Top three in pct, BROADCOM INC (AVGO) 0.02, CARNIVAL CORP (CCL) 0.02 and AMERICAN AIRLINES GROUP INC (AAL) 0.02. Bottom three in pct, PARAMOUNT GLOBAL-CLASS B (PARA) -0.02, INVESCO LTD (IVZ) -0.0 and REGENERON PHARMACEUTICALS (REGN) -0.0
+
 
 				
