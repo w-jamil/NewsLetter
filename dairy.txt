@@ -2100,5 +2100,7 @@ Pre-market Summary Long-Short P\L: 0.08%. NAV% -1.72%. Top three in pct, BROADCO
 
 Pre-market Summary Long-Only TECH P\L: 0.01%. Top three in pct, INTEL CORP (INTC) 0.0, WARNER BROS DISCOVERY INC (WBD) 0.07 and BAKER HUGHES CO (BKR) 0.08. Bottom two in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.12, and WALGREENS BOOTS ALLIANCE INC (WBA) -0.02
 
+After the bell LS  P\L: -0.72%. NAV% -1.58%. Top three in pct, INVESCO LTD (IVZ) 0.08, CARNIVAL CORP (CCL) 0.14 and PARAMOUNT GLOBAL-CLASS B (PARA) 0.15. Bottom three in pct, BROADCOM INC (AVGO) -0.33, WARNER BROS DISCOVERY INC (WBD) -0.27 and NVR INC (NVR) -0.13. Risk Long (Short), SD 0.77% (0.57%), VaR 1.42% (1.42%) and CVaR 1.44% (1.74%). Daily change Long (Short), SD -2.3% (-0.43%), VaR 15.96% (7.46%), CVaR 9.73% (5.9%)
+
 
 				
