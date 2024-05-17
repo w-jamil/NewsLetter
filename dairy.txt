@@ -2112,5 +2112,7 @@ After the bell LOTECH P\L: 1.05%. Top three in pct, WARNER BROS DISCOVERY INC (W
 
 After the bell LS P\L: 0.23%. NAV% -1.39%. Top three in pct, BOOKING HOLDINGS INC (BKNG) 0.07, VF CORP (VFC) 0.09 and BROADCOM INC (AVGO) 0.13. Bottom three in pct, FAIR ISAAC CORP (FICO) -0.18, KEYCORP (KEY) -0.07 and AMERICAN AIRLINES GROUP INC (AAL) -0.05. Risk Long (Short), SD 0.53% (0.61%), VaR 1.42% (1.42%) and CVaR 1.1% (1.77%). Daily change Long (Short), SD -31.03% (6.71%), VaR -20.49% (0.21%), CVaR -23.69% (1.42%)
 
+Pre-market Summary Long-Short P\L: 0.01%. NAV% -1.31%. Top three in pct, FORD MOTOR CO (F) 0.01, VIATRIS INC (VTRS) 0.01 and VF CORP (VFC) 0.02. Bottom three in pct, WARNER BROS DISCOVERY INC (WBD) -0.03, CHIPOTLE MEXICAN GRILL INC (CMG) 0.0 and METTLER-TOLEDO INTERNATIONAL (MTD) 0.0
+
 
 				
