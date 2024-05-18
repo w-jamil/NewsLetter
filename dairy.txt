@@ -2116,5 +2116,7 @@ Pre-market Summary Long-Short P\L: 0.01%. NAV% -1.31%. Top three in pct, FORD MO
 
 Pre-market Summary Long-Only TECH P\L: -0.04%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.0, WARNER BROS DISCOVERY INC (WBD) -0.0 and INTEL CORP (INTC) 0.02. Bottom two in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.06, and BAKER HUGHES CO (BKR) 0.0
 
+After the bell LS P\L: -0.75%. NAV% -2.09%. Top three in pct, BOOKING HOLDINGS INC (BKNG) 0.03, METTLER-TOLEDO INTERNATIONAL (MTD) 0.04 and BROADCOM INC (AVGO) 0.09. Bottom three in pct, PARAMOUNT GLOBAL-CLASS B (PARA) -0.43, WARNER BROS DISCOVERY INC (WBD) -0.13 and CHIPOTLE MEXICAN GRILL INC (CMG) -0.08
+
 
 				
