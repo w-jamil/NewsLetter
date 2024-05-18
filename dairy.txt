@@ -2118,5 +2118,7 @@ Pre-market Summary Long-Only TECH P\L: -0.04%. Top three in pct, WALGREENS BOOTS
 
 After the bell LS P\L: -0.75%. NAV% -2.09%. Top three in pct, BOOKING HOLDINGS INC (BKNG) 0.03, METTLER-TOLEDO INTERNATIONAL (MTD) 0.04 and BROADCOM INC (AVGO) 0.09. Bottom three in pct, PARAMOUNT GLOBAL-CLASS B (PARA) -0.43, WARNER BROS DISCOVERY INC (WBD) -0.13 and CHIPOTLE MEXICAN GRILL INC (CMG) -0.08
 
+After the bell LS Risk Long (Short), SD 0.55% (0.61%), VaR 1.34% (1.34%) and CVaR 1.16% (1.69%). Daily change Long (Short), SD 3.29% (0.19%), VaR 6.68% (-5.45%), CVaR 5.74% (-4.35%)
+
 
 				
