@@ -2120,5 +2120,8 @@ After the bell LS P\L: -0.75%. NAV% -2.09%. Top three in pct, BOOKING HOLDINGS I
 
 After the bell LOTECH P\L: -0.84%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.15, INTEL CORP (INTC) -0.11 and BAKER HUGHES CO (BKR) 0.27. Bottom two in pct, WARNER BROS DISCOVERY INC (WBD) -0.6, and SIRIUS XM HOLDINGS INC (SIRI) -0.25. Risk, SD 1.48%, VaR 2.19% and CVaR 3.03%. Daily change, SD 0.44%, VaR 10.12%, CVaR 7.24%
 
+12/05/24 - 19/05/24 LOTECH 2.54%. Top three, INTC 1.36%, WBA 1.00% and BKR 0.67%. Bottom three, WBD  -0.32%, SIRI -0.10% and USD -0.02%.
+
+
 
 				
