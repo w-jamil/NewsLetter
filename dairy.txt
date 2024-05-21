@@ -2134,4 +2134,6 @@ After the bell LS P\L: -0.31%. NAV% -2.43%. Top three in pct, WARNER BROS DISCOV
 
 Pre-market Summary Long-Short P\L: -0.02%. NAV% -2.45%. Top three in pct, FORD MOTOR CO (F) 0.01, WARNER BROS DISCOVERY INC (WBD) 0.02 and AUTOZONE INC (AZO) 0.05. Bottom three in pct, VIATRIS INC (VTRS) -0.03, PARAMOUNT GLOBAL-CLASS B (PARA) -0.03 and CARNIVAL CORP (CCL) -0.03
 
+Pre-market Summary Long-Only TECH P\L: 0.25%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.05, SIRIUS XM HOLDINGS INC (SIRI) 0.06 and WARNER BROS DISCOVERY INC (WBD) 0.13. Bottom two in pct, BAKER HUGHES CO (BKR) 0.0, and INTEL CORP (INTC) 0.01
+
 				
