@@ -2132,4 +2132,6 @@ After the bell LOTECH P\L: 0.38%. Top three in pct, WARNER BROS DISCOVERY INC (W
 
 After the bell LS P\L: -0.31%. NAV% -2.43%. Top three in pct, WARNER BROS DISCOVERY INC (WBD) 0.04, O'REILLY AUTOMOTIVE INC (ORLY) 0.07 and CARNIVAL CORP (CCL) 0.41. Bottom three in pct, FAIR ISAAC CORP (FICO) -0.17, VF CORP (VFC) -0.16 and BROADCOM INC (AVGO) -0.14. Risk Long (Short), SD 0.47% (0.6%), VaR 1.31% (1.31%) and CVaR 1.07% (1.65%). Daily change Long (Short), SD -13.77% (-0.73%), VaR -5.24% (-2.59%), CVaR -7.53% (-2.21%)
 
+Pre-market Summary Long-Short P\L: -0.02%. NAV% -2.45%. Top three in pct, FORD MOTOR CO (F) 0.01, WARNER BROS DISCOVERY INC (WBD) 0.02 and AUTOZONE INC (AZO) 0.05. Bottom three in pct, VIATRIS INC (VTRS) -0.03, PARAMOUNT GLOBAL-CLASS B (PARA) -0.03 and CARNIVAL CORP (CCL) -0.03
+
 				
