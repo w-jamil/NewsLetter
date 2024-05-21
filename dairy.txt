@@ -2136,4 +2136,6 @@ Pre-market Summary Long-Short P\L: -0.02%. NAV% -2.45%. Top three in pct, FORD M
 
 Pre-market Summary Long-Only TECH P\L: 0.25%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.05, SIRIUS XM HOLDINGS INC (SIRI) 0.06 and WARNER BROS DISCOVERY INC (WBD) 0.13. Bottom two in pct, BAKER HUGHES CO (BKR) 0.0, and INTEL CORP (INTC) 0.01
 
+After the bell LS P\L: 0.36%. NAV% -2.11%. Top three in pct, BROADCOM INC (AVGO) 0.08, AUTOZONE INC (AZO) 0.17 and FAIR ISAAC CORP (FICO) 0.35. Bottom three in pct, AMERICAN AIRLINES GROUP INC (AAL) -0.16, WARNER BROS DISCOVERY INC (WBD) -0.14 and BOOKING HOLDINGS INC (BKNG) -0.07. Risk Long (Short), SD 0.35% (0.65%), VaR 1.32% (1.32%) and CVaR 0.72% (1.68%). Daily change Long (Short), SD -26.43% (7.34%), VaR -34.91% (0.55%), CVaR -32.79% (1.96%)
+
 				
