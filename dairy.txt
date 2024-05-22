@@ -2142,4 +2142,6 @@ After the bell LOTECH P\L: -2.46%. Top three in pct, SIRIUS XM HOLDINGS INC (SIR
 
 15/05/24 - 21/05/24 LS SUMMARY CCL 0.55%, AZO 0.15% and USD 0.08%. WBD -0.43%, AAL -0.35% and TDG -0.15%. Long -0.75% and Short -0.38%.
 
+Pre-market Summary Long-Short P\L: -0.01%. NAV% -2.12%. Top three in pct, AMERICAN AIRLINES GROUP INC (AAL) 0.0, O'REILLY AUTOMOTIVE INC (ORLY) 0.0 and WARNER BROS DISCOVERY INC (WBD) 0.02. Bottom three in pct, VF CORP (VFC) -0.01, BROADCOM INC (AVGO) -0.01 and FORD MOTOR CO (F) -0.01
+
 				
