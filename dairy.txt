@@ -2156,4 +2156,6 @@ Pre-market Summary Long-Only TECH P\L: 0.31%. Top three in pct, BAKER HUGHES CO 
 
 After the bell LS P\L: -0.98%. NAV% -1.57%. Top three in pct, FAIR ISAAC CORP (FICO) 0.07, BOOKING HOLDINGS INC (BKNG) 0.09 and METTLER-TOLEDO INTERNATIONAL (MTD) 0.11. Bottom three in pct, WARNER BROS DISCOVERY INC (WBD) -0.3, PARAMOUNT GLOBAL-CLASS B (PARA) -0.28 and KEYCORP (KEY) -0.17. Risk Long (Short), SD 0.52% (0.66%), VaR 1.18% (1.18%) and CVaR 1.33% (1.55%). Daily change Long (Short), SD 32.48% (-1.21%), VaR 53.57% (-9.07%), CVaR 48.34% (-7.27%)
 
+After the bell LOTECH P\L: -3.35%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.52, SIRIUS XM HOLDINGS INC (SIRI) -0.46 and BAKER HUGHES CO (BKR) -0.17. Bottom two in pct, WARNER BROS DISCOVERY INC (WBD) -1.32, and INTEL CORP (INTC) -0.88. Risk, SD 1.76%, VaR 3.25% and CVaR 4.25%. Daily change, SD 7.99%, VaR 24.64%, CVaR 20.26%
+
 				
