@@ -2154,4 +2154,6 @@ Pre-market Summary Long-Short P\L: -0.64%. NAV% -1.25%. Top three in pct, VIATRI
 
 Pre-market Summary Long-Only TECH P\L: 0.31%. Top three in pct, BAKER HUGHES CO (BKR) 0.02, INTEL CORP (INTC) 0.08 and WARNER BROS DISCOVERY INC (WBD) 0.21. Bottom two in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.0, and SIRIUS XM HOLDINGS INC (SIRI) 0.0
 
+After the bell LS P\L: -0.98%. NAV% -1.57%. Top three in pct, FAIR ISAAC CORP (FICO) 0.07, BOOKING HOLDINGS INC (BKNG) 0.09 and METTLER-TOLEDO INTERNATIONAL (MTD) 0.11. Bottom three in pct, WARNER BROS DISCOVERY INC (WBD) -0.3, PARAMOUNT GLOBAL-CLASS B (PARA) -0.28 and KEYCORP (KEY) -0.17. Risk Long (Short), SD 0.52% (0.66%), VaR 1.18% (1.18%) and CVaR 1.33% (1.55%). Daily change Long (Short), SD 32.48% (-1.21%), VaR 53.57% (-9.07%), CVaR 48.34% (-7.27%)
+
 				
