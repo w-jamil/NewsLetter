@@ -2162,4 +2162,6 @@ Pre-market Summary Long-Only TECH P\L: 0.57%. Top three in pct, INTEL CORP (INTC
 
 Pre-market Summary Long-Short P\L: 0.12%. NAV% -1.49%. Top three in pct, AMERICAN AIRLINES GROUP INC (AAL) 0.03, WARNER BROS DISCOVERY INC (WBD) 0.06 and PARAMOUNT GLOBAL-CLASS B (PARA) 0.06. Bottom three in pct, BROADCOM INC (AVGO) -0.04, BOOKING HOLDINGS INC (BKNG) -0.02 and METTLER-TOLEDO INTERNATIONAL (MTD) -0.01
 
+After the bell LS P\\L: -0.03%. NAV% -1.65%. Top three in pct, KEYCORP (KEY) 0.06, PARAMOUNT GLOBAL-CLASS B (PARA) 0.11 and VF CORP (VFC) 0.14. Bottom three in pct, FAIR ISAAC CORP (FICO) -0.15, BROADCOM INC (AVGO) -0.08 and TRANSDIGM GROUP INC (TDG) -0.05.Risk Long (Short), SD 0.55% (0.45%), VaR 0.72% (0.72%) and CVaR 1.37% (0.98%). Daily change Long (Short), SD 7.13% (-31.92%), VaR 2.19% (-38.31%), CVaR 3.29% (-36.75%)
+
 				
