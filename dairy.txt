@@ -2168,5 +2168,6 @@ After the bell LOTECH P\\L: 1.09%. Top three in pct, SIRIUS XM HOLDINGS INC (SIR
 
 17/05/24 - 27/05/24 LS -1.05%. Top three, CCL 0.38%, MTD 0.21% and AZO 0.15%. Bottom three, PARA -0.39%, WBD -0.34% and AAL -0.30%.
 
- 
+17/05/24 - 27/05/24 LOTECH -6.09%.Top three, USD -0.01%, BKR -0.40% and INTC -0.90%. Bottom three, WBA -2.02%, SIRI -1.95% and WBD -1.83%.
+
 				
