@@ -2170,4 +2170,6 @@ After the bell LOTECH P\\L: 1.09%. Top three in pct, SIRIUS XM HOLDINGS INC (SIR
 
 17/05/24 - 27/05/24 LOTECH -6.09%.Top three, USD -0.01%, BKR -0.40% and INTC -0.90%. Bottom three, WBA -2.02%, SIRI -1.95% and WBD -1.83%.
 
+Pre-market Summary Long-Short P\L: 0.04%. NAV% -1.53%. Top three in pct, KEYCORP (KEY) 0.07, PARAMOUNT GLOBAL-CLASS B (PARA) 0.11 and VF CORP (VFC) 0.2. Bottom three in pct, FAIR ISAAC CORP (FICO) -0.15, BROADCOM INC (AVGO) -0.09 and TRANSDIGM GROUP INC (TDG) -0.05
+
 				
