@@ -2178,4 +2178,6 @@ Pre-market Summary Long-Short P\\L: 0.08%. NAV% -1.51%. Top three in pct, WARNER
 
 Pre-market Summary Long-Only TECH P\\L: 0.25%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.07, INTEL CORP (INTC) 0.09 and WARNER BROS DISCOVERY INC (WBD) 0.09. Bottom two in pct, BAKER HUGHES CO (BKR) 0.0, and SIRIUS XM HOLDINGS INC (SIRI) 0.0
 
+After the bell LS P\L: -0.02%. NAV% -1.64%. Top three in pct, WARNER BROS DISCOVERY INC (WBD) 0.11, METTLER-TOLEDO INTERNATIONAL (MTD) 0.12 and O'REILLY AUTOMOTIVE INC (ORLY) 0.12. Bottom three in pct, FORD MOTOR CO (F) -0.17, AMERICAN AIRLINES GROUP INC (AAL) -0.16 and KEYCORP (KEY) -0.08. Risk Long (Short), SD 0.48% (0.43%), VaR 0.64% (0.64%) and CVaR 1.35% (0.89%). Daily change Long (Short), SD -12.66% (-5.97%), VaR 2.02% (-11.22%), CVaR -1.35% (-9.84%)
+
 				
