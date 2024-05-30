@@ -2189,4 +2189,6 @@ Pre-market Summary Long-Short P\L: -0.64%. NAV% -2.21%. Top three in pct, TRANSD
 After the bell LOTECH P\L: -2.3%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.49, BAKER HUGHES CO (BKR) -0.29 and SIRIUS XM HOLDINGS INC (SIRI) -0.13. Bottom two in pct, WARNER BROS DISCOVERY INC (WBD) -0.76, and INTEL CORP (INTC) -0.63. Risk, SD 1.46%, VaR 3.11% and CVaR 3.94%. Daily change, SD -0.44%, VaR 0.13%, CVaR 0.01%
 
 After the bell LS P\L: -0.92%. NAV% -0.77%. Top three in pct, METTLER-TOLEDO INTERNATIONAL (MTD) 0.11, BROADCOM INC (AVGO) 0.12 and SERVICENOW INC (NOW) 0.15. Bottom three in pct, AMERICAN AIRLINES GROUP INC (AAL) -0.81, PARAMOUNT GLOBAL-CLASS B (PARA) -0.26 and WARNER BROS DISCOVERY INC (WBD) -0.21. Risk Long (Short), SD 0.61% (0.52%), VaR 0.76% (0.76%) and CVaR 1.67% (1.05%). Daily change Long (Short), SD 25.73% (21.85%), VaR 22.82% (17.66%), CVaR 23.41% (18.81%)
+
+Pre-market Summary Long-Only TECH PnL: 0.02%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.0, INTEL CORP (INTC) 0.04 and BAKER HUGHES CO (BKR) 0.09. Bottom two in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.07, and WARNER BROS DISCOVERY INC (WBD) -0.04
 				
