@@ -2207,4 +2207,6 @@ After the bell LOTECH PnL: 3.13%. Top three in pct, WARNER BROS DISCOVERY INC (W
 After the bell LS PnL: 0.63%. NAV% 2.3%. Top three in pct, LAM RESEARCH CORP (LRCX) 0.23, FORD MOTOR CO (F) 0.24 and WARNER BROS DISCOVERY INC (WBD) 0.3. Bottom three in pct, SERVICENOW INC (NOW) -0.24, TRANSDIGM GROUP INC (TDG) -0.12 and MARTIN MARIETTA MATERIALS (MLM) -0.07.Risk Long (Short), SD 0.81% (0.61%), VaR 0.85% (0.85%) and CVaR 1.99% (1.2%). Daily change Long (Short), SD 33.39% (17.55%), VaR 16.11% (12.25%), CVaR 19.69% (13.74%)
 
 Pre-market Summary Long-Only TECH PnL: 0.89%. Top three in pct, INTEL CORP (INTC) 0.14, SIRIUS XM HOLDINGS INC (SIRI) 0.31 and WARNER BROS DISCOVERY INC (WBD) 0.44. Bottom two in pct, BAKER HUGHES CO (BKR) -0.07, and WALGREENS BOOTS ALLIANCE INC (WBA) 0.07
+
+Pre-market Summary Long-Short PnL: 1.17%. NAV% 3.47%. Top three in pct, AMCOR PLC (AMCR) 0.03, WARNER BROS DISCOVERY INC (WBD) 0.19 and PARAMOUNT GLOBAL-CLASS B (PARA) 0.98. Bottom three in pct, ELI LILLY & CO (LLY) -0.05, SERVICENOW INC (NOW) -0.0 and TRANSDIGM GROUP INC (TDG) 0.0
 				
