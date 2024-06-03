@@ -2207,4 +2207,6 @@ After the bell LOTECH PnL: 3.13%. Top three in pct, WARNER BROS DISCOVERY INC (W
 After the bell LS PnL: 0.63%. NAV% 2.3%. Top three in pct, LAM RESEARCH CORP (LRCX) 0.23, FORD MOTOR CO (F) 0.24 and WARNER BROS DISCOVERY INC (WBD) 0.3. Bottom three in pct, SERVICENOW INC (NOW) -0.24, TRANSDIGM GROUP INC (TDG) -0.12 and MARTIN MARIETTA MATERIALS (MLM) -0.07.Risk Long (Short), SD 0.81% (0.61%), VaR 0.85% (0.85%) and CVaR 1.99% (1.2%). Daily change Long (Short), SD 33.39% (17.55%), VaR 16.11% (12.25%), CVaR 19.69% (13.74%)
 
 After the bell LOTECH PnL: -0.95%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.3, SIRIUS XM HOLDINGS INC (SIRI) -0.2 and WARNER BROS DISCOVERY INC (WBD) 0.62. Bottom two in pct, BAKER HUGHES CO (BKR) -0.75, and INTEL CORP (INTC) -0.32. Risk, SD 0.26%, VaR 0.42% and CVaR 0.57%. Daily change, SD -88.14%, VaR -88.57%, CVaR -88.46%
+
+After the bell LS PnL: 1.25%. NAV% 3.61%. Top three in pct, MARTIN MARIETTA MATERIALS (MLM) 0.12, WARNER BROS DISCOVERY INC (WBD) 0.15 and PARAMOUNT GLOBAL-CLASS B (PARA) 1.14. Bottom three in pct, ELI LILLY & CO (LLY) -0.15, SERVICENOW INC (NOW) -0.04 and LAM RESEARCH CORP (LRCX) -0.04. Risk Long (Short), SD 0.97% (0.53%), VaR 0.7% (0.7%) and CVaR 1.94% (1.01%). Daily change Long (Short), SD 17.41% (-14.7%), VaR 4.52% (-24.89%), CVaR 7.88% (-22.08%)
 				
