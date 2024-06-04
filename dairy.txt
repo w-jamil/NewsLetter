@@ -2210,7 +2210,7 @@ After the bell LOTECH PnL: -0.95%. Top three in pct, WALGREENS BOOTS ALLIANCE IN
 
 After the bell LS PnL: 1.25%. NAV% 3.61%. Top three in pct, MARTIN MARIETTA MATERIALS (MLM) 0.12, WARNER BROS DISCOVERY INC (WBD) 0.15 and PARAMOUNT GLOBAL-CLASS B (PARA) 1.14. Bottom three in pct, ELI LILLY & CO (LLY) -0.15, SERVICENOW INC (NOW) -0.04 and LAM RESEARCH CORP (LRCX) -0.04. Risk Long (Short), SD 0.97% (0.53%), VaR 0.7% (0.7%) and CVaR 1.94% (1.01%). Daily change Long (Short), SD 17.41% (-14.7%), VaR 4.52% (-24.89%), CVaR 7.88% (-22.08%)
 
-Pre-market Summary Long-Only TECH PnL: -0.14%. Top three in pct, WARNER BROS DISCOVERY INC (WBD) -0.05, SIRIUS XM HOLDINGS INC (SIRI) 0.0 and INTEL CORP (INTC) 0.14. Bottom two in pct, BAKER HUGHES CO (BKR) -0.16, and WALGREENS BOOTS ALLIANCE INC (WBA) -0.07
+Pre-market Summary Long-Only TECH PnL: -0.09%. Top three in pct, WARNER BROS DISCOVERY INC (WBD) -0.05, SIRIUS XM HOLDINGS INC (SIRI) 0.0 and INTEL CORP (INTC) 0.17. Bottom two in pct, BAKER HUGHES CO (BKR) -0.16, and WALGREENS BOOTS ALLIANCE INC (WBA) -0.05
 
 Pre-market Summary Long-Short PnL: -0.05%. NAV% 3.66%. Top three in pct, SERVICENOW INC (NOW) 0.04, PARAMOUNT GLOBAL-CLASS B (PARA) 0.06 and LAM RESEARCH CORP (LRCX) 0.07. Bottom three in pct, AMCOR PLC (AMCR) -0.1, WARNER BROS DISCOVERY INC (WBD) -0.06 and FORD MOTOR CO (F) -0.04
 				
