@@ -2223,4 +2223,6 @@ Pre-market Summary Long-Short PnL: -0.18%. NAV% 2.46%. Top three in pct, PARAMOU
 Pre-market Summary Long-Only TECH PnL: 0.07%. Top three in pct, WARNER BROS DISCOVERY INC (WBD) 0.0, INTEL CORP (INTC) 0.01 and SIRIUS XM HOLDINGS INC (SIRI) 0.06. Bottom two in pct, BAKER HUGHES CO (BKR) 0.0, and WALGREENS BOOTS ALLIANCE INC (WBA) 0.0
 
 After the bell LOTECH PnL: 0.01%. Top three in pct, BAKER HUGHES CO (BKR) 0.01, WARNER BROS DISCOVERY INC (WBD) 0.01 and INTEL CORP (INTC) 0.03. Bottom two in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.03, and WALGREENS BOOTS ALLIANCE INC (WBA) -0.01. Risk, SD 0.23%, VaR 0.37% and CVaR 0.5%. Daily change, SD -8.99%, VaR -12.72%, CVaR -11.76%
+
+After the bell LS PnL: -1.39%. NAV% -1.29%. Top three in pct, AMCOR PLC (AMCR) 0.02, FORD MOTOR CO (F) 0.04 and WARNER BROS DISCOVERY INC (WBD) 0.09. Bottom three in pct, LAM RESEARCH CORP (LRCX) -0.61, SERVICENOW INC (NOW) -0.52 and PARAMOUNT GLOBAL-CLASS B (PARA) -0.19. Risk Long (Short), SD 1.03% (0.79%), VaR 1.18% (1.18%) and CVaR 2.44% (1.64%). Daily change Long (Short), SD 6.24% (48.48%), VaR 33.25% (68.64%), CVaR 25.58% (62.55%)
 				
