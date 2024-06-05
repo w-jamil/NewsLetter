@@ -2219,4 +2219,6 @@ After the bell LS PnL: -0.97%. NAV% 2.64%. Top three in pct, TRANSDIGM GROUP INC
 After the bell LOTECH PnL: -0.36%. Top three in pct, WARNER BROS DISCOVERY INC (WBD) -0.01, INTEL CORP (INTC) 0.0 and WALGREENS BOOTS ALLIANCE INC (WBA) 0.01. Bottom two in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.34, and BAKER HUGHES CO (BKR) -0.02. Risk, SD 0.26%, VaR 0.42% and CVaR 0.57%. Daily change, SD -88.14%, VaR -88.57%, CVaR -88.46%
 
 Pre-market Summary Long-Short PnL: -0.18%. NAV% 2.46%. Top three in pct, PARAMOUNT GLOBAL-CLASS B (PARA) 0.03, ELI LILLY & CO (LLY) 0.03 and WARNER BROS DISCOVERY INC (WBD) 0.05. Bottom three in pct, LAM RESEARCH CORP (LRCX) -0.18, SERVICENOW INC (NOW) -0.14 and TRANSDIGM GROUP INC (TDG) -0.0
+
+Pre-market Summary Long-Only TECH PnL: 0.07%. Top three in pct, WARNER BROS DISCOVERY INC (WBD) 0.0, INTEL CORP (INTC) 0.01 and SIRIUS XM HOLDINGS INC (SIRI) 0.06. Bottom two in pct, BAKER HUGHES CO (BKR) 0.0, and WALGREENS BOOTS ALLIANCE INC (WBA) 0.0
 				
