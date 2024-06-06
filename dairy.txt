@@ -2229,4 +2229,6 @@ After the bell LS PnL: -1.39%. NAV% -1.29%. Top three in pct, AMCOR PLC (AMCR) 0
 Pre-market Summary Long-Short PnL: -0.12%. NAV% -1.45%. Top three in pct, MARTIN MARIETTA MATERIALS (MLM) -0.0, TRANSDIGM GROUP INC (TDG) 0.01 and AMCOR PLC (AMCR) 0.03. Bottom three in pct, WARNER BROS DISCOVERY INC (WBD) -0.08, SERVICENOW INC (NOW) -0.02 and FORD MOTOR CO (F) -0.02
 
 Pre-market Summary Long-Only PnL: -0.03%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.0, INTEL CORP (INTC) -0.0 and WARNER BROS DISCOVERY INC (WBD) 0.0. Bottom two in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.02, and BAKER HUGHES CO (BKR) -0.01
+
+After the bell LS PnL: 0.14%. NAV% -1.18%. Top three in pct, MARTIN MARIETTA MATERIALS (MLM) 0.11, LAM RESEARCH CORP (LRCX) 0.13 and TRANSDIGM GROUP INC (TDG) 0.15. Bottom three in pct, AMERICAN AIRLINES GROUP INC (AAL) -0.2, VIATRIS INC (VTRS) -0.05 and ELI LILLY & CO (LLY) -0.05. Risk Long (Short), SD 0.96% (0.79%), VaR 1.17% (1.17%) and CVaR 2.18% (1.62%). Daily change Long (Short), SD -6.82% (-0.39%), VaR -11.81% (-1.5%), CVaR -10.62% (-1.19%)
 				
