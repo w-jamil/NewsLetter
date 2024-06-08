@@ -2244,4 +2244,6 @@ After the bell LS PnL: -0.03%. NAV% -1.27%. Top three in pct, FORD MOTOR CO (F) 
 
 1/06/24 - 8/06/24 LS -0.86. Top three, MLM 0.25%, PARA 0.19% and TDG 0.15%. Bottom three, NOW -0.59%, LRCX -0.32% and LLY -0.29%.
 
+1/06/24 - 8/06/24 LO -1.49. Top three, WBD 0.65%, USD 0.03% and INTC -0.32%. Bottom three, BKR -0.84% SIRI -0.67% and WBA -0.33.
+
 
