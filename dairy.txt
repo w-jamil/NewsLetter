@@ -2241,3 +2241,7 @@ Pre-market Summary Long-Short PnL: -0.21%. NAV% -1.34%. Top three in pct, MARTIN
 After the bell LOTECH PnL: -0.06%. Top three in pct, BAKER HUGHES CO (BKR) -0.0, WALGREENS BOOTS ALLIANCE INC (WBA) -0.0 and INTEL CORP (INTC) 0.02. Bottom two in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.07, and WARNER BROS DISCOVERY INC (WBD) -0.01. Risk, SD 0.19%, VaR 0.27% and CVaR 0.38%. Daily change, SD -0.01%, VaR 6.01%, CVaR 4.24%
 
 After the bell LS PnL: -0.03%. NAV% -1.27%. Top three in pct, FORD MOTOR CO (F) 0.05, SERVICENOW INC (NOW) 0.07 and TRANSDIGM GROUP INC (TDG) 0.13. Bottom three in pct, ELI LILLY & CO (LLY) -0.15, WARNER BROS DISCOVERY INC (WBD) -0.11 and AMCOR PLC (AMCR) -0.11. Risk Long (Short), SD 0.96% (0.79%), VaR 1.17% (1.17%) and CVaR 2.18% (1.62%). Daily change Long (Short), SD -6.82% (-0.39%), VaR -11.81% (-1.5%), CVaR -10.62% (-1.19%)
+
+1/06/24 - 8/06/24 LS -0.86. Top three, MLM 0.25%, PARA 0.19% and TDG 0.15%. Bottom three, NOW -0.59%, LRCX -0.32% and LLY -0.29%.
+
+
