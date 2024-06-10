@@ -2246,4 +2246,6 @@ After the bell LS PnL: -0.03%. NAV% -1.27%. Top three in pct, FORD MOTOR CO (F) 
 
 1/06/24 - 8/06/24 LO -1.49. Top three, WBD 0.65%, USD 0.03% and INTC -0.32%. Bottom three, BKR -0.84% SIRI -0.67% and WBA -0.33.
 
+Pre-market Summary Long-Short PnL: -0.23%. NAV% -1.32%. Top three in pct, TRANSDIGM GROUP INC (TDG) 0.0, LAM RESEARCH CORP (LRCX) 0.0 and MARTIN MARIETTA MATERIALS (MLM) 0.0. Bottom three in pct, WARNER BROS DISCOVERY INC (WBD) -0.08, ELI LILLY & CO (LLY) -0.07 and VIATRIS INC (VTRS) -0.05
+
 
