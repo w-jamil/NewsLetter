@@ -2252,4 +2252,6 @@ Pre-market Summary Long-Only TECH PnL: -0.02%. Top three in pct, WALGREENS BOOTS
 
 After the bell LS PnL: -0.99%. NAV% -2.18%. Top three in pct, TRANSDIGM GROUP INC (TDG) 0.02, VIATRIS INC (VTRS) 0.03 and FORD MOTOR CO (F) 0.19. Bottom three in pct, LAM RESEARCH CORP (LRCX) -0.54, SERVICENOW INC (NOW) -0.21 and WARNER BROS DISCOVERY INC (WBD) -0.2. Risk Long (Short), SD 0.94% (0.85%), VaR 1.42% (1.42%) and CVaR 2.1% (1.91%). Daily change Long (Short), SD -1.97% (8.81%), VaR -5.05% (22.99%), CVaR -4.28% (19.03%)
 
+After the bell LOTECH PnL: -0.01%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.0, INTEL CORP (INTC) 0.01 and BAKER HUGHES CO (BKR) 0.04. Bottom two in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.04, and WARNER BROS DISCOVERY INC (WBD) -0.02. Risk, SD 0.19%, VaR 0.29% and CVaR 0.39%. Daily change, SD 0.1%, VaR 4.29%, CVaR 3.11%
+
 
