@@ -1665,7 +1665,7 @@ Pre-market Summary Long-Short ESG. P\L: 17.78 bps. NAV% -0.48%. Top three in bps
 
 
 Pre-market Summary Long-Only TECH. P\L: 94.23 bps. Top three in bps, Atlassian Corp (TEAM) 8.44, Moderna Inc (MRNA) 33.3 and Tesla Inc (TSLA) 35.44. Bottom three in bps, Xcel Energy Inc (XEL) -1.76, Keurig Dr Pepper Inc (KDP) -1.07 and Comcast Corp (CMCSA) -0.7. 
-Pre-market Summary Long-Only SEC. P\L: 23.98 bps. Top three in bps, Estée Lauder Companies (The) (EL) 1.96, Etsy (ETSY) 2.53 and Moderna (MRNA) 10.6. Bottom three in bps, Comerica (CMA) -0.67, KeyCorp (KEY) -0.2 and 3M (MMM) -0.16.
+Pre-market Summary Long-Only SEC. P\L: 23.98 bps. Top three in bps, Est e Lauder Companies (The) (EL) 1.96, Etsy (ETSY) 2.53 and Moderna (MRNA) 10.6. Bottom three in bps, Comerica (CMA) -0.67, KeyCorp (KEY) -0.2 and 3M (MMM) -0.16.
 Before the bell. In Asia, Japan +2.7%. Hong Kong +0.1%. China +1%. India +0.1%. In Europe, at midday, London +0.1%. Paris flat. Frankfurt +0.3%. Futures at 7:00, Dow -0.1%. S&P +0.4%. Nasdaq +0.8%. Crude +0.9% to $81.29. Gold flat at $2,161.40. Bitcoin +1.5% to $68,040. Ten-year Treasury Yield unchanged at 4.31%.
 
 Long-Only TECH Risk-Reward Risk, SD 1.57%, VaR 2.39% and CVaR 3.28%. Daily change, SD -7.0%, VaR -19.26%, CVaR -16.25%.
@@ -1673,7 +1673,7 @@ Long-Only TECH Risk-Reward Risk, SD 1.57%, VaR 2.39% and CVaR 3.28%. Daily chang
 
 Long-Only SEC Risk-Reward 
     Risk, SD 0.85%, VaR 1.22% and CVaR 1.71%. Daily change, SD -1.4%, VaR -5.92%, CVaR -4.68%.
-    P\L: 23.98 bps. Top three in bps, Estée Lauder Companies (The) (EL) 1.96, Etsy (ETSY) 2.53 and Moderna (MRNA) 10.6. Bottom three in bps, Comerica (CMA) -0.67, KeyCorp (KEY) -0.2 and 3M (MMM) -0.16.
+    P\L: 23.98 bps. Top three in bps, Est e Lauder Companies (The) (EL) 1.96, Etsy (ETSY) 2.53 and Moderna (MRNA) 10.6. Bottom three in bps, Comerica (CMA) -0.67, KeyCorp (KEY) -0.2 and 3M (MMM) -0.16.
 
 Long-Short ESG Risk-Reward 
     Risk Long (Short), SD 0.54% (0.29%), VaR 0.46% (0.46%) and CVaR 1.09% (0.63%). Daily change Long (Short), SD -12.05% (-10.54%), VaR -22.03% (-9.16%), CVaR -19.46% (-9.52%)
@@ -1800,7 +1800,7 @@ Long-Only TECH Risk-Reward. Risk, SD 1.13%, VaR 1.67% and CVaR 2.32%. Daily chan
 
 Pre-market Summary Long-Short ESG. P\L: -3.69 bps. NAV% -0.92%. Top three in bps, Hershey's (HSY) 0.47, Tesla, Inc. (TSLA) 0.56 and Newmont (NEM) 2.36. Bottom three in bps, VF Corporation (VFC) -1.48, Albemarle Corporation (ALB) -1.31 and Walgreens Boots Alliance (WBA) -1.06. 
 
-Pre-market Summary Long-Only SEC. P\L: 5.83 bps. Top three in bps, Devon Energy (DVN) 0.91, Newmont (NEM) 3.27 and Estée Lauder Companies (The) (EL) 8.52. Bottom three in bps, VF Corporation (VFC) -1.41, Walgreens Boots Alliance (WBA) -1.28 and Baxter International (BAX) -1.22.
+Pre-market Summary Long-Only SEC. P\L: 5.83 bps. Top three in bps, Devon Energy (DVN) 0.91, Newmont (NEM) 3.27 and Est e Lauder Companies (The) (EL) 8.52. Bottom three in bps, VF Corporation (VFC) -1.41, Walgreens Boots Alliance (WBA) -1.28 and Baxter International (BAX) -1.22.
 
 Pre-market Summary Long-Only TECH. P\L: -0.86 bps. Top three in bps, PayPal Holdings Inc (PYPL) 0.14, Sirius XM Holdings Inc (SIRI) 1.7 and Tesla Inc (TSLA) 2.44. Bottom three in bps, Walgreens Boots Alliance Inc (WBA) -4.07, Comcast Corp (CMCSA) -0.83 and Atlassian Corp (TEAM) -0.36.
 
@@ -1808,13 +1808,13 @@ Before the bell. In Asia, Japan -1.6%. Hong Kong +0.9%. China +0.6%. India +0.9%
 
 Long-Short ESG Risk-Reward Risk Long (Short), SD 0.46% (0.34%), VaR 0.75% (0.75%) and CVaR 0.9% (0.94%). Daily change Long (Short), SD -14.74% (-19.94%), VaR -26.5% (-6.19%), CVaR -23.37% (-9.38%).P\L: -8.85 bps. NAV% -0.96%. Top three in bps, Booking Holdings (BKNG) 4.36, Walgreens Boots Alliance (WBA) 6.06 and Albemarle Corporation (ALB) 6.47. Bottom three in bps, ON Semiconductor (ON) -7.6, Discover Financial (DFS) -6.91 and Tesla, Inc. (TSLA) -6.13.
 
-Long-Only SEC Risk-Reward. Risk, SD 1.21%, VaR 1.39% and CVaR 2.08%. Daily change, SD -12.36%, VaR -28.5%, CVaR -23.86%. P\L: 91.34 bps. Top three in bps, APA Corporation (APA) 7.34, Boston Properties (BXP) 7.49 and Estée Lauder Companies (The) (EL) 13.6. Bottom three in bps, Moderna (MRNA) -14.25, Illumina (ILMN) -2.85 and Bio-Rad (BIO) -2.67.
+Long-Only SEC Risk-Reward. Risk, SD 1.21%, VaR 1.39% and CVaR 2.08%. Daily change, SD -12.36%, VaR -28.5%, CVaR -23.86%. P\L: 91.34 bps. Top three in bps, APA Corporation (APA) 7.34, Boston Properties (BXP) 7.49 and Est e Lauder Companies (The) (EL) 13.6. Bottom three in bps, Moderna (MRNA) -14.25, Illumina (ILMN) -2.85 and Bio-Rad (BIO) -2.67.
 
 Long-Only TECH Risk-Reward. Risk, SD 0.87%, VaR 1.1% and CVaR 1.6%. Daily change, SD -22.89%, VaR -34.25%, CVaR -31.1%. P\L: -36.33 bps. Top three in bps, Atlassian Corp (TEAM) 9.99, Warner Bros Discovery Inc (WBD) 13.35 and Walgreens Boots Alliance Inc (WBA) 23.16. Bottom three in bps, Moderna Inc (MRNA) -45.91, Tesla Inc (TSLA) -29.7 and Illumina Inc (ILMN) -9.19.
 
 Pre-market Summary Long-Short ESG. P\L: -6.1 bps. NAV% -0.94%. Top three in bps, Newmont (NEM) 5.3, Walgreens Boots Alliance (WBA) 6.06 and Albemarle Corporation (ALB) 6.6. Bottom three in bps, ON Semiconductor (ON) -7.34, Discover Financial (DFS) -7.12 and Tesla, Inc. (TSLA) -6.67. 
 
-Pre-market Summary Long-Only SEC. P\L: 87.81 bps. Top three in bps, Walgreens Boots Alliance (WBA) 7.29, Boston Properties (BXP) 7.5 and Estée Lauder Companies (The) (EL) 13.83. Bottom three in bps, Moderna (MRNA) -13.93, Illumina (ILMN) -2.73 and Bio-Rad (BIO) -2.67.
+Pre-market Summary Long-Only SEC. P\L: 87.81 bps. Top three in bps, Walgreens Boots Alliance (WBA) 7.29, Boston Properties (BXP) 7.5 and Est e Lauder Companies (The) (EL) 13.83. Bottom three in bps, Moderna (MRNA) -13.93, Illumina (ILMN) -2.73 and Bio-Rad (BIO) -2.67.
 
 Pre-market Summary Long-Only TECH. P\L: -39.71 bps. Top three in bps, Atlassian Corp (TEAM) 9.02, Warner Bros Discovery Inc (WBD) 16.02 and Walgreens Boots Alliance Inc (WBA) 23.51. Bottom three in bps, Moderna Inc (MRNA) -44.9, Tesla Inc (TSLA) -31.7 and Illumina Inc (ILMN) -8.78.
 
@@ -2250,4 +2250,4 @@ Pre-market Summary Long-Short PnL: -0.23%. NAV% -1.32%. Top three in pct, TRANSD
 
 Pre-market Summary Long-Only TECH PnL: -0.02%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.0, INTEL CORP (INTC) 0.0 and WARNER BROS DISCOVERY INC (WBD) -0.0. Bottom two in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.02, and BAKER HUGHES CO (BKR) 0.0
 
-
+Pre-market Summary Long-Short PnL: -0.25%. NAV% -2.41%. Top three in pct, MARTIN MARIETTA MATERIALS (MLM) 0.0, SERVICENOW INC (NOW) 0.06 and LAM RESEARCH CORP (LRCX) 0.07. Bottom three in pct, ELI LILLY & CO (LLY) -0.22, WARNER BROS DISCOVERY INC (WBD) -0.08 and AMERICAN AIRLINES GROUP INC (AAL) -0.05
