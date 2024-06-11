@@ -2251,3 +2251,5 @@ Pre-market Summary Long-Short PnL: -0.23%. NAV% -1.32%. Top three in pct, TRANSD
 Pre-market Summary Long-Only TECH PnL: -0.02%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.0, INTEL CORP (INTC) 0.0 and WARNER BROS DISCOVERY INC (WBD) -0.0. Bottom two in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.02, and BAKER HUGHES CO (BKR) 0.0
 
 Pre-market Summary Long-Short PnL: -0.25%. NAV% -2.41%. Top three in pct, MARTIN MARIETTA MATERIALS (MLM) 0.0, SERVICENOW INC (NOW) 0.06 and LAM RESEARCH CORP (LRCX) 0.07. Bottom three in pct, ELI LILLY & CO (LLY) -0.22, WARNER BROS DISCOVERY INC (WBD) -0.08 and AMERICAN AIRLINES GROUP INC (AAL) -0.05
+
+Pre-market Summary Long-Only TECH PnL: 0.01%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.0, WARNER BROS DISCOVERY INC (WBD) -0.0 and SIRIUS XM HOLDINGS INC (SIRI) 0.02. Bottom two in pct, INTEL CORP (INTC) -0.01, and BAKER HUGHES CO (BKR) -0.0
