@@ -2265,3 +2265,5 @@ Pre-market Summary Long-Short PnL: 0.04%. NAV% -2.54%. Top three in pct, MARTIN 
 After the bell ESGLS PnL: 0.97%. NAV% -0.74%. Top three in pct, ROCKWELL AUTOMATION INC (ROK) 0.29, MARKETAXESS HOLDINGS INC (MKTX) 0.38 and CARNIVAL CORP (CCL) 0.56. Bottom three in pct, VF CORP (VFC) -0.17, HUNTINGTON BANCSHARES INC (HBAN) -0.1 and CHURCH & DWIGHT CO INC (CHD) -0.09
 
 After the bell LOTECH PnL: 0.06%. Top three in pct, INTEL CORP (INTC) -0.01, BAKER HUGHES CO (BKR) -0.0 and SIRIUS XM HOLDINGS INC (SIRI) 0.14. Bottom two in pct, WARNER BROS DISCOVERY INC (WBD) -0.04, and WALGREENS BOOTS ALLIANCE INC (WBA) -0.03. Risk, SD 0.19%, VaR 0.27% and CVaR 0.38%. Daily change, SD 2.53%, VaR -1.62%, CVaR -0.5%
+
+After the bell LS PnL: -1.48%. NAV% -2.39%. Top three in pct, PARAMOUNT GLOBAL-CLASS B (PARA) 0.02, FORD MOTOR CO (F) 0.04 and AMERICAN AIRLINES GROUP INC (AAL) 0.26. Bottom three in pct, LAM RESEARCH CORP (LRCX) -0.6, WARNER BROS DISCOVERY INC (WBD) -0.31 and SERVICENOW INC (NOW) -0.19. Risk Long (Short), SD 0.75% (0.86%), VaR 1.56% (1.56%) and CVaR 1.61% (2.05%). Daily change Long (Short), SD 48.64% (-4.14%), VaR 74.11% (-4.09%), CVaR 66.57% (-4.1%)
