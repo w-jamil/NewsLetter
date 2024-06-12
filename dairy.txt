@@ -2263,3 +2263,5 @@ Pre-market Summary Long-Only TECH PnL: 0.03%. Top three in pct, WARNER BROS DISC
 Pre-market Summary Long-Short PnL: 0.04%. NAV% -2.54%. Top three in pct, MARTIN MARIETTA MATERIALS (MLM) 0.0, FORD MOTOR CO (F) 0.02 and AMERICAN AIRLINES GROUP INC (AAL) 0.07. Bottom three in pct, ELI LILLY & CO (LLY) -0.04, AMCOR PLC (AMCR) -0.01 and SERVICENOW INC (NOW) 0.0
 
 After the bell ESGLS PnL: 0.97%. NAV% -0.74%. Top three in pct, ROCKWELL AUTOMATION INC (ROK) 0.29, MARKETAXESS HOLDINGS INC (MKTX) 0.38 and CARNIVAL CORP (CCL) 0.56. Bottom three in pct, VF CORP (VFC) -0.17, HUNTINGTON BANCSHARES INC (HBAN) -0.1 and CHURCH & DWIGHT CO INC (CHD) -0.09
+
+After the bell LOTECH PnL: 0.06%. Top three in pct, INTEL CORP (INTC) -0.01, BAKER HUGHES CO (BKR) -0.0 and SIRIUS XM HOLDINGS INC (SIRI) 0.14. Bottom two in pct, WARNER BROS DISCOVERY INC (WBD) -0.04, and WALGREENS BOOTS ALLIANCE INC (WBA) -0.03. Risk, SD 0.19%, VaR 0.27% and CVaR 0.38%. Daily change, SD 2.53%, VaR -1.62%, CVaR -0.5%
