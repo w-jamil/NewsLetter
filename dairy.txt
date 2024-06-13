@@ -2269,3 +2269,5 @@ After the bell LOTECH PnL: 0.06%. Top three in pct, INTEL CORP (INTC) -0.01, BAK
 After the bell LS PnL: -1.48%. NAV% -2.39%. Top three in pct, PARAMOUNT GLOBAL-CLASS B (PARA) 0.02, FORD MOTOR CO (F) 0.04 and AMERICAN AIRLINES GROUP INC (AAL) 0.26. Bottom three in pct, LAM RESEARCH CORP (LRCX) -0.6, WARNER BROS DISCOVERY INC (WBD) -0.31 and SERVICENOW INC (NOW) -0.19. Risk Long (Short), SD 0.75% (0.86%), VaR 1.56% (1.56%) and CVaR 1.61% (2.05%). Daily change Long (Short), SD 48.64% (-4.14%), VaR 74.11% (-4.09%), CVaR 66.57% (-4.1%)
 
 Pre-market Summary ESGLS PnL: 0.14%. NAV% -0.79%. Top three in pct, LOCKHEED MARTIN CORP (LMT) 0.0, MSCI INC (MSCI) 0.01 and NEWELL BRANDS INC (NWL) 0.21. Bottom three in pct, VF CORP (VFC) -0.03, AMERICAN AIRLINES GROUP INC (AAL) -0.03 and HUNTINGTON BANCSHARES INC (HBAN) -0.01
+
+Pre-market Summary LS PnL: 0.0%. NAV% -2.53%. Top three in pct, AMCOR PLC (AMCR) 0.0, MARTIN MARIETTA MATERIALS (MLM) 0.0 and WARNER BROS DISCOVERY INC (WBD) 0.04. Bottom three in pct, AMERICAN AIRLINES GROUP INC (AAL) -0.02, ELI LILLY & CO (LLY) -0.01 and LAM RESEARCH CORP (LRCX) -0.01
