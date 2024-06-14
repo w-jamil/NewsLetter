@@ -2279,3 +2279,5 @@ After the bell ESGLS PnL: -0.54%. NAV% -1.24%. Top three in pct, LOCKHEED MARTIN
 After the bell LS PnL: -2.11%. NAV% -4.45%. Top three in pct, LAM RESEARCH CORP (LRCX) -0.01, AMCOR PLC (AMCR) -0.01 and SERVICENOW INC (NOW) 0.1. Bottom three in pct, PARAMOUNT GLOBAL-CLASS B (PARA) -0.9, WARNER BROS DISCOVERY INC (WBD) -0.71 and ELI LILLY & CO (LLY) -0.17. Risk Long (Short), SD 0.81% (0.6%), VaR 1.29% (1.29%) and CVaR 1.98% (1.63%). Daily change Long (Short), SD 8.18% (-30.56%), VaR 28.99% (-17.57%), CVaR 23.49% (-20.69%)
 
 After the bell LOTECH PnL: -0.39%. Top three in pct, BAKER HUGHES CO (BKR) -0.03, INTEL CORP (INTC) -0.02 and WALGREENS BOOTS ALLIANCE INC (WBA) -0.01. Bottom two in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.25, and WARNER BROS DISCOVERY INC (WBD) -0.08. isk, SD 0.17%, VaR 0.33% and CVaR 0.43%. Daily change, SD -6.57%, VaR 21.81%, CVaR 13.92%
+
+Pre-market Summary ESGLS PnL: -0.32%. NAV% -1.57%. Top three in pct, MSCI INC (MSCI) 0.05, BLACKROCK INC (BLK) 0.06 and LAM RESEARCH CORP (LRCX) 0.12. Bottom three in pct, HUNTINGTON BANCSHARES INC (HBAN) -0.15, SERVICENOW INC (NOW) -0.14 and AMERICAN AIRLINES GROUP INC (AAL) -0.12
