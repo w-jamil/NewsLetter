@@ -2285,3 +2285,5 @@ Pre-market Summary ESGLS PnL: -0.32%. NAV% -1.57%. Top three in pct, MSCI INC (M
 Pre-market Summary LS PnL: -0.15%. NAV% -4.57%. Top three in pct, ELI LILLY & CO (LLY) 0.02, WARNER BROS DISCOVERY INC (WBD) 0.03 and LAM RESEARCH CORP (LRCX) 0.11. Bottom three in pct, SERVICENOW INC (NOW) -0.17, AMERICAN AIRLINES GROUP INC (AAL) -0.1 and PARAMOUNT GLOBAL-CLASS B (PARA) -0.04
 
 Pre-market Summary LOTECH PnL: -0.12%. Top three in pct, INTEL CORP (INTC) -0.01, BAKER HUGHES CO (BKR) -0.0 and WARNER BROS DISCOVERY INC (WBD) 0.0. Bottom two in pct, SIRIUS XM HOLDINGS INC (SIRI) -0.1, and WALGREENS BOOTS ALLIANCE INC (WBA) -0.01
+
+After the bell LS  PnL: -0.67%. NAV% -5.12%. Top three in pct, LAM RESEARCH CORP (LRCX) 0.03, ELI LILLY & CO (LLY) 0.05 and TRANSDIGM GROUP INC (TDG) 0.16. Bottom three in pct, SERVICENOW INC (NOW) -0.36, PARAMOUNT GLOBAL-CLASS B (PARA) -0.19 and AMERICAN AIRLINES GROUP INC (AAL) -0.14. Risk Long (Short), SD 0.74% (0.61%), VaR 1.28% (1.28%) and CVaR 1.96% (1.63%). Daily change Long (Short), SD -8.34% (1.03%), VaR 0.96% (-0.36%), CVaR -1.19% (-0.07%)
