@@ -2296,5 +2296,9 @@ After the bell LOTECH PnL: 0.13%. Top three in pct, INTEL CORP (INTC) -0.0, WALG
 
 09/06/24 - 16/06/24 LS PnL -4.47%. Top three in pct, USD 0.08, TDG 0.07 and F 0.01. Bottom three in pct, WBD -1.27, PARA	-0.90 and LRCX -0.83.
 
+09/06/24 - 16/06/24 ESGLS PnL -0.57%. Top three in pct, NTAP 0.28, ROK 0.25 and MSCI 0.23. Bottom three in pct, NWL	-0.89, F -0.33 and VFC -0.27.
+
+
+
 
 
