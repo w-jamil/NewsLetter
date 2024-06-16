@@ -2254,7 +2254,7 @@ Pre-market Summary Long-Short PnL: -0.25%. NAV% -2.41%. Top three in pct, MARTIN
 
 Pre-market Summary Long-Only TECH PnL: 0.01%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) 0.0, WARNER BROS DISCOVERY INC (WBD) -0.0 and SIRIUS XM HOLDINGS INC (SIRI) 0.02. Bottom two in pct, INTEL CORP (INTC) -0.01, and BAKER HUGHES CO (BKR) -0.0
 
-After the bell LOTECH  PnL: 0.06%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.0, INTEL CORP (INTC) 0.0 and SIRIUS XM HOLDINGS INC (SIRI) 0.08. Bottom two in pct, BAKER HUGHES CO (BKR) -0.01, and WARNER BROS DISCOVERY INC (WBD) -0.01. Risk, SD 0.18%, VaR 0.28% and CVaR 0.38%. Daily change, SD -4.76%, VaR -2.69%, CVaR -3.25%
+After the bell LOTECH  PnL: 0.06%. Top three in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.0, INTEL CORP (INTC) 0.0 and SIRIUS XM HOLDINGS INC (SIRI) 0.08. Top three, in pct, BAKER HUGHES CO (BKR) -0.01, and WARNER BROS DISCOVERY INC (WBD) -0.01. Risk, SD 0.18%, VaR 0.28% and CVaR 0.38%. Daily change, SD -4.76%, VaR -2.69%, CVaR -3.25%
 
 After the bell LS PnL: -0.23%. NAV% -2.47%. Top three in pct, AMCOR PLC (AMCR) 0.08, VIATRIS INC (VTRS) 0.1 and MARTIN MARIETTA MATERIALS (MLM) 0.1. Bottom three in pct, AMERICAN AIRLINES GROUP INC (AAL) -0.21, FORD MOTOR CO (F) -0.21 and WARNER BROS DISCOVERY INC (WBD) -0.12. Risk Long (Short), SD 0.88% (0.81%), VaR 1.33% (1.33%) and CVaR 2.0% (1.79%). Daily change Long (Short), SD -6.3% (-5.34%), VaR -4.1% (-6.53%), CVaR -4.66% (-6.22%)
 
@@ -2291,3 +2291,5 @@ After the bell LS  PnL: -0.67%. NAV% -5.12%. Top three in pct, LAM RESEARCH CORP
 After the bell ESGLS PnL: -0.65%. NAV% -1.87%. Top three in pct, HUNTINGTON BANCSHARES INC (HBAN) 0.03, LAM RESEARCH CORP (LRCX) 0.03 and MSCI INC (MSCI) 0.1. Bottom three in pct, SERVICENOW INC (NOW) -0.29, FORD MOTOR CO (F) -0.19 and AMERICAN AIRLINES GROUP INC (AAL) -0.17. Risk Long (Short), SD 0.48% (0.48%), VaR 0.98% (0.98%) and CVaR 1.23% (1.25%). Daily change Long (Short), SD 0.0% (0.0%), VaR 0.0% (0.0%), CVaR 0.0% (0.0%)
 
 After the bell LOTECH PnL: 0.13%. Top three in pct, INTEL CORP (INTC) -0.0, WALGREENS BOOTS ALLIANCE INC (WBA) 0.01 and SIRIUS XM HOLDINGS INC (SIRI) 0.16. Bottom two in pct, BAKER HUGHES CO (BKR) -0.03, and WARNER BROS DISCOVERY INC (WBD) -0.01. Risk, SD 0.13%, VaR 0.3% and CVaR 0.38%. Daily change, SD -22.37%, VaR -9.24%, CVaR -12.24%
+
+09/06/24 - 16/06/24 LO PnL -0.06. Top three, SIRI 0.11, USD 0.08 and INTC -0.01. Bottom two, WBD -0.19, BKR -0.03 and WBA -0.02.
