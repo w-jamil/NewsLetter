@@ -2292,4 +2292,9 @@ After the bell ESGLS PnL: -0.65%. NAV% -1.87%. Top three in pct, HUNTINGTON BANC
 
 After the bell LOTECH PnL: 0.13%. Top three in pct, INTEL CORP (INTC) -0.0, WALGREENS BOOTS ALLIANCE INC (WBA) 0.01 and SIRIUS XM HOLDINGS INC (SIRI) 0.16. Bottom two in pct, BAKER HUGHES CO (BKR) -0.03, and WARNER BROS DISCOVERY INC (WBD) -0.01. Risk, SD 0.13%, VaR 0.3% and CVaR 0.38%. Daily change, SD -22.37%, VaR -9.24%, CVaR -12.24%
 
-09/06/24 - 16/06/24 LO PnL -0.06. Top three, SIRI 0.11, USD 0.08 and INTC -0.01. Bottom two, WBD -0.19, BKR -0.03 and WBA -0.02.
+09/06/24 - 16/06/24 LO PnL -0.06%. Top three in pct, SIRI 0.11, USD 0.08 and INTC -0.01. Bottom three in pct, WBD -0.19, BKR -0.03 and WBA -0.02.
+
+09/06/24 - 16/06/24 LS PnL -4.47%. Top three in pct, USD 0.08, TDG 0.07 and F 0.01. Bottom three in pct, WBD -1.27, PARA	-0.90 and LRCX -0.83.
+
+
+
