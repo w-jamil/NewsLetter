@@ -2308,6 +2308,8 @@ After the bell LOTECH PnL: 0.1%. Top three in pct, INTEL CORP (INTC) 0.02, BAKER
 
 After the bell LS PnL: -1.07%. NAV% -6.3%. Top three in pct, AMCOR PLC (AMCR) 0.0, SERVICENOW INC (NOW) 0.05 and AMERICAN AIRLINES GROUP INC (AAL) 0.14. Bottom three in pct, LAM RESEARCH CORP (LRCX) -0.47, PARAMOUNT GLOBAL-CLASS B (PARA) -0.33 and TRANSDIGM GROUP INC (TDG) -0.13. Risk Long (Short), SD 0.54% (0.63%), VaR 1.38% (1.38%) and CVaR 1.67% (1.74%). Daily change Long (Short), SD -26.69% (3.22%), VaR -11.85% (7.85%), CVaR -15.04% (6.87%)
 
+After the bell ESGLS PnL: -0.51%. NAV% -2.44%. Top three in pct, HUNTINGTON BANCSHARES INC (HBAN) 0.11, VF CORP (VFC) 0.13 and AMERICAN AIRLINES GROUP INC (AAL) 0.14. Bottom three in pct, LAM RESEARCH CORP (LRCX) -0.49, NEWELL BRANDS INC (NWL) -0.27 and BLACKROCK INC (BLK) -0.14. Risk Long (Short), SD 0.47% (0.49%), VaR 1.04% (1.04%) and CVaR 1.24% (1.32%). Daily change Long (Short), SD -0.49% (1.25%), VaR 0.34% (6.45%), CVaR 0.16% (5.31%)
+
 
 
 
