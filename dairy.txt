@@ -2306,6 +2306,8 @@ Pre-market Summary LS PnL: -0.01%. NAV% -5.25%. Top three in pct, VIATRIS INC (V
 
 After the bell LOTECH PnL: 0.1%. Top three in pct, INTEL CORP (INTC) 0.02, BAKER HUGHES CO (BKR) 0.04 and SIRIUS XM HOLDINGS INC (SIRI) 0.08. Bottom two in pct, WALGREENS BOOTS ALLIANCE INC (WBA) -0.03, and WARNER BROS DISCOVERY INC (WBD) -0.01. Risk, SD 0.14%, VaR 0.3% and CVaR 0.38%. Daily change, SD 3.13%, VaR 0.54%, CVaR 1.06%
 
+After the bell LS PnL: -1.07%. NAV% -6.3%. Top three in pct, AMCOR PLC (AMCR) 0.0, SERVICENOW INC (NOW) 0.05 and AMERICAN AIRLINES GROUP INC (AAL) 0.14. Bottom three in pct, LAM RESEARCH CORP (LRCX) -0.47, PARAMOUNT GLOBAL-CLASS B (PARA) -0.33 and TRANSDIGM GROUP INC (TDG) -0.13. Risk Long (Short), SD 0.54% (0.63%), VaR 1.38% (1.38%) and CVaR 1.67% (1.74%). Daily change Long (Short), SD -26.69% (3.22%), VaR -11.85% (7.85%), CVaR -15.04% (6.87%)
+
 
 
 
