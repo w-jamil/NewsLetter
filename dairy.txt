@@ -2298,6 +2298,7 @@ After the bell LOTECH PnL: 0.13%. Top three in pct, INTEL CORP (INTC) -0.0, WALG
 
 09/06/24 - 16/06/24 ESGLS PnL -0.57%. Top three in pct, NTAP 0.28, ROK 0.25 and MSCI 0.23. Bottom three in pct, NWL	-0.89, F -0.33 and VFC -0.27.
 
+Pre-market Summary ESGLS PnL: -0.0%. NAV% -2.01%. Top three in pct, MSCI INC (MSCI) 0.0, LOCKHEED MARTIN CORP (LMT) 0.0 and VF CORP (VFC) 0.03. Bottom three in pct, AMERICAN AIRLINES GROUP INC (AAL) -0.01, FORD MOTOR CO (F) -0.01 and HUNTINGTON BANCSHARES INC (HBAN) -0.01
 
 
 
