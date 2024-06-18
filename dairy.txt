@@ -2314,6 +2314,7 @@ Pre-market Summary LOTECH  PnL: 0.07%. Top three in pct, INTEL CORP (INTC) -0.0,
 
 Pre-market Summary LS  PnL: -0.01%. NAV% -6.31%. Top three in pct, PARAMOUNT GLOBAL-CLASS B (PARA) 0.02, VIATRIS INC (VTRS) 0.04 and WARNER BROS DISCOVERY INC (WBD) 0.06. Bottom three in pct, LAM RESEARCH CORP (LRCX) -0.05, ELI LILLY & CO (LLY) -0.04 and AMERICAN AIRLINES GROUP INC (AAL) -0.03
 
+Pre-market Summary ESGLS  PnL: -0.11%. NAV% -2.52%. Top three in pct, LOCKHEED MARTIN CORP (LMT) 0.0, HUNTINGTON BANCSHARES INC (HBAN) 0.01 and NEWELL BRANDS INC (NWL) 0.03. Bottom three in pct, LAM RESEARCH CORP (LRCX) -0.05, FORD MOTOR CO (F) -0.04 and MSCI INC (MSCI) -0.03
 
 
 
