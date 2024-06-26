@@ -2494,4 +2494,10 @@ TECH
  - SERVICENOW INC (NOW) -0.27% 
  - PARAMOUNT GLOBAL-CLASS B (PARA) -0.26%
 
+   Ticker Action       
+0   ^DJI   Sell  
+1  ^IXIC   Sell  
+2  ^GSPC   Sell   
+
+
 
