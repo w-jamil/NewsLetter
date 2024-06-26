@@ -2499,5 +2499,18 @@ TECH
 1  ^IXIC   Sell  
 2  ^GSPC   Sell   
 
+TECH 
+ - PnL: 0.0% 
+ - Risk, SD 0.17%, VaR 0.32% and CVaR 0.41% 
+ - Daily change, SD -0.8%, VaR -0.87% and CVaR -0.86% 
+ TOP THREE 
+ - INTEL CORP (INTC) 0.0% 
+ - SIRIUS XM HOLDINGS INC (SIRI) 0.0% 
+ - WALGREENS BOOTS ALLIANCE INC (WBA) 0.01% 
+ BOTTOM TWO 
+ - WARNER BROS DISCOVERY INC (WBD) -0.01% 
+ - BAKER HUGHES CO (BKR) 0.0%
+
+
 
 
