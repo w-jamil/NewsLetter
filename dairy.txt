@@ -2574,3 +2574,8 @@ ESGLS
  - KEYCORP (KEY) -0.04% 
  - FORD MOTOR CO (F) -0.03% 
  - HUNTINGTON BANCSHARES INC (HBAN) -0.02%
+
+  Ticker Action
+0   ^DJI   Sell
+1  ^IXIC   Sell
+2  ^GSPC   Sell
