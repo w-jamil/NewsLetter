@@ -2579,3 +2579,16 @@ ESGLS
 0   ^DJI   Sell
 1  ^IXIC   Sell
 2  ^GSPC   Sell
+
+ESGLS 
+ - PnL: -0.26%. NAV% -77.88%.
+ - Risk Long (Short), SD 0.58% (0.42%), VaR 0.93% (0.93%) and CVaR 1.41% 
+ - Daily change Long (Short), SD 5.57% (-3.2%), VaR 6.91% (3.73%), CVaR 6.59% (2.25%) (1.17%) 
+ TOP THREE 
+ - SERVICENOW INC (NOW) 0.01% 
+ - KEYCORP (KEY) 0.01% 
+ - FORD MOTOR CO (F) 0.02% 
+ BOTTOM THREE 
+ - AMERICAN AIRLINES GROUP INC (AAL) -0.2% 
+ - LAM RESEARCH CORP (LRCX) -0.1% 
+ - ESSEX PROPERTY TRUST INC (ESS) 0.0%
