@@ -2666,6 +2666,19 @@ LS
  - SERVICENOW INC (NOW) -0.42% 
  - MARTIN MARIETTA MATERIALS (MLM) -0.05%
 
+ESGLS 
+ - PnL: -1.03%. NAV% 1.0%.
+ - Risk Long (Short), SD 0.01% (0.02%), VaR 0.03% (0.03%) and CVaR 0.01% 
+ - Daily change Long (Short), SD -99.11% (-95.34%), VaR -99.14% (-96.6%), CVaR -99.13% (-96.34%) (0.04%) 
+ TOP THREE 
+ - BROADCOM INC (AVGO) -0.0% 
+ - METTLER-TOLEDO INTERNATIONAL (MTD) 0.0% 
+ - AMERICAN AIRLINES GROUP INC (AAL) 0.05% 
+ BOTTOM THREE 
+ - FORD MOTOR CO (F) -0.31% 
+ - KEYCORP (KEY) -0.28% 
+ - NEWELL BRANDS INC (NWL) -0.23%
+
 
 
 
