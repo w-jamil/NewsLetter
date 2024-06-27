@@ -2617,4 +2617,18 @@ TECH
  - WALGREENS BOOTS ALLIANCE INC (WBA) -0.27% 
  - INTEL CORP (INTC) -0.0%
 
+ ESGLS 
+ - PnL: -1.03%. NAV% 1.0%.
+ - Risk Long (Short), SD 0.58% (0.42%), VaR 0.93% (0.93%) and CVaR 1.41% 
+ - Daily change Long (Short), SD 5.57% (-3.2%), VaR 6.91% (3.73%), CVaR 6.59% (2.25%) (1.17%) 
+ TOP THREE 
+ - BROADCOM INC (AVGO) -0.0% 
+ - METTLER-TOLEDO INTERNATIONAL (MTD) -0.0% 
+ - AMERICAN AIRLINES GROUP INC (AAL) 0.05% 
+ BOTTOM THREE 
+ - FORD MOTOR CO (F) -0.31% 
+ - KEYCORP (KEY) -0.28% 
+ - NEWELL BRANDS INC (NWL) -0.23%
+
+
 
