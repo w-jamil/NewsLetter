@@ -2790,5 +2790,18 @@ ESGLS
  - FORD MOTOR CO (F) 0.0% 
  - BOOKING HOLDINGS INC (BKNG) 0.0%
 
+LS 
+ - PnL: 0.0%. NAV% 1.0%.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.01% (0.01%) and CVaR 0.01% 
+ - Daily change Long (Short), SD -4.17% (0.16%), VaR -16.08% (3.33%), CVaR -12.98% (2.57%) (0.02%) 
+ TOP THREE 
+ - LAM RESEARCH CORP (LRCX) -0.0% 
+ - AMCOR PLC (AMCR) -0.0% 
+ - MARTIN MARIETTA MATERIALS (MLM) -0.0% 
+ BOTTOM THREE 
+ - SERVICENOW INC (NOW) -0.0% 
+ - AMERICAN AIRLINES GROUP INC (AAL) 0.0% 
+ - TRANSDIGM GROUP INC (TDG) 0.0%
+
 
 
