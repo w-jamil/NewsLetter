@@ -2739,6 +2739,18 @@ SMALL CAP NYSE/NASDAQ
 8    BLX        2024-07-18   4.264378
 9   SPFI        2024-07-23   3.839335
 
+ESGLS 
+ - PnL: -0.01%. NAV% 1.0%.
+ - Risk Long (Short), SD 0.01% (0.02%), VaR 0.03% (0.03%) and CVaR 0.01% 
+ - Daily change Long (Short), SD -99.11% (-95.34%), VaR -99.14% (-96.6%), CVaR -99.13% (-96.34%) (0.04%) 
+ TOP THREE 
+ - METTLER-TOLEDO INTERNATIONAL (MTD) -0.0% 
+ - KEYCORP (KEY) 0.0% 
+ - AUTOZONE INC (AZO) -0.0% 
+ BOTTOM THREE 
+ - NVR INC (NVR) -0.01% 
+ - AMERICAN AIRLINES GROUP INC (AAL) 0.0% 
+ - FORD MOTOR CO (F) 0.0%
 
 
 
