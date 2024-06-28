@@ -2679,6 +2679,16 @@ ESGLS
  - KEYCORP (KEY) -0.28% 
  - NEWELL BRANDS INC (NWL) -0.23%
 
+   Ticker Action Comment
+0   ^DJI   Sell 0.11% pre-market
+1  ^IXIC   Sell 0.44% pre-market
+2  ^GSPC   Sell 0.37% pre-market
+3    LLY   Sell outperform (+1) and Hold (-1)
+4    BKR   Sell positive 0.01% LOTECH
+5   SIRI    Buy negative -0.02% LOTECH
+6    WBA    Buy negative -0.01% LOTECH
+
+
 
 
 
