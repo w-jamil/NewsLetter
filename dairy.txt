@@ -2777,5 +2777,18 @@ TECH
  - WALGREENS BOOTS ALLIANCE INC (WBA) -0.0% 
  - WARNER BROS DISCOVERY INC (WBD) 0.0%
 
+ESGLS 
+ - PnL: 0.01%. NAV% 1.0%.
+ - Risk Long (Short), SD 0.01% (0.02%), VaR 0.03% (0.03%) and CVaR 0.01% 
+ - Daily change Long (Short), SD 24.24% (0.64%), VaR -0.65% (-4.32%), CVaR 5.32% (-3.04%) (0.04%) 
+ TOP THREE 
+ - KEYCORP (KEY) 0.0% 
+ - AUTOZONE INC (AZO) -0.0% 
+ - NVR INC (NVR) 0.01% 
+ BOTTOM THREE 
+ - AMERICAN AIRLINES GROUP INC (AAL) 0.0% 
+ - FORD MOTOR CO (F) 0.0% 
+ - BOOKING HOLDINGS INC (BKNG) 0.0%
+
 
 
