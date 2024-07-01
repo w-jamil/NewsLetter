@@ -2954,6 +2954,20 @@ ESGLS
 10    WBA    94.93  -3773.60      -44.39
 11   MNST  2331.96      0.00      -23.79
 
+TECH 
+ - PnL: $-698.0 
+ - Risk, SD 0.11%, VaR 0.15% and CVaR 0.21% 
+ - Daily change, SD 11.32%, VaR -1.68% and CVaR 1.78% 
+ TOP THREE 
+ - XCEL ENERGY INC (XEL) $-7.0 
+ - CISCO SYSTEMS INC (CSCO) $-4.0 
+ - EXELON CORP (EXC) $-1.0 
+ BOTTOM THREE 
+ - SIRIUS XM HOLDINGS INC (SIRI) $-265.0 
+ - WARNER BROS DISCOVERY INC (WBD) $-201.0 
+ - WALGREENS BOOTS ALLIANCE INC (WBA) $-101.0
+
+
 LS 
  - PnL: $9.81. MV $-2106.28.
  - Risk Long (Short), SD 0.01% (0.01%), VaR 0.01% (0.01%) and CVaR 0.01% 
