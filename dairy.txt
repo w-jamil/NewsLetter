@@ -2954,6 +2954,18 @@ ESGLS
 10    WBA    94.93  -3773.60      -44.39
 11   MNST  2331.96      0.00      -23.79
 
+LS 
+ - PnL: $9.81. MV $-2106.28.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.01% (0.01%) and CVaR 0.01% 
+ - Daily change Long (Short), SD -4.17% (0.16%), VaR -16.08% (3.33%), CVaR -12.98% (2.57%) (0.02%) 
+ TOP THREE 
+ - TRANSDIGM GROUP INC (TDG) $12.2 
+ - MARTIN MARIETTA MATERIALS (MLM) $26.3 
+ - LAM RESEARCH CORP (LRCX) $31.9 
+ BOTTOM THREE 
+ - WARNER BROS DISCOVERY INC (WBD) $-27.0 
+ - ELI LILLY & CO (LLY) $-16.0 
+ - AMERICAN AIRLINES GROUP INC (AAL) $-14.2
 
 
 
