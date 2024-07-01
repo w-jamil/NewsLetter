@@ -2981,6 +2981,20 @@ LS
  - ELI LILLY & CO (LLY) $-16.0 
  - AMERICAN AIRLINES GROUP INC (AAL) $-14.2
 
+ ESGLS 
+ - PnL: $246.73. MV $-13638.82.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.01% (0.01%) and CVaR 0.01% 
+ - Daily change Long (Short), SD 1.9% (-43.16%), VaR 7.0% (-71.03%), CVaR 5.55% (-63.55%) (0.02%) 
+ TOP THREE 
+ - BOOKING HOLDINGS INC (BKNG) $78.2 
+ - NVR INC (NVR) $105.0 
+ - AUTOZONE INC (AZO) $134.0 
+ BOTTOM THREE 
+ - BROADCOM INC (AVGO) $-72.9 
+ - AMERICAN AIRLINES GROUP INC (AAL) $-31.9 
+ - NEWELL BRANDS INC (NWL) $-11.6
+
+
 
 
 	
