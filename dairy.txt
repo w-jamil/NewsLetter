@@ -2918,6 +2918,11 @@ HOLD: AVGO -1 AMCR and PARA +1
 1  ^IXIC  Exit short
 2  ^GSPC  Exit short
 
+     Ticker Action
+0  GBPUSD=X   None
+1  EURUSD=X   None
+
+
 
 
 
