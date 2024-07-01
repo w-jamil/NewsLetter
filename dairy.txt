@@ -2939,6 +2939,19 @@ ESGLS
  - BROADCOM INC (AVGO) $-13.7 
  - NEWELL BRANDS INC (NWL) $-9.93
 
+ TECH 
+ - PnL: $-594.0 
+ - Risk, SD 0.11%, VaR 0.15% and CVaR 0.21% 
+ - Daily change, SD 11.32%, VaR -1.68% and CVaR 1.78% 
+ TOP THREE 
+ - nan (XEL) $nan 
+ - nan (EXC) $nan 
+ - nan (MNST) $nan 
+ BOTTOM TWO 
+ - SIRIUS XM HOLDINGS INC (SIRI) $-266.0 
+ - WARNER BROS DISCOVERY INC (WBD) $-201.0
+
+
 
 	
 	
