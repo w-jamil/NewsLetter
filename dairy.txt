@@ -2940,16 +2940,20 @@ ESGLS
  - NEWELL BRANDS INC (NWL) $-9.93
 
  TECH 
- - PnL: $-594.0 
- - Risk, SD 0.11%, VaR 0.15% and CVaR 0.21% 
- - Daily change, SD 11.32%, VaR -1.68% and CVaR 1.78% 
- TOP THREE 
- - nan (XEL) $nan 
- - nan (EXC) $nan 
- - nan (MNST) $nan 
- BOTTOM TWO 
- - SIRIUS XM HOLDINGS INC (SIRI) $-266.0 
- - WARNER BROS DISCOVERY INC (WBD) $-201.0
+   Ticker       MV  Realised  Unrealised
+0   CMCSA   616.54      0.00       -9.25
+1    CPRT  4239.44      0.00      -25.48
+2    SIRI   327.02  -4887.53       -3.95
+3     CSX   901.26      0.00      -17.15
+4    INTC   123.24    303.37        2.61
+5    CSCO   237.55      0.00       -3.74
+6     XEL   319.01      0.00       -5.09
+7     WBD     0.00   -283.86        0.00
+8     EXC    68.72      0.00       -1.31
+9     BKR     0.00   1427.50        0.00
+10    WBA    94.93  -3773.60      -44.39
+11   MNST  2331.96      0.00      -23.79
+
 
 
 
