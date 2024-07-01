@@ -2909,8 +2909,9 @@ ESGLS
  - TRANSDIGM GROUP INC (TDG) 0.0%
 
 
-OUTPERFORM: PARA -1	
-HOLD: AMCR and PARA +1
+OUTPERFORM: AVGO +1 PARA -1	
+HOLD: AVGO -1 AMCR and PARA +1
+
 
   Ticker      Action
 0   ^DJI  Exit short
