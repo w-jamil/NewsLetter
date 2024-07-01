@@ -2926,9 +2926,18 @@ HOLD: AVGO -1 AMCR and PARA +1
 0  GBPUSD=X   None
 1  EURUSD=X   None
 
-
-
-
+ESGLS 
+ - PnL: $241.3. MV $-13644.64.
+ - Risk Long (Short), SD 0.01% (0.02%), VaR 0.03% (0.03%) and CVaR 0.01% 
+ - Daily change Long (Short), SD 24.24% (0.64%), VaR -0.65% (-4.32%), CVaR 5.32% (-3.04%) (0.04%) 
+ TOP THREE 
+ - NVR INC (NVR) $60.6 
+ - BOOKING HOLDINGS INC (BKNG) $68.8 
+ - AUTOZONE INC (AZO) $130.0 
+ BOTTOM THREE 
+ - AMERICAN AIRLINES GROUP INC (AAL) $-15.8 
+ - BROADCOM INC (AVGO) $-13.7 
+ - NEWELL BRANDS INC (NWL) $-9.93
 
 
 	
