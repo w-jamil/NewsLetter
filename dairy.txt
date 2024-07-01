@@ -2912,6 +2912,11 @@ ESGLS
 OUTPERFORM: PARA -1	
 HOLD: AMCR and PARA +1
 
+  Ticker      Action
+0   ^DJI  Exit short
+1  ^IXIC  Exit short
+2  ^GSPC  Exit short
+
 
 
 
