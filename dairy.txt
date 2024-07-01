@@ -2898,7 +2898,7 @@ TECH
 
 
 LS 
- - PnL: $-37.8. NAV% 1.0%.
+ - PnL: $-44.53. MV $-2160.74.
  - Risk Long (Short), SD 0.01% (0.01%), VaR 0.01% (0.01%) and CVaR 0.01% 
  - Daily change Long (Short), SD -4.17% (0.16%), VaR -16.08% (3.33%), CVaR -12.98% (2.57%) (0.02%) 
  TOP THREE 
@@ -2906,9 +2906,10 @@ LS
  - TRANSDIGM GROUP INC (TDG) $0.63 
  - VIATRIS INC (VTRS) $0.74 
  BOTTOM THREE 
+ - ELI LILLY & CO (LLY) $-15.2 
  - LAM RESEARCH CORP (LRCX) $-12.3 
- - ELI LILLY & CO (LLY) $-11.9 
- - SERVICENOW INC (NOW) $-4.66
+ - WARNER BROS DISCOVERY INC (WBD) $-5.25
+
 
 
 
