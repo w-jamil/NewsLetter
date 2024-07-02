@@ -3068,6 +3068,19 @@ LS
  - MARTIN MARIETTA MATERIALS (MLM) $0.1 
  - TRANSDIGM GROUP INC (TDG) $0.67
 
+ESGLS 
+ - PnL: $14.37. MV $-13629.01.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.01% (0.01%) and CVaR 0.01% 
+ - Daily change Long (Short), SD 1.9% (-43.16%), VaR 7.0% (-71.03%), CVaR 5.55% (-63.55%) (0.02%) 
+ TOP THREE 
+ - AUTOZONE INC (AZO) $2.94 
+ - NVR INC (NVR) $7.16 
+ - BROADCOM INC (AVGO) $17.6 
+ BOTTOM THREE 
+ - FORD MOTOR CO (F) $-7.02 
+ - KEYCORP (KEY) $-4.34 
+ - NEWELL BRANDS INC (NWL) $-1.93
+
 
 	
 	
