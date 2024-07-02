@@ -3083,3 +3083,16 @@ ESGLS
 
 
 HOLD: BKNG DOWNGRADE BY 1 
+
+ESGLS 
+ - PnL: $-23.31. MV $-13667.52.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.01% (0.01%) and CVaR 0.01% 
+ - Daily change Long (Short), SD 1.9% (-43.16%), VaR 7.0% (-71.03%), CVaR 5.55% (-63.55%) (0.02%) 
+ TOP THREE 
+ - METTLER-TOLEDO INTERNATIONAL (MTD) $-0.91 
+ - FORD MOTOR CO (F) $2.04 
+ - NVR INC (NVR) $20.5 
+ BOTTOM THREE 
+ - NEWELL BRANDS INC (NWL) $-12.7 
+ - AUTOZONE INC (AZO) $-10.9 
+ - HUNTINGTON BANCSHARES INC (HBAN) $-6.4
