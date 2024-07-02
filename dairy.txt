@@ -3027,6 +3027,22 @@ TECH REALISED SUMMARY
 -WALGREENS BOOTS ALLIANCE INC (WBA) $-3,773.60
 -SIRIUS XM HOLDINGS INC (SIRI) $-4,887.53
 
+        Ticker Action
+0      USD_CAD   Sell
+1      USD_JPY   Sell
+2      USD_CHF   Sell
+3      GBP_USD    Buy
+4      GBP_CAD    Buy
+5      GBP_JPY   Sell
+6      GBP_NZD   Sell
+7      GBP_CHF    Buy
+8   SPX500_USD   Sell
+9   USB02Y_USD   Sell
+10     BCO_USD   Sell
+11  NAS100_USD   Sell
+12     XPT_USD    Buy
+
+
 	
 	
 	
