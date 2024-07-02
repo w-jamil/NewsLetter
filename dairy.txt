@@ -3122,3 +3122,16 @@ LS
  - TRANSDIGM GROUP INC (TDG) $-14.9 
  - VIATRIS INC (VTRS) $-9.92 
  - AMCOR PLC (AMCR) $-7.1
+
+ESGLS 
+ - PnL: $-53.3. MV $-13697.48.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.01% (0.01%) and CVaR 0.01% 
+ - Daily change Long (Short), SD -3.97% (7.78%), VaR -11.95% (37.88%), CVaR -9.77% (25.28%) (0.02%) 
+ TOP THREE 
+ - FORD MOTOR CO (F) $8.71 
+ - KEYCORP (KEY) $13.3 
+ - NVR INC (NVR) $21.9 
+ BOTTOM THREE 
+ - AUTOZONE INC (AZO) $-36.8 
+ - BROADCOM INC (AVGO) $-36.0 
+ - BOOKING HOLDINGS INC (BKNG) $-32.4
