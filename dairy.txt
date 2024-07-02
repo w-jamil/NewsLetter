@@ -3161,3 +3161,18 @@ LS
  - LAM RESEARCH CORP (LRCX) $-24.9 
  - TRANSDIGM GROUP INC (TDG) $-22.2 
  - VIATRIS INC (VTRS) $-11.1
+
+          Pair Recomendation
+0      USD_CAD           Buy
+1      USD_JPY          Sell
+2      USD_CHF          Sell
+3      GBP_USD           Buy
+4      GBP_CAD           Buy
+5      GBP_JPY          Sell
+6      GBP_NZD          Sell
+7      GBP_CHF          Sell
+8   SPX500_USD          Sell
+9   USB02Y_USD          Sell
+10     BCO_USD          Sell
+11  NAS100_USD          Sell
+12     XPT_USD          Sell
