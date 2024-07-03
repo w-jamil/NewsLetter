@@ -3303,6 +3303,19 @@ TECH
  - MONSTER BEVERAGE CORP (MNST) $-14.0 
  - WALGREENS BOOTS ALLIANCE INC (WBA) $-4.0
 
+LS 
+ - PnL: $27.8. MV $-13443.59.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.02% (0.02%) and CVaR 0.02% 
+ - Daily change Long (Short), SD 6.84% (96.04%), VaR 4.48% (74.67%), CVaR 5.2% (80.18%) (0.03%) 
+ TOP THREE 
+ - AUTOZONE INC (AZO) $9.95 
+ - NVR INC (NVR) $27.9 
+ - PARAMOUNT GLOBAL-CLASS B (PARA) $126.0 
+ BOTTOM THREE 
+ - BROADCOM INC (AVGO) $-94.4 
+ - BOOKING HOLDINGS INC (BKNG) $-16.9 
+ - ELI LILLY & CO (LLY) $-15.4
+
 
 
 
