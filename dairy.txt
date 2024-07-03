@@ -3264,6 +3264,19 @@ TECH
  - CSX CORP (CSX) $-6.0 
  - WALGREENS BOOTS ALLIANCE INC (WBA) $-3.0
 
+LS 
+ - PnL: $137.43. MV $-13388.1.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.01% (0.01%) and CVaR 0.02% 
+ - Daily change Long (Short), SD 1.76% (0.75%), VaR -15.31% (0.94%), CVaR -10.75% (0.89%) (0.01%) 
+ TOP THREE 
+ - nan (BKNG) $nan 
+ - nan (NVR) $nan 
+ - nan (AVGO) $nan 
+ BOTTOM THREE 
+ - ELI LILLY & CO (LLY) $-15.4 
+ - TRANSDIGM GROUP INC (TDG) $-6.61 
+ - SERVICENOW INC (NOW) $-3.73
+
 
 
 
