@@ -3277,6 +3277,19 @@ LS
  - TRANSDIGM GROUP INC (TDG) $-6.61 
  - SERVICENOW INC (NOW) $-3.73
 
+ESGLS 
+ - PnL: $-189.35. MV $-13892.65.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.02% (0.02%) and CVaR 0.03% 
+ - Daily change Long (Short), SD 67.43% (10.19%), VaR 146.77% (39.8%), CVaR 123.71% (29.14%) (0.02%) 
+ TOP THREE 
+ - NVR INC (NVR) $3.71 
+ - AMERICAN AIRLINES GROUP INC (AAL) $6.81 
+ - AUTOZONE INC (AZO) $25.1 
+ BOTTOM THREE 
+ - BROADCOM INC (AVGO) $-147.0 
+ - WALGREENS BOOTS ALLIANCE INC (WBA) $-38.3 
+ - VF CORP (VFC) $-12.3
+
 
 
 
