@@ -3237,6 +3237,19 @@ REALISED PNL $-375.11
 - NOW $-184.58
 - LRCX $-217.84
 
+ESGLS 
+ - PnL: $-112.55. MV $-13844.03.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.01% (0.01%) and CVaR 0.01% 
+ - Daily change Long (Short), SD -3.97% (7.78%), VaR -11.95% (37.88%), CVaR -9.77% (25.28%) (0.02%) 
+ TOP THREE 
+ - AMERICAN AIRLINES GROUP INC (AAL) $9.44 
+ - NVR INC (NVR) $42.5 
+ - AUTOZONE INC (AZO) $44.2 
+ BOTTOM THREE 
+ - BROADCOM INC (AVGO) $-125.0 
+ - WALGREENS BOOTS ALLIANCE INC (WBA) $-34.1 
+ - VF CORP (VFC) $-13.6
+
 
 
 
