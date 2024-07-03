@@ -3176,3 +3176,16 @@ LS
 10     BCO_USD          Sell
 11  NAS100_USD          Sell
 12     XPT_USD          Sell
+
+ESGLS 
+ - PnL: $-17.6. MV $-13712.39.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.01% (0.01%) and CVaR 0.01% 
+ - Daily change Long (Short), SD -3.97% (7.78%), VaR -11.95% (37.88%), CVaR -9.77% (25.28%) (0.02%) 
+ TOP THREE 
+ - AUTOZONE INC (AZO) $0.38 
+ - NVR INC (NVR) $0.45 
+ - BOOKING HOLDINGS INC (BKNG) $7.09 
+ BOTTOM THREE 
+ - BROADCOM INC (AVGO) $-19.3 
+ - HUNTINGTON BANCSHARES INC (HBAN) $-3.05 
+ - METTLER-TOLEDO INTERNATIONAL (MTD) $-1.32
