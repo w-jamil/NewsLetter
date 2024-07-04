@@ -3370,4 +3370,17 @@ ESGLS UNREALISED/REALISED PNL 328.00/-28,417.17
 - CHURCH & DWIGHT CO INC (CHD)	0.00/1,380.25	
 - DOLLAR GENERAL CORP (DG)	0.00/-13,977.18	
  
- 
+           Pair Recomendation
+0      USD_CAD           Buy
+1      USD_JPY          Sell
+2      USD_CHF          Sell
+3      GBP_USD          Sell
+4      GBP_CAD           Buy
+5      GBP_JPY          Sell
+6      GBP_NZD          Sell
+7      GBP_CHF          Sell
+8   SPX500_USD          Sell
+9   USB02Y_USD          Sell
+10     BCO_USD          Sell
+11  NAS100_USD          Sell
+12     XPT_USD          Sell
