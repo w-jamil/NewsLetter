@@ -3554,3 +3554,18 @@ LS
  - FAIR ISAAC CORP (FICO) $-20.9 
  - BOOKING HOLDINGS INC (BKNG) $-12.6 
  - AMERICAN AIRLINES GROUP INC (AAL) $-8.48
+
+          Pair Recomendation
+0      USD_CAD          None
+1      USD_JPY     Exit Long
+2      USD_CHF     Exit Long
+3      GBP_USD     Exit Long
+4      GBP_CAD     Exit Long
+5      GBP_JPY          Sell
+6      GBP_NZD     Exit Long
+7      GBP_CHF          Sell
+8   SPX500_USD          Sell
+9   USB02Y_USD     Exit Long
+10     BCO_USD          Sell
+11  NAS100_USD     Exit Long
+12     XPT_USD          Sell
