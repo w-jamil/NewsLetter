@@ -3384,3 +3384,17 @@ ESGLS UNREALISED/REALISED PNL 328.00/-28,417.17
 10     BCO_USD          Sell
 11  NAS100_USD          Sell
 12     XPT_USD          Sell
+
+ESGLS 
+ - PnL: $-11.96. MV $-13932.08.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.02% (0.02%) and CVaR 0.03% 
+ - Daily change Long (Short), SD 67.43% (10.19%), VaR 146.77% (39.8%), CVaR 123.71% (29.14%) (0.02%) 
+ TOP THREE 
+ - AUTOZONE INC (AZO) $5.63 
+ - WALGREENS BOOTS ALLIANCE INC (WBA) $10.7 
+ - NVR INC (NVR) $17.2 
+ BOTTOM THREE 
+ - BROADCOM INC (AVGO) $-53.6 
+ - VF CORP (VFC) $-0.71 
+ - NEWELL BRANDS INC (NWL) $0.0
+
