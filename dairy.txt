@@ -3481,3 +3481,20 @@ LS
 10     BCO_USD     Exit Long
 11  NAS100_USD     Exit Long
 12     XPT_USD     Exit Long
+
+
+1 HOUR SIGNAL
+          Pair Recomendation
+0      USD_CAD     Exit Long
+1      USD_JPY     Exit Long
+2      USD_CHF           Buy
+3      GBP_USD          Sell
+4      GBP_CAD     Exit Long
+5      GBP_JPY          Sell
+6      GBP_NZD           Buy
+7      GBP_CHF          Sell
+8   SPX500_USD     Exit Long
+9   USB02Y_USD          Sell
+10     BCO_USD     Exit Long
+11  NAS100_USD     Exit Long
+12     XPT_USD     Exit Long
