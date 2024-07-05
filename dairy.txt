@@ -3451,3 +3451,17 @@ TECH
  - COMCAST CORP-CLASS A (CMCSA) $-3.0 
  - CISCO SYSTEMS INC (CSCO) $-3.0
 
+
+LS 
+ - PnL: $72.95. MV $-13399.71.
+ - Risk Long (Short), SD 0.01% (0.01%), VaR 0.02% (0.02%) and CVaR 0.02% 
+ - Daily change Long (Short), SD 6.84% (96.04%), VaR 4.48% (74.67%), CVaR 5.2% (80.18%) (0.03%) 
+ TOP THREE 
+ - NVR INC (NVR) $32.9 
+ - BROADCOM INC (AVGO) $34.7 
+ - AUTOZONE INC (AZO) $43.9 
+ BOTTOM THREE 
+ - FAIR ISAAC CORP (FICO) $-12.5 
+ - WARNER BROS DISCOVERY INC (WBD) $-11.5 
+ - AMCOR PLC (AMCR) $-10.5
+
