@@ -3729,3 +3729,16 @@ LS
 10     BCO_USD          Sell
 11  NAS100_USD          Sell
 12     XPT_USD          Sell
+
+ESGLS 
+ - PnL: $-172.34. MV $-14011.77.
+ - Risk Long (Short), SD 0.91% (1.52%), VaR 2.2% (2.2%) and CVaR 2.55% 
+ - Daily change Long (Short), SD -6.28% (16.79%), VaR -3.3% (38.69%), CVaR -3.92% (31.71%) (3.07%) 
+ TOP THREE 
+ - METTLER-TOLEDO INTERNATIONAL (MTD) $16.1 
+ - NEWELL BRANDS INC (NWL) $18.2 
+ - VF CORP (VFC) $36.2 
+ BOTTOM THREE 
+ - BROADCOM INC (AVGO) $-87.4 
+ - BOOKING HOLDINGS INC (BKNG) $-56.8 
+ - WALGREENS BOOTS ALLIANCE INC (WBA) $-46.0
