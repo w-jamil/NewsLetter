@@ -3713,3 +3713,19 @@ LS
 10     BCO_USD     Exit Long
 11  NAS100_USD     Exit Long
 12     XPT_USD     Exit Long
+
+4 HOUR SIGNAL, PRIVIOUS 1 HOUR AND BEFORE THA 4 MIN
+          Pair Recomendation
+0      USD_CAD          None
+1      USD_JPY          None
+2      USD_CHF          None
+3      GBP_USD     Exit Long
+4      GBP_CAD     Exit Long
+5      GBP_JPY     Exit Long
+6      GBP_NZD     Exit Long
+7      GBP_CHF     Exit Long
+8   SPX500_USD          Sell
+9   USB02Y_USD          Sell
+10     BCO_USD          Sell
+11  NAS100_USD          Sell
+12     XPT_USD          Sell
