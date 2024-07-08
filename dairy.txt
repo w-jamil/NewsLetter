@@ -3682,3 +3682,18 @@ LS
  - NVR INC (NVR) $-70.5 
  - PARAMOUNT GLOBAL-CLASS B (PARA) $-41.6 
  - BROADCOM INC (AVGO) $-34.9
+
+          Pair Recomendation
+0      USD_CAD          Sell
+1      USD_JPY     Exit Long
+2      USD_CHF     Exit Long
+3      GBP_USD           Buy
+4      GBP_CAD           Buy
+5      GBP_JPY           Buy
+6      GBP_NZD           Buy
+7      GBP_CHF           Buy
+8   SPX500_USD           Buy
+9   USB02Y_USD           Buy
+10     BCO_USD           Buy
+11  NAS100_USD          Sell
+12     XPT_USD           Buy
