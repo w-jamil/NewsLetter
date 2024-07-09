@@ -3808,3 +3808,15 @@ LS
  - AMCOR PLC (AMCR) $-6.93 
  - BOOKING HOLDINGS INC (BKNG) $0.0
 
+ESGLS 
+ - PnL: $-88.46. MV $-14115.98.
+ - Risk Long (Short), SD 0.91% (1.52%), VaR 2.2% (2.2%) and CVaR 2.55% 
+ - Daily change Long (Short), SD -6.28% (16.79%), VaR -3.3% (38.69%), CVaR -3.92% (31.71%) (3.07%) 
+ TOP THREE 
+ - METTLER-TOLEDO INTERNATIONAL (MTD) $11.4 
+ - AUTOZONE INC (AZO) $19.4 
+ - BROADCOM INC (AVGO) $31.6 
+ BOTTOM THREE 
+ - NVR INC (NVR) $-57.2 
+ - NEWELL BRANDS INC (NWL) $-47.0 
+ - VF CORP (VFC) $-32.3
