@@ -3849,14 +3849,15 @@ LS
 
 
 ESGLS 
- - PnL: $-78.79. MV $-14088.28.
- - Risk Long (Short), SD 0.91% (1.52%), VaR 2.2% (2.2%) and CVaR 2.55% 
- - Daily change Long (Short), SD -6.28% (16.79%), VaR -3.3% (38.69%), CVaR -3.92% (31.71%) (3.07%) 
+ - PnL: $-63.71. MV $-14088.28.
+ - Risk Long (Short), SD 0.89% (1.31%), VaR 2.08% (2.08%) and CVaR 2.49% 
+ - Daily change Long (Short), SD -2.27% (-13.9%), VaR -2.57% (-5.42%), CVaR -2.51% (-7.81%) (2.83%) 
  TOP THREE 
  - AUTOZONE INC (AZO) $19.3 
  - METTLER-TOLEDO INTERNATIONAL (MTD) $22.0 
- - BROADCOM INC (AVGO) $25.1 
+ - BROADCOM INC (AVGO) $24.2 
  BOTTOM THREE 
- - NEWELL BRANDS INC (NWL) $-69.7 
- - NVR INC (NVR) $-47.9 
- - VF CORP (VFC) $-33.4
+ - NEWELL BRANDS INC (NWL) $-68.1 
+ - VF CORP (VFC) $-35.5 
+ - NVR INC (NVR) $-30.0
+
