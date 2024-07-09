@@ -3874,3 +3874,16 @@ TECH
  - CSX CORP (CSX) $-22.0 
  - MONSTER BEVERAGE CORP (MNST) $-13.0
 
+LS 
+ - PnL: $73.99. MV $-13551.81.
+ - Risk Long (Short), SD 0.9% (1.12%), VaR 2.0% (2.0%) and CVaR 1.67% 
+ - Daily change Long (Short), SD 3.23% (-13.43%), VaR -10.84% (-2.72%), CVaR -6.94% (-5.54%) (2.64%) 
+ TOP THREE 
+ - BROADCOM INC (AVGO) $25.1 
+ - WARNER BROS DISCOVERY INC (WBD) $35.0 
+ - PARAMOUNT GLOBAL-CLASS B (PARA) $59.2 
+ BOTTOM THREE 
+ - NVR INC (NVR) $-40.4 
+ - FAIR ISAAC CORP (FICO) $-40.0 
+ - AMCOR PLC (AMCR) $-6.0
+
