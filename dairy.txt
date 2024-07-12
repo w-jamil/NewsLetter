@@ -4181,3 +4181,17 @@ LS
  - BOOKING HOLDINGS INC (BKNG) $-33.6 
  - NVR INC (NVR) $-15.2 
  - BROADCOM INC (AVGO) $-13.6
+
+
+ESGLS 
+ - PnL: $-235.75. MV $-12867.45.
+ - Risk Long (Short), SD 0.73% (2.18%), VaR 3.92% (3.92%) and CVaR 1.62% 
+ - Daily change Long (Short), SD -32.22% (45.55%), VaR -44.42% (65.49%), CVaR -41.72% (60.2%) (5.16%) 
+ TOP THREE 
+ - WALGREENS BOOTS ALLIANCE INC (WBA) $6.0 
+ - NEWELL BRANDS INC (NWL) $13.7 
+ - FORD MOTOR CO (F) $31.3 
+ BOTTOM THREE 
+ - NVR INC (NVR) $-134.0 
+ - BOOKING HOLDINGS INC (BKNG) $-67.3 
+ - AUTOZONE INC (AZO) $-54.3
