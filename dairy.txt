@@ -4335,3 +4335,16 @@ LS
  - NVR INC (NVR) $-14.0 
  - FAIR ISAAC CORP (FICO) $-1.63 
  - BOOKING HOLDINGS INC (BKNG) $0.14
+
+ESGLS 
+ - PnL: $-120.86. MV $-12792.33.
+ - Risk Long (Short), SD 0.75% (2.07%), VaR 3.97% (3.97%) and CVaR 1.66% 
+ - Daily change Long (Short), SD 2.76% (-5.11%), VaR 1.8% (1.35%), CVaR 2.05% (-0.21%) (5.15%) 
+ TOP THREE 
+ - HUNTINGTON BANCSHARES INC (HBAN) $13.7 
+ - NEWELL BRANDS INC (NWL) $18.6 
+ - FORD MOTOR CO (F) $22.4 
+ BOTTOM THREE 
+ - NVR INC (NVR) $-81.4 
+ - BOOKING HOLDINGS INC (BKNG) $-53.8 
+ - AUTOZONE INC (AZO) $-28.3
