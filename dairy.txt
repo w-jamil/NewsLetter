@@ -4453,3 +4453,15 @@ LS
  - AUTOZONE INC (AZO) $-3.39 
  - FAIR ISAAC CORP (FICO) $-0.22
 
+ESGLS 
+ - PnL: $-225.36. MV $-12936.06.
+ - Risk Long (Short), SD 0.72% (1.61%), VaR 3.56% (3.56%) and CVaR 1.42% 
+ - Daily change Long (Short), SD -4.88% (-22.33%), VaR -17.56% (-10.34%), CVaR -14.27% (-13.08%) (4.48%) 
+ TOP THREE 
+ - BROADCOM INC (AVGO) $32.6 
+ - AMERICAN AIRLINES GROUP INC (AAL) $42.3 
+ - NEWELL BRANDS INC (NWL) $78.4 
+ BOTTOM THREE 
+ - NVR INC (NVR) $-338.0 
+ - BOOKING HOLDINGS INC (BKNG) $-53.8 
+ - AUTOZONE INC (AZO) $-21.8
