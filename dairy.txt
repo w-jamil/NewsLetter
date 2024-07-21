@@ -4942,4 +4942,24 @@ BATUSD -> $229.56
 SHIBUSD -> $136.35
 SUSHIUSD -> -$131.76
 
+   Ticker    Action       SL       TP
+0     AZO      SELL  3097.92  2891.39
+1    BKNG      SELL  4165.61  3887.90
+2     MTD       BUY  1317.37  1411.47
+3     NVR      SELL  8850.01  8260.01
+4    REGN  EXIT BUY  1042.33  1116.78
+5     AAL       BUY    10.37    11.11
+6    HBAN  EXIT BUY    14.56    15.60
+7     NWL       BUY     6.28     6.73
+8     VFC      SELL    17.20    16.05
+9     WBA      SELL    11.56    10.79
+10  CMCSA      SELL    42.08    39.28
+11   CPRT      SELL    54.30    50.68
+12   CSCO      SELL    49.69    46.37
+13    CSX      SELL    36.42    34.00
+14    EXC      SELL    37.94    35.41
+15   INTC  EXIT BUY    32.32    34.63
+16   MNST      SELL    53.43    49.87
+17   SIRI      SELL     3.58     3.34
+18    XEL  EXIT BUY    54.82    58.74
 
