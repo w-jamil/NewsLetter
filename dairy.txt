@@ -5250,3 +5250,16 @@ CRYPTO
  - DOGEUSD  $-121.36 
  - SHIBUSD  $-15.25 
  - SUSHIUSD  $0.0
+
+ESGLS 
+ - PnL: $-1508.46. MV $-4909.36.
+ - Risk Long (Short), SD 0.9% (0.56%), VaR 1.1% (1.1%) and CVaR 1.52% 
+ - Daily change Long (Short), SD -8.86% (1.81%), VaR -16.61% (-0.03%), CVaR -14.15% (0.38%) 
+ TOP THREE 
+ - METTLER-TOLEDO INTERNATIONAL (MTD) $65.7 
+ - NVR INC (NVR) $77.9 
+ - AUTOZONE INC (AZO) $108.0 
+ BOTTOM THREE 
+ - VF CORP (VFC) $-770.0 
+ - NEWELL BRANDS INC (NWL) $-328.0 
+ - HUNTINGTON BANCSHARES INC (HBAN) $-280.0
