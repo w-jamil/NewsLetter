@@ -5447,3 +5447,11 @@ CRYPTO
  - SHIBUSD  $0.0 
  - SUSHIUSD  $-83.64
 
+POST EXECUTION - REBALANCING AFTER FORD STOP LOSS
+- F      -12245.87
+- REGN       -3.08
+- NWL       -68.71
+- MTD      -197.60
+- WBA       -12.33
+- AZO       -75.69
+
