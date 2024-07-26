@@ -5489,3 +5489,9 @@ CRYPTO
  - DOGEUSD  $-68.7 
  - SHIBUSD  $0.0 
  - SUSHIUSD  $-83.64
+
+DAILY ALERT
+  Ticker    Action      SL      TP
+0   MRVL      NONE   62.71   67.19
+1    JBL      NONE  108.14  115.87
+2   ODFL  EXIT BUY  201.59  215.98
