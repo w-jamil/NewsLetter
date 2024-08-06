@@ -6510,3 +6510,14 @@ TECH
  - COPART INC (CPRT) $-1850.0 
  - INTEL CORP (INTC) $-1190.0 
  - COMCAST CORP-CLASS A (CMCSA) $-412.0
+
+CRYPTO 
+ - PnL: $6.21 
+ - Risk, SD 3.66%, VaR 7.47% and CVaR 9.55% 
+ - Daily change, SD 5.46%, VaR 3.28% and CVaR 3.74% 
+ TOP-TWO 
+ - SHIBUSD  $2.86 
+ - CRVUSD  $1.91 
+ BOTTOM-TWO 
+ - DOGEUSD  $0.72 
+ - SUSHIUSD  $0.0
