@@ -6547,3 +6547,14 @@ TECH
  - EXELON CORP (EXC) $14.0 
  - MONSTER BEVERAGE CORP (MNST) $52.0 
  - CISCO SYSTEMS INC (CSCO) $339.0
+
+CRYPTO 
+ - PnL: $0.7 
+ - Risk, SD 3.66%, VaR 7.47% and CVaR 9.55% 
+ - Daily change, SD 5.46%, VaR 3.28% and CVaR 3.74% 
+ TOP-TWO 
+ - DOGEUSD  $0.71 
+ - CRVUSD  $0.0 
+ BOTTOM-TWO 
+ - SUSHIUSD  $0.0 
+ - BATUSD  $-0.01
