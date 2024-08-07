@@ -6635,3 +6635,14 @@ TECH
  - INTEL CORP (INTC) $-2920.0 
  - WALGREENS BOOTS ALLIANCE INC (WBA) $-1690.0 
  - COMCAST CORP-CLASS A (CMCSA) $-824.0
+
+CRYPTO 
+ - PnL: $-0.56 
+ - Risk, SD 3.57%, VaR 7.18% and CVaR 9.21% 
+ - Daily change, SD -2.36%, VaR -3.87% and CVaR -3.54% 
+ TOP-TWO 
+ - DOGEUSD  $0.08 
+ - CRVUSD  $0.0 
+ BOTTOM-TWO 
+ - SUSHIUSD  $0.0 
+ - BATUSD  $-0.64
