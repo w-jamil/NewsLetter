@@ -6672,3 +6672,15 @@ TECH
  - MONSTER BEVERAGE CORP (MNST) $-4100.0 
  - SIRIUS XM HOLDINGS INC (SIRI) $-1040.0 
  - FORTINET INC (FTNT) $-362.0
+
+CRYPTO 
+ - PnL: $1.97 
+ - Risk, SD 3.57%, VaR 7.18% and CVaR 9.21% 
+ - Daily change, SD -2.36%, VaR -3.87% and CVaR -3.54% 
+ TOP-TWO 
+ - CRVUSD  $0.9 
+ - BATUSD  $0.88 
+ BOTTOM-TWO 
+ - SHIBUSD  $0.0 
+ - SUSHIUSD  $0.0
+
