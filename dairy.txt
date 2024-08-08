@@ -6712,3 +6712,16 @@ Ticker    Action
 Symbol Buy Outperform	Hold Underperform	Sell	 
 FTNT 5(0) 11(0) 27(+1) 0(-1) 1(0)	
 INTC 1(-1) 4(-1) 35(+2)	5(0) 1(0)	 
+
+ESGLS 
+ - PnL: $2005.0. MV $-12532.75.
+ - Risk Long (Short), SD 2.07% (0.48%), VaR 3.43% (0.84%) and CVaR 4.6% (1.11%) 
+ - Daily change Long (Short), SD 0.78% (-31.82%), VaR 1.77% (-22.8%), CVaR 1.51% (-25.23%) 
+ TOP THREE 
+ - NEWELL BRANDS INC (NWL) $1170.0 
+ - FORD MOTOR CO (F) $1910.0 
+ - AMERICAN AIRLINES GROUP INC (AAL) $3000.0 
+ BOTTOM THREE 
+ - NVR INC (NVR) $-1750.0 
+ - REGENERON PHARMACEUTICALS (REGN) $-1300.0 
+ - WW GRAINGER INC (GWW) $-1280.0
