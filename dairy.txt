@@ -6776,3 +6776,14 @@ TECH
  - FORTINET INC (FTNT) $-1340.0 
  - EXELON CORP (EXC) $-138.0
 
+CRYPTO 
+ - PnL: $3.07 
+ - Risk, SD 4.45%, VaR 8.08% and CVaR 10.61% 
+ - Daily change, SD 24.74%, VaR 12.52% and CVaR 15.22% 
+ TOP-TWO 
+ - BATUSD  $1.4 
+ - CRVUSD  $0.9 
+ BOTTOM-TWO 
+ - SHIBUSD  $0.0 
+ - SUSHIUSD  $0.0
+
