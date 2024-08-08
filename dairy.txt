@@ -6738,3 +6738,14 @@ TECH
  - MONSTER BEVERAGE CORP (MNST) $-5820.0 
  - EXELON CORP (EXC) $-339.0 
  - FORTINET INC (FTNT) $-86.0
+
+CRYPTO 
+ - PnL: $2.34 
+ - Risk, SD 3.57%, VaR 7.18% and CVaR 9.21% 
+ - Daily change, SD -2.36%, VaR -3.87% and CVaR -3.54% 
+ TOP-TWO 
+ - BATUSD  $1.06 
+ - CRVUSD  $0.9 
+ BOTTOM-TWO 
+ - SHIBUSD  $0.0 
+ - SUSHIUSD  $0.0
