@@ -6708,3 +6708,7 @@ Ticker    Action
 20  ^GSPC  EXIT BUY
 21   ^HSI       BUY
 22  ^N100       BUY
+
+Symbol Buy Outperform	Hold Underperform	Sell	 
+FTNT 5(0) 11(0) 27(+1) 0(-1) 1(0)	
+INTC 1(-1) 4(-1) 35(+2)	5(0) 1(0)	 
