@@ -6646,3 +6646,16 @@ CRYPTO
  BOTTOM-TWO 
  - SUSHIUSD  $0.0 
  - BATUSD  $-0.64
+
+ESGLS 
+ - PnL: $-819.47. MV $-16635.31.
+ - Risk Long (Short), SD 2.07% (0.48%), VaR 3.43% (0.84%) and CVaR 4.6% (1.11%) 
+ - Daily change Long (Short), SD 0.78% (-31.82%), VaR 1.77% (-22.8%), CVaR 1.51% (-25.23%) 
+ TOP THREE 
+ - NVR INC (NVR) $0.0 
+ - O'REILLY AUTOMOTIVE INC (ORLY) $0.0 
+ - WW GRAINGER INC (GWW) $0.0 
+ BOTTOM THREE 
+ - NEWELL BRANDS INC (NWL) $-363.0 
+ - BLACKROCK INC (BLK) $-272.0 
+ - HUNTINGTON BANCSHARES INC (HBAN) $-89.6
