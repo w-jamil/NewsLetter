@@ -6827,3 +6827,28 @@ CRYPTO
 Symbol  Buy Outperform  Hold  Underperform  Sell 
 FTNT  5(0)	11(0)	28(+1)  0(0)  0(-1)	
 INTC	1(0)	3(-1)	36(+1)	5(0)	1(0)	 
+
+ Ticker    Action
+0     AAL       BUY
+1     BLK      SELL
+2   CMCSA      SELL
+3    CPRT       BUY
+4    CSCO       BUY
+5     CSX      SELL
+6     EXC  EXIT BUY
+7       F       BUY
+8    FTNT  EXIT BUY
+9     GWW      SELL
+10   HBAN       BUY
+11   INTC  EXIT BUY
+12   MNST  EXIT BUY
+13    NVR      SELL
+14    NWL  EXIT BUY
+15   ORLY      SELL
+16   REGN  EXIT BUY
+17   SIRI       BUY
+18    WBA       BUY
+19  ^FTSE       BUY
+20  ^GSPC  EXIT BUY
+21   ^HSI       BUY
+22  ^N100       BUY
