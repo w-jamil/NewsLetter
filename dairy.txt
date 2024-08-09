@@ -6812,3 +6812,14 @@ TECH
  - EXELON CORP (EXC) $-234.0 
  - INTEL CORP (INTC) $-159.0 
  - COMCAST CORP-CLASS A (CMCSA) $0.0
+
+CRYPTO 
+ - PnL: $1.84 
+ - Risk, SD 4.45%, VaR 8.08% and CVaR 10.61% 
+ - Daily change, SD 24.74%, VaR 12.52% and CVaR 15.22% 
+ TOP-TWO 
+ - SUSHIUSD  $1.93 
+ - SHIBUSD  $0.64 
+ BOTTOM-TWO 
+ - BATUSD  $-0.29 
+ - CRVUSD  $-0.06
